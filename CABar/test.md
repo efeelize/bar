@@ -4,3 +4,4 @@
 
 - guagua is a bad guy.
 - guagua is a white dog.
+- test for commit using CMD
