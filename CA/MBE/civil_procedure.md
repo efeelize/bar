@@ -1,12 +1,5 @@
 # 一、管辖权移送
-
-- 被告提交removal请求把案子移送到联邦法院：（1）联邦专属管辖；（2）都有管辖权+争议超过$75000+对方是不同州的公民
-- 原告提交remand请求把案子移送到州法院：需要遵循home-court-advantage rule。forum-defendant rule：如果都有管辖权+案子起诉在被告所在的州法院，由州法院管辖，不可移送至联邦法院。
-
-> - federal-question jurisdiction – when a claim arises under the U.S. Constitution, a treaty, or federal law (not seen here) or
-> - diversity jurisdiction – when the amount in controversy exceeds $75,000 and the opposing parties are citizens of different states.
-
-## 1.a notice of removal[转联邦法院管辖]
+## 1.a notice of removal[被告请求移送联邦法院]
 
 > A Notice of Removal is a legal document that a defendant files with the court to move a case from state court to federal court. This is typically done when the defendant believes the case should be heard in federal court rather than state court, often due to issues like diversity of citizenship or federal question jurisdiction.
 
@@ -14,7 +7,15 @@
 
 #### (1)联邦法院有管辖权
 
-> the federal court has subject-matter jurisdiction over the plaintiff's claims—eg, when a claim arises under the U.S. Constitution, a treaty, or federal law
+- （1）subject-matter jurisdiction[联邦法院不管：人身相关事项]
+
+> - the federal court has subject-matter jurisdiction over the plaintiff's claims—eg, when a claim arises under the U.S. Constitution, a treaty, or federal law.
+> - State and federal courts have concurrent (ie, shared) jurisdiction over most state-law claims. The only substantive areas over which state courts have exclusive jurisdiction are probate matters (eg, authenticating a will) and domestic relations (eg, issuing a divorce).
+
+- （2）diversity jurisdiction[争议超过$75000+对方是不同州的citizen.citizen以提起诉讼至法院的时间点为准,包括搬家去了别的州]
+
+> - diversity jurisdiction – when the amount in controversy exceeds $75,000 and the opposing parties are citizens of different states.
+> - Citizenship is determined on the date that the plaintiff's complaint is filed with the court.including though both parties were State A citizens when they entered the contract and are currently State A citizens, the plaintiff was a State B citizen when he filed the complaint. As a result, the parties were diverse when the filing occurred—satisfying the requirements for diversity jurisdiction
 
 #### (2)被告同意
 
@@ -37,7 +38,9 @@
 
 > a copy of the notice of removal is delivered to the state court and the other parties
 
-## 2.A Motion to Remand[申请发回]
+## 2.A Motion to Remand[原告请求发回州法院]
+
+- 需要遵循home-court-advantage rule.(ie,forum-defendant rule)：如果都有管辖权+案子起诉在被告所在的州法院，由州法院管辖，不可移送至联邦法院。
 
 > A Motion to Remand is filed by a party (typically the plaintiff) to request the court to send a case back to state court after it has been removed to federal court. This is done when the plaintiff believes the removal was improper, usually due to a lack of federal jurisdiction or procedural defects in the removal process.
 
@@ -69,9 +72,10 @@
 ### 2.2 时间
 
 - 如果基于removal程序瑕疵，需要在removal后30天内提出；
-- 如果基于联邦法院没有subject matter jurisdiction/SMJ,可以在任何时候提出。
+- 如果基于联邦法院没有subject matter jurisdiction,可以在任何时候提出。包括答辩中未抗辩，之后再次提出，不因未抗辩视为放弃remand的权利。
 
-> A party can challenge removal by filing a motion to remand (ie, return) the case to state court. This motion must generally be filed in federal court within 30 days after the notice of removal is filed, but a motion based on lack of subject-matter jurisdiction can be filed at any time.
+> - A party can challenge removal by filing a motion to remand (ie, return) the case to state court. This motion must generally be filed in federal court within 30 days after the notice of removal is filed, but a motion based on lack of subject-matter jurisdiction can be filed at any time.
+> - Most defenses are waived if they are not asserted in a defendant's answer. But a defense based on lack of subject-matter jurisdiction is never waived and can be asserted by a party or raised by the court at any time—including after an answer has been filed.
 
 ### 2.3 举证责任
 
