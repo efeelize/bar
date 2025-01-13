@@ -18,12 +18,31 @@
 
 ## 2.A Motion to Remand[申请发回]
 
-- 如果基于removal程序瑕疵，需要在removal后30天内提出；
-- 如果基于联邦法院没有subject matter jurisdiction/SMJ,可以在任何时候提出。
-
 > - A Motion to Remand is filed by a party (typically the plaintiff) to request the court to send a case back to state court after it has been removed to federal court. This is done when the plaintiff believes the removal was improper, usually due to a lack of federal jurisdiction or procedural defects in the removal process.
 > - A motion for remand places the burden on the defendant to prove by a preponderance of the evidence that removal was proper.
 > - However, the federal court should remand the case back to state court if there was a procedural error in the removal. Since only defendants listed in the complaint may remove a case, a procedural error occurs when a case is removed by a party other than a defendant. This includes a party joined to the suit by a defendant's counterclaim.
+
+### 2.1 remand based on impropre removal
+
+#### (1)no subject matter jurisdiction
+
+|example|result|
+|-------|------|
+||No subject-matter jurisdiction over any claim|Remand entire case|
+|No subject-matter jurisdiction over some claims|(1)Retain removable claims;(2)Sever & remand nonremovable claims|
+
+#### （2）Procedural error
+
+- 如果基于removal程序瑕疵，需要在removal后30天内提出；
+- 如果基于联邦法院没有subject matter jurisdiction/SMJ,可以在任何时候提出。
+
+|example|result|
+|-------|------|
+|Defendant filed notice of removal more than 30 days after|Remand entire case|
+|Not all defendants consented to removal|Remand entire case|
+|Case removed by plaintiff (not defendant)|Remand entire case|
+|Notice not delivered to parties or state court|Remand entire case|
+|Removal violates forum-defendant rule|Remand entire case|
 
 ## 3.home-court-advantage rule
 
