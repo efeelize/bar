@@ -111,14 +111,36 @@
 
 ## 1.methods of serving process in U.S
 
+> failure to prove service in the U.S. or abroad does not affect the validity of the service.
+
 ### （1）individual
 
-- Following state law where district court is located or where service is made
-- Personally serving defendant with summons & complaint
-- Leaving summons & complaint at defendant's dwelling with someone of suitable age & discretion who resides there
+- Following state law where district court is located or where service is made.
+- Personally serving defendant with summons & complaint.
+- Leaving summons & complaint at defendant's dwelling with someone of suitable age & discretion who resides there.
 
 ### （2）organization
 
-- Delivering summons & complaint to defendant's authorized agent
-- Following state law where district court is located or where service is made
+- Delivering summons & complaint to defendant's authorized agent.
+- Following state law where district court is located or where service is made.
 - Delivering summons & complaint to officer, managing or general agent, or authorized agent & mailing those documents to defendant if required by statute.
+
+### (3)Service in a foreign country
+
+- pursuant to an applicable treaty or convention
+- by a receipt signed by the addressee
+- by other evidence that satisfies the court
+
+## 2.条件
+
+### 2.1 18岁以上[federal process]+非当事人[律师可以]
+
+> - A defendant receives proper notice when someone who is at least 18 years old and not a party to the suit serves the defendant with a summons and complaint.
+> - However, any nonparty who is at least 18 years old can serve process. If service was not waived and occurred within the U.S., the process server must typically file a proof of service affidavit
+
+### 2.2 按照法院所在州或送达所在州的送达程序法律送达联邦诉讼
+
+- 对未成年人、限制或无民事行为能力人[incomptent person]的送达只能适用州法。
+
+> - And under Federal Rule of Civil Procedure (FRCP) 4, any defendant (an individual or organization) can be served for a federal suit by following the state law for serving process in the state where the court is located or where service is made.
+> - ie,the student sued the university (organization) and its athletic director (individual) in federal court in State B. Since the defendants can be served under the civil procedure rules of State B (where the court is located), this is the best method of serving both defendants.
