@@ -1,4 +1,5 @@
 # 一、管辖权移送
+
 ## 1.a notice of removal[被告请求移送联邦法院]
 
 > A Notice of Removal is a legal document that a defendant files with the court to move a case from state court to federal court. This is typically done when the defendant believes the case should be heard in federal court rather than state court, often due to issues like diversity of citizenship or federal question jurisdiction.
@@ -106,3 +107,9 @@
 > - A forum-selection clause is a contractual provision that designates the location and/or court where any dispute between the parties must be adjudicated. Although such clauses are generally enforceable, federal courts strictly follow the rules regarding removal—including the home-court-advantage rule—over these clauses.
 > - To enforce a forum-selection clause requiring that a dispute be resolved in federal court, a defendant would need to move to dismiss the state court action. If the state court dismisses the action, the plaintiff would then need to refile the case in federal court
 
+## 二、service
+
+## 1.methods of serving process in U.S.
+
+### （1）individual
+- 
