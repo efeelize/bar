@@ -3,16 +3,28 @@
 - 被告提交removal请求把案子移送到联邦法院：（1）联邦专属管辖；（2）都有管辖权+争议超过$75000+对方是不同州的公民
 - 原告提交remand请求把案子移送到州法院：需要遵循home-court-advantage rule。forum-defendant rule：如果都有管辖权+案子起诉在被告所在的州法院，由州法院管辖，不可移送至联邦法院。
 
+> - federal-question jurisdiction – when a claim arises under the U.S. Constitution, a treaty, or federal law (not seen here) or
+> - diversity jurisdiction – when the amount in controversy exceeds $75,000 and the opposing parties are citizens of different states.
+
 ## 1.a notice of removal[转联邦法院管辖]
 
+### 1.1 条件
+
+- 联邦法院有管辖权
+
+> the federal court has subject-matter jurisdiction over the plaintiff's claims—eg, when a claim arises under the U.S. Constitution, a treaty, or federal law
+
 - 只能由被告提出[因反诉而进入案件的被告无权提起]+每个被告都必须同意[When a case has more than one defendant, the consent of all defendants must be obtained before the case can be removed from state to federal court.]；
+> 
+
 - 必须在发现可以转联邦管辖之时起30日内提出，且在diversity案件中最长不能超过受理后1年，但原告恶意利用该规则除外[如无新事实，却卡时间点增加诉请金额超过$75000]；
+
+> 
+
 - 材料递交：州法院所在地区的联邦法院+copy送达给各方当事人+州法院->州法院收到通知后暂停审理
 
 > - A Notice of Removal is a legal document that a defendant files with the court to move a case from state court to federal court. This is typically done when the defendant believes the case should be heard in federal court rather than state court, often due to issues like diversity of citizenship or federal question jurisdiction.
 > - Only defendants listed in the plaintiff's complaint have the power to remove a case from state to federal court. A party joined to the suit through a counterclaim is not considered a defendant for removal purposes.
-> - federal-question jurisdiction – when a claim arises under the U.S. Constitution, a treaty, or federal law (not seen here) or
-> - diversity jurisdiction – when the amount in controversy exceeds $75,000 and the opposing parties are citizens of different states.
 > - The defendant must file a notice of removal in federal court within 30 days after receiving the initial complaint or service of the summons—whichever period is shorter.
 > - After removal, if a plaintiff seeks to join additional defendants who would destroy diversity jurisdiction, the federal court may deny joinder and proceed with the case OR permit joinder and remand the case to state court
 
