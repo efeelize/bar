@@ -20,6 +20,7 @@
 
 - 只能由被告提出[因反诉而进入案件的被告无权提起]+每个被告都必须同意[When a case has more than one defendant, the consent of all defendants must be obtained before the case can be removed from state to federal court.]；
 
+> - A plaintiff cannot remove a case, even if there is a risk of bias and impropriety in having the case proceed before a hostile state-court judge.
 > - Only defendants listed in the plaintiff's complaint have the power to remove a case from state to federal court. A party joined to the suit through a counterclaim is not considered a defendant for removal purposes.
 > - After removal, if a plaintiff seeks to join additional defendants who would destroy diversity jurisdiction, the federal court may deny joinder and proceed with the case OR permit joinder and remand the case to state court.
 > - However, the federal court should remand the case back to state court if there was a procedural error in the removal. Since only defendants listed in the complaint may remove a case, a procedural error occurs when a case is removed by a party other than a defendant. This includes a party joined to the suit by a defendant's counterclaim.
@@ -44,6 +45,8 @@
 
 #### (1)no subject matter jurisdiction
 
+- Had the federal court lacked subject-matter jurisdiction over some of the plaintiff's claims (eg, plaintiff's state claims), it would have remanded those claims but kept the removable claims (eg, plaintiff‘s federal claims).
+
 |example|result|
 |-------|------|
 |No subject-matter jurisdiction over any claim|Remand entire case|
@@ -52,6 +55,8 @@
 #### （2）Procedural error
 
 - If there was a procedural error in the removal, the federal court should remand the entire case to state court.
+
+- The federal court clerk must mail a certified copy of the remand order to the state court clerk. The order may require payment of costs, including attorney's fees. But if a remand is based on procedural error, attorney's fees can only be awarded if there was no objectively reasonable basis for removal.
 
 |example|result|
 |-------|------|
