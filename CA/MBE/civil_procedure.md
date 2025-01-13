@@ -84,32 +84,41 @@
 
 > a preponderance of the evidence is a legal standard used in civil cases to determine the burden of proof. It means that one party's version of events is more likely true than not. In other words, the evidence presented by one party must outweigh that presented by the opposing party, showing that the claim is more probable than not (i.e., greater than 50% likelihood).
 
-## 3.home-court-advantage rule
+### 2.4 home-court-advantage rule
 
-### 3.1 meaning
+#### （1）meaning
 
 > The term refers to the perceived advantage of a party litigating in its home jurisdiction or a jurisdiction more favorable to its case.
 
-### 3.2 Examples include
+#### （2）Examples include
 
 - Familiarity with local laws, judges, and court procedures.
 - Easier access to evidence and witnesses.
 - Reduced travel costs and logistical challenges.
 - Jurisdiction-specific bias in favor of local plaintiffs or defendants.
 
-### 3.3 The forum-defendant rule
+#### （3）The forum-defendant rule
 
 > - The forum-defendant rule is a legal principle under U.S. federal law that restricts the removal of certain cases from state court to federal court when certain conditions are met. The rule is codified in 28 U.S.C. § 1441(b)(2), which states:A civil action otherwise removable solely on the basis of [diversity jurisdiction] may not be removed if any of the parties in interest properly joined and served as defendants is a citizen of the state in which such action is brought.
 > - This rule prohibits removal when subject-matter jurisdiction[对事管辖权] arises from diversity jurisdiction and a defendant is a citizen of the state where the case was filed.
 
-### 3.4 forum-selection clause
+### 2.5 forum-selection clause
 
 > - A forum-selection clause is a contractual provision that designates the location and/or court where any dispute between the parties must be adjudicated. Although such clauses are generally enforceable, federal courts strictly follow the rules regarding removal—including the home-court-advantage rule—over these clauses.
 > - To enforce a forum-selection clause requiring that a dispute be resolved in federal court, a defendant would need to move to dismiss the state court action. If the state court dismisses the action, the plaintiff would then need to refile the case in federal court
 
 ## 二、service
 
-## 1.methods of serving process in U.S.
+## 1.methods of serving process in U.S
 
 ### （1）individual
-- 
+
+- Following state law where district court is located or where service is made
+- Personally serving defendant with summons & complaint
+- Leaving summons & complaint at defendant's dwelling with someone of suitable age & discretion who resides there
+
+### （2）organization
+
+- Delivering summons & complaint to defendant's authorized agent
+- Following state law where district court is located or where service is made
+- Delivering summons & complaint to officer, managing or general agent, or authorized agent & mailing those documents to defendant if required by statute.
