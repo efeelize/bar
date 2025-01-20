@@ -1,4 +1,13 @@
-# 一、管辖权移送
+# 一、管辖
+
+## 1.personal jurisdiction
+
+> A court must have personal jurisdiction—ie, authority over the parties (or property) before it—to hear a dispute. Personal jurisdiction can be established through specific jurisdiction, which exists when:
+>
+> - the plaintiff's **claim arises** from or is **closely related** to the defendant's minimum contacts with the forum state and
+> - the exercise of jurisdiction complies with notions of **fair play and substantial justice**.
+
+# 二、管辖权移送
 
 ## 1.a notice of removal[被告请求移送联邦法院]
 
@@ -17,6 +26,8 @@
 
 > - diversity jurisdiction – when the amount in controversy exceeds $75,000 and the opposing parties are citizens of different states.
 > - Citizenship is determined on the date that the plaintiff's complaint is filed with the court.including though both parties were State A citizens when they entered the contract and are currently State A citizens, the plaintiff was a State B citizen when he filed the complaint. As a result, the parties were diverse when the filing occurred—satisfying the requirements for diversity jurisdiction
+> - [未成年人、无民事行为能力人的法代的citizenship由被代理人决定]Citizenship is usually determined by the domiciles of the named parties to the suit. For purposes of diversity jurisdiction, the citizenship of a legal representative is determined by the domicile of the minor, legally incompetent person, or decedent on whose behalf the legal representative acts.
+> - [单个原告起诉单个被告，金额可累计]To satisfy the amount-in-controversy requirement, a single plaintiff can aggregate (ie, combine) claims asserted against a single defendant.
 
 #### (2)被告同意
 
@@ -50,6 +61,7 @@
 #### (1)no subject matter jurisdiction
 
 - Had the federal court lacked subject-matter jurisdiction over some of the plaintiff's claims (eg, plaintiff's state claims), it would have remanded those claims but kept the removable claims (eg, plaintiff‘s federal claims).
+- note:When a dispute involves multiple claims and only some fall within the court's original subject-matter jurisdiction, supplemental jurisdiction may exist over the remaining claims.
 
 |example|result|
 |-------|------|
@@ -107,7 +119,7 @@
 > - A forum-selection clause is a contractual provision that designates the location and/or court where any dispute between the parties must be adjudicated. Although such clauses are generally enforceable, federal courts strictly follow the rules regarding removal—including the home-court-advantage rule—over these clauses.
 > - To enforce a forum-selection clause requiring that a dispute be resolved in federal court, a defendant would need to move to dismiss the state court action. If the state court dismisses the action, the plaintiff would then need to refile the case in federal court
 
-## 二、service
+## 三、送达【service】
 
 ## 1.methods of serving process in U.S
 
@@ -144,3 +156,16 @@
 
 > - And under Federal Rule of Civil Procedure (FRCP) 4, any defendant (an individual or organization) can be served for a federal suit by following the state law for serving process in the state where the court is located or where service is made.
 > - ie,the student sued the university (organization) and its athletic director (individual) in federal court in State B. Since the defendants can be served under the civil procedure rules of State B (where the court is located), this is the best method of serving both defendants.
+
+## 四、Joinder
+
+- 补充管辖：When a dispute involves multiple claims and one falls outside of the court's original jurisdiction, the court may exercise supplemental jurisdiction over that claim. However, the court can only do so if the claims are so related that they share a common nucleus of operative facts.
+
+- diversity jurisdiction 中的$75,000的要求共同诉讼中可以合并计算,但是counter claim[基于不同事由],crossclaim 需单独计算，不可合本诉合并计算金额。
+
+> - a single plaintiff may only aggregate (ie, combine) claims against multiple defendants if the plaintiff alleges that they are jointly liable.
+> - the consumer's claim concerning a kitchen appliance is unrelated to the retailer's crossclaim concerning power tools, so the court lacks supplemental jurisdiction over the crossclaim.
+
+## 3.1 crossclaim
+
+> A crossclaim is a claim brought by one party against a co-party in the same lawsuit. Co-parties are typically defendants or plaintiffs on the same side of a case. A crossclaim arises when one party believes that a co-party is partially or fully responsible for the harm or liability at issue, or has a related legal claim arising out of the same transaction or occurrence.
