@@ -2,10 +2,34 @@
 
 ## 1.personal jurisdiction
 
+### （1）sepcific jurisdiction/长臂管辖[long arm statutes]
+
+- Specific jurisdiction exists when the claim arises from or is closely related to the defendant's contacts with the forum state[*ie,A forum state is the jurisdiction (typically a state or country) where a legal case is filed and heard.*] such that the exercise of personal jurisdiction complies with fair play and substantial justice.
+
+- No state has specific jurisdiction over a claim when it is based on events that occurred in the foreign country.
+
 > A court must have personal jurisdiction—ie, authority over the parties (or property) before it—to hear a dispute. Personal jurisdiction can be established through specific jurisdiction, which exists when:
 >
 > - the plaintiff's **claim arises** from or is **closely related** to the defendant's minimum contacts with the forum state and
 > - the exercise of jurisdiction complies with notions of **fair play and substantial justice**.
+
+### (2)general jurisdiction
+
+- General jurisdiction exists when the defendant's contacts with the forum state make the defendant "at home" there.
+
+> personal jurisdiction can also be established through general jurisdiction. This exists when the defendant has continuous and systematic contacts with the forum state that are so substantial that the defendant is essentially "at home" in that state. Home is where the defendant is domiciled.
+
+#### (2.1)person/state of residence
+
+#### (2.2)corporation/state of incorporation or headquarters
+
+> - eg, the shoe company was incorporated in State A and has its principal place of business in State B. And though the company conducts business and stores inventory in State C, this is not where the company is domiciled.
+
+### (3)other grounds
+
+#### （3.1）service of process
+
+#### (3.2) consent
 
 # 二、管辖权移送
 
@@ -125,32 +149,34 @@
 
 > failure to prove service in the U.S. or abroad does not affect the validity of the service.
 
-### （1）individual
+### 1.1 individual
 
 - Following state law where district court is located or where service is made.
 - Personally serving defendant with summons & complaint.
 - Leaving summons & complaint at defendant's dwelling with someone of suitable age & discretion who resides there.
 
-### （2）organization
+### 1.2 organization
 
 - Delivering summons & complaint to defendant's authorized agent.
 - Following state law where district court is located or where service is made.
 - Delivering summons & complaint to officer, managing or general agent, or authorized agent & mailing those documents to defendant if required by statute.
 
-### (3)Service in a foreign country
+## 2.Methods of serving process in foreign country
+
+| 
 
 - pursuant to an applicable treaty or convention
 - by a receipt signed by the addressee
 - by other evidence that satisfies the court
 
-## 2.条件
+## 3.条件
 
-### 2.1 18岁以上[federal process]+非当事人[律师可以]
+### 3.1 18岁以上[federal process]+非当事人[律师可以]
 
 > - A defendant receives proper notice when someone who is at least 18 years old and not a party to the suit serves the defendant with a summons and complaint.
 > - However, any nonparty who is at least 18 years old can serve process. If service was not waived and occurred within the U.S., the process server must typically file a proof of service affidavit
 
-### 2.2 按照法院所在州或送达所在州的送达程序法律送达联邦诉讼
+### 3.2 按照法院所在州或送达所在州的送达程序法律送达联邦诉讼
 
 - 对未成年人、限制或无民事行为能力人[incomptent person]的送达只能适用州法。
 
