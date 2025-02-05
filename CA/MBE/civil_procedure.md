@@ -163,18 +163,33 @@
 
 ## 2.Methods of serving process in foreign country
 
-| 
+### 2.1 individual or organization
 
-- pursuant to an applicable treaty or convention
-- by a receipt signed by the addressee
-- by other evidence that satisfies the court
+|method|result|
+|-------|------|
+|Following international agreement reasonably calculated to give notice|/|
+|If no international agreement & not prohibited by federal law|(1)following foreign country's rules|
+|If no international agreement & not prohibited by federal law|(2)as foreign country directs in response to letter rogatory or|
+|If no international agreement & not prohibited by federal law|(3)unless prohibited by foreign country, by personal delivery or mail with request for signed return receipt|
+
+- organizations cannot be served by personal delivery in foreign countries.
+
+### 2.2 Foreign government
+
+|method|result|
+|-------|------|
+|Following court order, unless prohibited by international agreement|/|
+|Following special arrangement between plaintiff & foreign state|/|
+|If no special arrangement|by international convention|
+|If no convention|by mail to head of foreign affairs ministry with request for signed return receipt|
+|If service by mail cannot be made within 30 days|by sending two copies to U.S. Secretary of State via mail requiring signed receipt|
 
 ## 3.条件
 
 ### 3.1 18岁以上[federal process]+非当事人[律师可以]
 
 > - A defendant receives proper notice when someone who is at least 18 years old and not a party to the suit serves the defendant with a summons and complaint.
-> - However, any nonparty who is at least 18 years old can serve process. If service was not waived and occurred within the U.S., the process server must typically file a proof of service affidavit
+> - However, any nonparty who is at least 18 years old can serve process. If service was not waived and occurred within the U.S., the process server must typically file a proof of service affidavit.
 
 ### 3.2 按照法院所在州或送达所在州的送达程序法律送达联邦诉讼
 
