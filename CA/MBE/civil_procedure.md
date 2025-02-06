@@ -143,40 +143,36 @@
 > - A forum-selection clause is a contractual provision that designates the location and/or court where any dispute between the parties must be adjudicated. Although such clauses are generally enforceable, federal courts strictly follow the rules regarding removal—including the home-court-advantage rule—over these clauses.
 > - To enforce a forum-selection clause requiring that a dispute be resolved in federal court, a defendant would need to move to dismiss the state court action. If the state court dismisses the action, the plaintiff would then need to refile the case in federal court
 
-## 三、送达【service】
+## 三、送达【service：procedural rules + due process】
 
-## 1.methods of serving process in U.S
+### 1.methods of serving process in U.S
 
 > failure to prove service in the U.S. or abroad does not affect the validity of the service.
 
-### 1.1 individual
+|individual method|notes|
+|-------|------|
+|Personal service.|when process is delivered in person to the defendant.|
+|Substituted service:Following state law where district court is located or where service is made.|when process is delivered to the defendant's agent or left at the defendant's dwelling with a resident of suitable age and discretion|
+|State procedural rules.|when process is served pursuant to the rules of the state where the court sits or service is attempted|
 
-- 1）Personal service.**when process is delivered in person to the defendant.**
-- 2）Substituted service.Following state law where district court is located or where service is made.**when process is delivered to the defendant's agent or left at the defendant's dwelling with a resident of suitable age and discretion**
-- 3）State procedural rules.**when process is served pursuant to the rules of the state where the court sits or service is attempted**
+|organization method|notes|
+|-------|------|
+|Delivering summons & complaint to defendant's authorized agent.|/|
+|Substituted service:Following state law|where district court is located or where service is made.|
+|Delivering summons & complaint to officer, managing or general agent, or authorized agent & mailing those documents to defendant if required by statute.|/|
 
-### 1.2 organization
+### 2.Methods of serving process in foreign country
 
-- 1）Delivering summons & complaint to defendant's authorized agent.
-- 2）Following state law where district court is located or where service is made.
-- 3）Delivering summons & complaint to officer, managing or general agent, or authorized agent & mailing those documents to defendant if required by statute.
+- organizations cannot be served by personal delivery in foreign countries.
 
-## 2.Methods of serving process in foreign country
-
-### 2.1 individual or organization
-
-|method|result|
+|individual or organization method|result|
 |-------|------|
 |Following international agreement reasonably calculated to give notice|/|
 |If no international agreement & not prohibited by federal law|(1)following foreign country's rules|
 |If no international agreement & not prohibited by federal law|(2)as foreign country directs in response to letter rogatory or|
 |If no international agreement & not prohibited by federal law|(3)unless prohibited by foreign country, by personal delivery or mail with request for signed return receipt|
 
-- organizations cannot be served by personal delivery in foreign countries.
-
-### 2.2 Foreign government
-
-|method|result|
+|Foreign government method|result|
 |-------|------|
 |Following court order, unless prohibited by international agreement|/|
 |Following special arrangement between plaintiff & foreign state|/|
@@ -184,19 +180,26 @@
 |If no convention|by mail to head of foreign affairs ministry with request for signed return receipt|
 |If service by mail cannot be made within 30 days|by sending two copies to U.S. Secretary of State via mail requiring signed receipt|
 
-## 3.条件
+### 3.due process
 
-### 3.1 18岁以上[federal process]+非当事人[律师可以]
+> the plaintiff must notify the defendant of the lawsuit by the most reasonable means under the circumstances.
+
+#### (1) 18岁以上[federal process]+非当事人[律师可以]
 
 > - A defendant receives proper notice when someone who is at least 18 years old and not a party to the suit serves the defendant with a summons and complaint.
 > - However, any nonparty who is at least 18 years old can serve process. If service was not waived and occurred within the U.S., the process server must typically file a proof of service affidavit.
 
-### 3.2 按照法院所在州或送达所在州的送达程序法律送达联邦诉讼
+#### (2) 按照法院所在州或送达所在州的送达程序法律送达联邦诉讼
 
 - 对未成年人、限制或无民事行为能力人[incomptent person]的送达只能适用州法。
 
 > - And under Federal Rule of Civil Procedure (FRCP) 4, any defendant (an individual or organization) can be served for a federal suit by following the state law for serving process in the state where the court is located or where service is made.
 > - ie,the student sued the university (organization) and its athletic director (individual) in federal court in State B. Since the defendants can be served under the civil procedure rules of State B (where the court is located), this is the best method of serving both defendants.
+
+#### (3)Service by publication
+
+- It means in the rare instance when the defendant's identity or address is unknown and unobtainable.
+- But if the plaintiff knows or can reasonably obtain this information, a more reasonable means of service must be used.
 
 ## 四、Joinder
 
