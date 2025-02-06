@@ -151,15 +151,15 @@
 
 ### 1.1 individual
 
-- Following state law where district court is located or where service is made.
-- Personally serving defendant with summons & complaint.
-- Leaving summons & complaint at defendant's dwelling with someone of suitable age & discretion who resides there.
+- 1）Personal service.**when process is delivered in person to the defendant.**
+- 2）Substituted service.Following state law where district court is located or where service is made.**when process is delivered to the defendant's agent or left at the defendant's dwelling with a resident of suitable age and discretion**
+- 3）State procedural rules.**when process is served pursuant to the rules of the state where the court sits or service is attempted**
 
 ### 1.2 organization
 
-- Delivering summons & complaint to defendant's authorized agent.
-- Following state law where district court is located or where service is made.
-- Delivering summons & complaint to officer, managing or general agent, or authorized agent & mailing those documents to defendant if required by statute.
+- 1）Delivering summons & complaint to defendant's authorized agent.
+- 2）Following state law where district court is located or where service is made.
+- 3）Delivering summons & complaint to officer, managing or general agent, or authorized agent & mailing those documents to defendant if required by statute.
 
 ## 2.Methods of serving process in foreign country
 
