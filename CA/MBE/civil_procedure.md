@@ -13,14 +13,10 @@
 
 ## 2.sepcific jurisdiction/长臂管辖[long arm statutes]
 
-> 长臂管辖指，被告虽然未出现在法院辖区范围内，但仍将被视为受州法院的属人管辖。长臂管辖同时适用于外国和外州两类非居民。
-
-- Specific jurisdiction exists when the claim arises from or is closely related to the defendant's contacts with the forum state[**ie,A forum state is the jurisdiction (typically a state or country) where a legal case is filed and heard.**] such that the exercise of personal jurisdiction complies with fair play and substantial justice.
-
 - No state has specific jurisdiction over a claim when it is based on events that occurred in the foreign country.
 
-> A court must have personal jurisdiction—ie, authority over the parties (or property) before it—to hear a dispute. Personal jurisdiction can be established through specific jurisdiction, which exists when:
->
+> - Specific jurisdiction exists when the claim arises from or is closely related to the defendant's contacts with the forum state[**ie,A forum state is the jurisdiction (typically a state or country) where a legal case is filed and heard.**] such that the exercise of personal jurisdiction complies with fair play and substantial justice.【长臂管辖指，被告虽然未出现在法院辖区范围内，但仍将被视为受州法院的属人管辖。长臂管辖同时适用于外国和外州两类非居民。】
+> - A court must have personal jurisdiction—ie, authority over the parties (or property) before it—to hear a dispute. Personal jurisdiction can be established through specific jurisdiction, which exists when:
 > - the plaintiff's **claim arises** from or is **closely related** to the defendant's minimum contacts with the forum state and
 > - the exercise of jurisdiction complies with notions of **fair play and substantial justice**.
 
@@ -152,13 +148,19 @@
 
 # 四、venue
 
-## 1.Venue is proper in any district where:
+## 1.Venue is proper in any district where
 
-- any defendant resides, if all defendants reside in the same state (ie, residency-based venue)
-- a substantial part of the events that gave rise to the suit occurred (ie, events-based venue) or a substantial part of the property is located (ie, property-based venue) or
-- any defendant is subject to the court's personal jurisdiction—but only if neither of the above provisions applies (ie, fallback provision).
+- (1)any defendant resides, if all defendants reside in the same state (ie, residency-based venue)
+- (2)a substantial part of the events that gave rise to the suit occurred (ie, events-based venue) or a substantial part of the property is located (ie, property-based venue) or
+- (3)any defendant is subject to the court's personal jurisdiction—but only if neither of the above provisions applies (ie, fallback provision).
+
+## 2.personal jurisdiction + a proper venue
+
+> To hear a dispute, a federal court must have personal jurisdiction over the defendant and be a proper venue in which the case can be heard.
 
 # 五、Joinder
+
+## 1.counter claim
 
 - diversity jurisdiction 中的$75,000的要求共同诉讼中可以合并计算,但是counter claim[基于不同事由],crossclaim 需单独计算，不可合本诉合并计算金额。
 
