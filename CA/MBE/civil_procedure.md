@@ -4,15 +4,11 @@
 
 ## 1.general jurisdiction
 
-- General jurisdiction exists when the defendant's contacts with the forum state make the defendant "at home" there.
-
-> personal jurisdiction can also be established through general jurisdiction. This exists when the defendant has continuous and systematic contacts with the forum state that are so substantial that the defendant is essentially "at home" in that state. Home is where the defendant is domiciled.
-
-### 1.1 对人身管辖权（In Personam Jurisdiction）
-
 - person:住所地 [state of residence].
 - corporation:state of incorporation [注册地] or headquarters [主要营业地].
 
+> - General jurisdiction exists when the defendant's contacts with the forum state make the defendant "at home" there.
+> - personal jurisdiction can also be established through general jurisdiction. This exists when the defendant has continuous and systematic contacts with the forum state that are so substantial that the defendant is essentially "at home" in that state. Home is where the defendant is domiciled.
 > - eg, the shoe company was incorporated in State A and has its principal place of business in State B. And though the company conducts business and stores inventory in State C, this is not where the company is domiciled.
 
 ## 2.sepcific jurisdiction/长臂管辖[long arm statutes]
