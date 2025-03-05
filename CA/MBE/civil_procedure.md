@@ -146,17 +146,18 @@
 > - The key reason for this restriction is that supplemental jurisdiction is meant to allow federal courts to hear claims that are related to a case already under federal jurisdiction.
 > - A court is generally permitted to exercise supplemental jurisdiction over a claim that does not satisfy subject-matter jurisdiction when that claim shares a common nucleus of operative facts as a claim originally within the court's subject-matter jurisdiction.
 
-# 四、venue
+# 四、venue【确定哪个具体地点的联邦法院或州法院管辖】
 
-## 1.Venue is proper in any district where
+## 1.联邦法院确定venue
+
+> - To hear a dispute, a federal court must have personal jurisdiction over the defendant and be a proper venue in which the case can be heard.
+> - 如果所有被告住所地均在同一个州时，原告可以选择该州所在地或引起主要诉讼请求发生地的联邦法院管辖。如果所有被告住所地不在同一个州时，案件由引起主要诉讼请求发生地的联邦法院管辖。但如果多个被告居住在同一个州的不同联邦法院管辖区域（District）的，原告可以选择该州的任何一个（District）联邦法院作为管辖法院和审判地点。
 
 - (1)any defendant resides, if all defendants reside in the same state (ie, residency-based venue)
 - (2)a substantial part of the events that gave rise to the suit occurred (ie, events-based venue) or a substantial part of the property is located (ie, property-based venue) or
 - (3)any defendant is subject to the court's personal jurisdiction—but only if neither of the above provisions applies (ie, fallback provision).
 
-## 2.personal jurisdiction + a proper venue
-
-> To hear a dispute, a federal court must have personal jurisdiction over the defendant and be a proper venue in which the case can be heard.
+## 2.每个州的民事诉讼法关于如何确定Venue的规定不尽相同
 
 # 五、Joinder
 
