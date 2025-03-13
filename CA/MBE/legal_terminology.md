@@ -1,4 +1,4 @@
-# as the sole
+# 1.as the sole
 
 > "As the sole" means "as the only one" in a particular role or capacity. It implies exclusivity.
 
@@ -8,5 +8,4 @@
 
 - "As the sole defendant in the case, he had to defend himself alone." (He was the only defendant.)
 
-
-
+# 2.
