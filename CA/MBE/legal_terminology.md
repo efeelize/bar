@@ -1,11 +1,11 @@
 # 1.as the sole
 
-> "As the sole" means "as the only one" in a particular role or capacity. It implies exclusivity.
+- It means "as the only one" in a particular role or capacity. It implies exclusivity.
 
-- "As the sole representative of the company, I handled the negotiations." (You were the only representative.)
+# 2.A lump-sum payment 
 
-- "As the sole owner of the business, she makes all the decisions." (She is the only owner.)
+- It is a one-time payment of the entire amount owed, rather than spreading payments out over time in installments.
 
-- "As the sole defendant in the case, he had to defend himself alone." (He was the only defendant.)
+# 3.prevail
 
-# 2.
+- To Win a Case – A party that "prevails" in a lawsuit is the one that wins the judgment or achieves a favorable outcome.
