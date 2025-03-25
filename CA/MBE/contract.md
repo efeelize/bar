@@ -102,6 +102,10 @@
 
 - Exceptions: promissory estoppel, delivery of document symbolizing assigned right (eg, stock certificate), delivery of written & signed assignment.
 
+- There is no rule that makes a contract modification ineffective as to an assignee simply because the assignee had no **notice** of it.
+
+- if one party in an agreement decides to waive or forgive a condition (a requirement that must be met for the contract to be fully enforced) for a specific performance or act, they still have the right to reinstate or re-enforce that condition for any future actions or performances under the agreement. However, that rule is **not applicable** here because the parties modified the contract by mutual agreement and the opportunity to reinstate a condition was no longer available.
+
 ### 2.2 Silent as to assignment
 
 > "Silent as to assignment" means that a contract or legal document does not include any provisions addressing whether rights or obligations under the agreement can be assigned to another party. When a contract is silent on assignment, the default legal rule in the relevant jurisdiction typically applies.
