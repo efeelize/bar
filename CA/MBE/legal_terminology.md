@@ -23,4 +23,8 @@
 
 > "Disaffirm" means to reject, repudiate, or declare something as void. It is commonly used in legal contexts to refer to the act of denying or refusing to uphold a contract, agreement, or obligation. For example, a minor can disaffirm a contract they entered into before reaching the age of majority, making it unenforceable.
 
+# voidable
+
+> "Voidable" refers to a legal agreement or contract that is valid and enforceable but can be declared invalid by one of the parties due to specific legal reasons. Unlike a void contract, which is invalid from the outset and has no legal effect, a voidable contract remains in force until the party with the right to void it chooses to do so.
+
 # 
