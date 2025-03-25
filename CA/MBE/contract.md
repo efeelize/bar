@@ -1,13 +1,25 @@
 # 一、合同的形成
 
 # 二、合同的有效性 & 可执行性
-# 1.minors
+
+# 1.incapacity due to infancy
 
 > Unmarried, unemancipated minors (ie, persons under the age of 18) lack capacity to contract because of their infancy. As a result, any contract entered by a minor is voidable by the minor.This means that the minor can either：
 
 - ***void*** the contract before or soon after turning 18 by (1) disaffirming the contract through words or actions and (2) returning any still-existing benefit received under the contract or
 
 - ***ratify*** the contract after turning 18 by (1) failing to timely void the contract or (2) otherwise agreeing to be bound by it—eg, by attempting to render performance of or payment under the contract.
+
+> By statute in some jurisdictions, certain contracts entered by a minor (eg, student loanagreements, insurance contracts) are not voidable by the minor but instead are fullyenforceable by the other contracting party.
+
+|阶段|情形|合同效力|
+| -- | -- | -- |
+| if minor,before or soon after turning 18 | disaffirms contract | voided |
+| if minor,before or soon after turning 18 | returns any still-existing benefit received under contract | voided |
+| if minor,after turning 18 | fails to timely void contract | ratified |
+| if minor,after turning 18 | agrees to be bound by contract | ratified |
+| if contract is for necessitites(food,clothing,medicine) | disaffirm contract but must pay value of benefits received | exception | 
+
 
 # 三、合同的修改
 
