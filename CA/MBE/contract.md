@@ -14,12 +14,31 @@
 
 |阶段|情形|合同效力|
 | -- | -- | -- |
-| if minor,before or soon after turning 18 | disaffirms contract | voided |
+| if minor,before or soon after turning 18 | disaffirms contract | voided[无效] |
 | if minor,before or soon after turning 18 | returns any still-existing benefit received under contract | voided |
 | if minor,after turning 18 | fails to timely void contract | ratified |
 | if minor,after turning 18 | agrees to be bound by contract | ratified |
 | if contract is for necessitites(food,clothing,medicine) | disaffirm contract but must pay value of benefits received | exception | 
 
+## 2.mental inllness
+
+> Mental capacity so deficient that party cannot reasonably understand (or act in relation to) nature or consequences of contract AND other party had reason to know
+
+- Voidable[可撤销的] if disaffirmed by incapacitated party when lucid[清醒的] or by legal representative.
+
+## 3.intoxication [醉酒（或吸毒、麻醉、被药物影响）]
+
+> Party too intoxicated to reasonably understand (or act in relation to) nature or consequences of contract AND other party had reason to know
+
+- Voidable[可撤销的] if promptly disaffirmed by intoxicated party upon becoming sober.
+
+- Intoxicated party must offer to return any consideration received & may be liable for fair value of goods or services provided
+
+## 4.fraud
+
+> A contract need only be in writing and signed by the party to be charged if it falls within the statute of frauds. This rule applies to contracts for the sale of goods for $500 or more.
+
+- Under the Uniform Commercial Code (UCC) § 2-201, contracts for the sale of goods worth $500 or more must be in writing to be enforceable.
 
 # 三、合同的修改
 
@@ -27,10 +46,10 @@
 
 |情形|结果|
 | -- | -- |
-| misunderstanding | 没有合同、没有合意 |
-| 胁迫 | 没有合同、没有合意 |
-| 以违法、违反公序良俗为直接目的 | 没有合同、没有合意 |
-| 被监护人接管的精神病人签订的合同 | 没有合同、没有合意 |
+| misunderstanding | 没有合同、没有合意(void) |
+| 胁迫（duress） | 没有合同、没有合意(void) |
+| 以违法（illegal）、违反公序良俗（contrary to public policy）为直接目的 | 没有合同、没有合意(void) |
+| 被监护人接管的精神病人签订的合同 | 没有合同、没有合意(void) |
 |没有对价、虚无的对价| 无法执行（unenforceable）|
 | 违反反欺诈 | 无法执行（unenforceable）|
 | 不合情理（unconscionable）| 无法执行（unenforceable）|
@@ -51,6 +70,27 @@
 
 - When one party to a contract knows or has reason to know that the other party attaches a different meaning to a material term, then the unknowing party's meaning of the term will control.
 
+## 2.mistake [事实认识错误]
+
+### 2.1 unilateral mistake[单方面的事实认识错误]
+
+### 2.2 mutual mistake [共同误解]
+
+> When both parties enter a contract based on the same mistake (ie, mutual mistake), the contract is voidable by the adversely affected party if[受影响的一方可以撤销合同]:
+
+- the mistake relates to a **basic assumption** of the contract
+- the mistake **materially affects** the agreed-upon exchange of performances (ie, the adversely affected party cannot fairly be required to carry it out) and
+- the adversely affected party does not assume the risk of the mistake.（ie，the agreement did not expressly allocate the risk of the mistake）.
+
+## 3.undue influence[不当影响]
+
+> A contract is voidable for undue influence if a party's assent[同意] was the product of unfair or excessive persuasion by someone who dominate[支配] or shared a special relationship[特殊关系] of trust and confidence with that party.
+> Persuasion is unfair or excessive if it seriously impairs the assenting party's ability to exercise free and competent judgment. The following factors are relevant to making this determination:
+
+- Susceptibility of the assenting party (eg, elderly, in poor health).
+- Unfairness of the resulting bargain (eg, sale of business for less than half its market value).
+- Unavailability of independent advice (eg, attorney unavailable to discuss sale).
+
 # 四、合同的解释
 ## 1.Rules of contract interpretation
 
@@ -67,6 +107,13 @@
 # 2.The parol evidence rule [口头证据规则]
 
 > The parol evidence rule generally bars evidence of a prior oral or written agreement to modify or contradict the terms of a final written agreement. However, parol evidence is admissible to establish an ambiguous term—eg, when a term is subject to a misunderstanding.
+
+- The UCC parol evidence rule bars evidence of any prior agreement (or contemporaneous oral agreement) that contradicts the terms of an integrated writing.***U.C.C. § 2-202 (Am. Law Inst. & Unif. Law Comm'n 2020) (parol evidence rule)***.
+
+|type|definition|effect|
+| -- | -- | --- |
+| Complete integration[完备的合同] | Writing that sets forth parties' final agreement about all terms，常见：merger clause[完备条款]，all matters | （1）Excludes parol evidence within scope of agreement；（2）Parol evidence **inadmissible** to supplement (ie, add to) or contradict contract |
+| Partial integration[不完备的合同] | Writing that sets forth parties' final agreement about some terms | （1）Excludes parol evidence inconsistent with agreement；（2）Parol evidence **admissible** to supplement (not contradict不抵触) contract |
 
 # 3.contra proferentem[不利解释原则]
 
