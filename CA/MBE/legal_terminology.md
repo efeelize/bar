@@ -89,3 +89,18 @@
 - Scientific/Physical: In physics, magnetic susceptibility refers to how much a material can be magnetized.
 
 # fiduciary[信托]
+
+# reform the contract
+
+> To "reform the contract" means to change or modify the terms of an existing contract, typically to correct errors, omissions, or to make the contract reflect the true intentions of the parties involved.
+
+- Reformation is a legal remedy used when there has been a mistake in the contract (like clerical errors or misrepresentations) that does not accurately capture what both parties originally agreed upon. It involves changing the contract's wording or provisions to reflect what the parties actually intended at the time the contract was made.
+
+- Reformation can be done by mutual agreement or ordered by a court if it finds that the contract does not accurately express the true agreement between the parties.
+
+# UCC gap-fillers
+
+> UCC gap-fillers are provisions in the Uniform Commercial Code (UCC) that help resolve situations where parties to a contract haven't specified certain terms. In other words, when a contract under the UCC is silent on a particular matter, these gap-fillers "fill in the gaps" by providing default rules that apply unless the parties agree otherwise.
+
+- Price: If the contract doesn’t specify a price for goods, the UCC will imply a reasonable price at the time of delivery.
+- Time:If the contract doesn’t specify when performance is due, the UCC will imply a reasonable time for performance.

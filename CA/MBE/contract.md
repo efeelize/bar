@@ -34,11 +34,37 @@
 
 - Intoxicated party must offer to return any consideration received & may be liable for fair value of goods or services provided
 
-## 4.fraud
+## 4.Statute of Fraud/SOF [反欺诈法]
+
+| / | meaning | common law | UCC |
+| writing |  Physical or electronic document(s) containing reasonable basis to believe contract was formed (eg, receipt, check, emails) | identifies parties, subject matter, consideration, time & nature of performance | lists quantity of goods (contract enforceable only up to written quantity) |x
+| signature | General rule – handwritten signature from, or other mark identifying, party to be charged[只要求被告签名] (eg, letterhead, electronic signature, initials[简签]) | Merchant exception – between merchants, written confirmation that satisfies statute of frauds as to sender will bind both parties if no written objection[提出反对的书面形式必须有签名] within 10 days[UCC的特殊规定] |
+
+### 4.1 适用反欺诈法的情形/特殊合同必须要书面
 
 > A contract need only be in writing and signed by the party to be charged if it falls within the statute of frauds. This rule applies to contracts for the sale of goods for $500 or more.
 
+#### （1）500美金或以上的物品买卖合同
+
+- [UCC下只要数量确定]，the contract is enforceable since UCC gap-fillers will supply the price term at the time of delivery.
+
 - Under the Uniform Commercial Code (UCC) § 2-201, contracts for the sale of goods worth $500 or more must be in writing to be enforceable.
+
+#### （2）房地产合同
+
+#### （3）婚前或婚内协议，不包括承诺要结婚的合同
+
+#### （4）从签订日期开始预计要超过一年才能完成的服务合同
+
+#### （5）担保合同
+
+#### （6）遗产管理人自掏腰包支付死者的债务
+
+### 4.2 merchant exception[UCC]
+
+> Under the merchant exception, a written confirmation need only be **signed by one merchant** and sent to the other merchant. If the recipient has reason to know the confirmation's contents and does not object within 10 days, then it is **enforceable against both merchants**.
+
+- the baker and the supplier are both merchants—regular dealers in flour. The baker's signed note was a sufficient writing because it confirmed that a contract was formed and listed the quantity of goods sold. Additionally, the supplier had reason to know the contents of the note (received and read it) and did not object within 10 days. Therefore, the contract was enforceable against both parties.
 
 # 三、合同的修改
 
@@ -64,7 +90,12 @@
 
 ## 1.misunderstanding【条款理解不同】
 
-> [如果双方对实质性条款理解都不同，合同没有成立，如果一方知道对方的想法，合同按照对方所想成立]It occurs when the parties to a contract attach **different meanings** to the **same term**. If the misunderstanding involves a **material term**, most often there is no contract because there is no meeting of the minds.But if **one party knows or has reason to know about the misunderstanding**, then a valid contract will be formed based on the meaning of the **term as understood** by the **unknowing party**.
+| / | general rule | waiver |
+| -- | -- | -- |
+| neither/both parties know of misunderstanding | no contract formed[合同没有成立] | either party can enforce **other party’s** understanding |
+| One party knows of misunderstanding | Contract formed based on unknowing party's understanding[如果一方知道对方的想法，合同按照对方所想成立] | Unknowing party can enforce knowing party's understanding |
+
+> It occurs when the parties to a contract attach **different meanings** to the **same term**. If the misunderstanding involves a **material term**, most often there is no contract because there is no meeting of the minds.But if **one party knows or has reason to know about the misunderstanding**, then a valid contract will be formed based on the meaning of the **term as understood** by the **unknowing party**.
 
 - Trade usage can be used to show that a word or phrase has a particular meaning—eg, that "daily service" does not include Sundays in the commercial laundry business. But trade usage will not control when a party knows that the other party attaches a different meaning to the term.
 
@@ -82,6 +113,12 @@
 - the mistake **materially affects** the agreed-upon exchange of performances (ie, the adversely affected party cannot fairly be required to carry it out) and
 - the adversely affected party does not assume the risk of the mistake.（ie，the agreement did not expressly allocate the risk of the mistake）.
 
+## 3.allocate the risk
+
+- A court can allocate the risk of a mistake—ie, an erroneous belief of fact held by one or both parties—to a party upon a finding that it is reasonable in the circumstances to do so (eg, based on that party's culpability). 
+
+- But a court cannot allocate the risk of a misunderstanding—ie, the attachment of different meanings to the same term.
+
 ## 3.undue influence[不当影响]
 
 > A contract is voidable for undue influence if a party's assent[同意] was the product of unfair or excessive persuasion by someone who dominate[支配] or shared a special relationship[特殊关系] of trust and confidence with that party.
@@ -90,6 +127,30 @@
 - Susceptibility of the assenting party (eg, elderly, in poor health).
 - Unfairness of the resulting bargain (eg, sale of business for less than half its market value).
 - Unavailability of independent advice (eg, attorney unavailable to discuss sale).
+
+## 4.The parol evidence rule [口头证据规则]
+
+### 4.1 签约之前的口头/书面沟通+不抵触合同原文
+
+> The parol evidence rule generally bars evidence of a prior oral or written agreement to modify or contradict the terms of a final written agreement. However, parol evidence is admissible to establish an ambiguous term—eg, when a term is subject to a misunderstanding.
+
+- The UCC parol evidence rule bars evidence of any prior agreement (or contemporaneous oral agreement) that contradicts the terms of an integrated writing.***U.C.C. § 2-202 (Am. Law Inst. & Unif. Law Comm'n 2020) (parol evidence rule)***.
+
+|type|definition|effect|
+| -- | -- | --- |
+| Complete integration[完备的合同] | Writing that sets forth parties' final agreement about all terms，常见：merger clause[完备条款]，all matters | （1）Excludes parol evidence within scope of agreement；（2）Parol evidence **inadmissible** to supplement (ie, add to) or contradict contract |
+| Partial integration[不完备的合同] | Writing that sets forth parties' final agreement about some terms | （1）Excludes parol evidence inconsistent with agreement；（2）Parol evidence **admissible** to supplement (not contradict不抵触) contract |
+
+### 4.2 no-oral modification clause/NOM clause
+
+| Rule | enforceable |
+| -- | -- |
+| common law (contracts for services or real estate) [普通法下，只要修改有对价，即便是口头也可以修改书面合同，NOM条款通常是无效] | NOM clause enforceable only if modification must be in writing under statute of frauds |
+| UCC (contracts for sale of goods) [UCC下，NOM默认是有效的] | (1)All parties are merchants – NOM clause always enforceable;(2) > 1 party is nonmerchant – NOM clause in merchant's form must be separately signed by nonmerchant(s) to be enforceabl[非商家需要对NOM条款单独签名]|
+
+- eg:the parties orally agreed to extend the exclusivity period by 60 days. Although the written agreement contained a NOM clause, the modified exclusivity period did not need to be evidenced by a writing since no statute of frauds provision applies. And since there was consideration—60 more days of exclusivity in exchange for 60 more days of service—the parties' oral agreement effectively modified their written agreement.
+
+- The parol evidence rule generally prevents proof of prior or contemporaneous agreements that modify or contradict the terms of a written contract. But this rule does not prevent proof of subsequent agreements between the parties—eg, the oral agreement entered **after** the written listing agreement was executed.
 
 # 四、合同的解释
 ## 1.Rules of contract interpretation
@@ -104,21 +165,9 @@
 | Context rule | Court interprets contract terms by considering all facts &circumstances related to transaction |
 | Context rule | (some courts)Goal is to effectuate parties' actual intent |
 
-# 2.The parol evidence rule [口头证据规则]
-
-> The parol evidence rule generally bars evidence of a prior oral or written agreement to modify or contradict the terms of a final written agreement. However, parol evidence is admissible to establish an ambiguous term—eg, when a term is subject to a misunderstanding.
-
-- The UCC parol evidence rule bars evidence of any prior agreement (or contemporaneous oral agreement) that contradicts the terms of an integrated writing.***U.C.C. § 2-202 (Am. Law Inst. & Unif. Law Comm'n 2020) (parol evidence rule)***.
-
-|type|definition|effect|
-| -- | -- | --- |
-| Complete integration[完备的合同] | Writing that sets forth parties' final agreement about all terms，常见：merger clause[完备条款]，all matters | （1）Excludes parol evidence within scope of agreement；（2）Parol evidence **inadmissible** to supplement (ie, add to) or contradict contract |
-| Partial integration[不完备的合同] | Writing that sets forth parties' final agreement about some terms | （1）Excludes parol evidence inconsistent with agreement；（2）Parol evidence **admissible** to supplement (not contradict不抵触) contract |
-
 # 3.contra proferentem[不利解释原则]
 
 > Contra proferentem is a legal principle used in contract interpretation. It means that if there is any ambiguity in a contract, the interpretation should be made against the party that drafted the contract. This rule helps protect the weaker or non-drafting party, ensuring that the drafter does not benefit from unclear language.
-
 > Under the doctrine of contra proferentem, ambiguous contract terms are interpreted against the drafter to protect the rights of the nondrafter. But this doctrine does not apply when, as here, the terms are unambiguous.
 
 # 五、 合同的履行
