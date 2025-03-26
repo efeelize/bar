@@ -86,15 +86,13 @@
 
 > [普通法中权利默认是可以转让的]An assignment is the transfer of **rights** under a contract to another (ie, assignee). The assignee takes all of the rights of the assignor as the contract stands at the time of the assignment.
 
-### 2.1 Assignment of contractual rights
+### 2.1 permitted unless/exceptions
 
-#### (1)permitted unless/exceptions
-
-- materially increases obligor's contractual duties or risks
-- materially reduces obligor's chance of obtaining performance
+- materially increases obligor's contractual duties or risks.
+- materially reduces obligor's chance of obtaining performance.
 - is void (not merely prohibited) under contract provision[根据合同条款无效]
 
-#### (2)Consideration generally required to make assignment irrevocable[不可撤销]
+### 2.2 Consideration generally required to make assignment irrevocable[不可撤销]
 
 > eg：the contract between the debtor and the creditor called for the debtor to make payments on the first day of each month. The parties effectively **modified** that contract when the creditor promised to accept payments on the fifth day of each month in exchange for the debtor's promise to make the payments by **cashier's check**.Since this occurred before the creditor assigned his rights under the loan contract to the bank, the debtor can justifiably insist that the payment date for the rest of the installments is the fifth of each month.
 
@@ -106,7 +104,15 @@
 
 - if one party in an agreement decides to waive or forgive a condition (a requirement that must be met for the contract to be fully enforced) for a specific performance or act, they still have the right to reinstate or re-enforce that condition for any future actions or performances under the agreement. However, that rule is **not applicable** here because the parties modified the contract by mutual agreement and the opportunity to reinstate a condition was no longer available.
 
-### 2.2 Silent as to assignment
+### 2.3 Assignee's rights
+
+> A party to a contract is generally free to assign (ie, transfer) its contractual rights to another. The recipient of those rights (assignee) then steps into the shoes of the assigning party (assignor) and assumes all of the assignor's contractual rights to the obligor's performance as they stand at the time of the assignment. However, those rights are subject to any claims or defenses that:
+
+- accrued before obligor received notice of assignment.
+- stem from assignor's present or future failure to perform.
+- Assignor loses rights & therefore cannot enforce contract.
+
+### 2.4 Silent as to assignment
 
 > "Silent as to assignment" means that a contract or legal document does not include any provisions addressing whether rights or obligations under the agreement can be assigned to another party. When a contract is silent on assignment, the default legal rule in the relevant jurisdiction typically applies.
 > In many cases, unless there is a specific prohibition, contract rights are generally assignable, but **obligations usually require the consent of the other party before being transferred**. However, the exact implications depend on the governing law of the contract.
