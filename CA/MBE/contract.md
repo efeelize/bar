@@ -39,7 +39,7 @@
 | / | meaning | common law | UCC |
 | --- | --- | --- | ---- |
 | writing |  Physical or electronic document(s) containing reasonable basis to believe contract was formed (eg, receipt, check, emails) | identifies parties, subject matter, consideration, time & nature of performance | lists quantity of goods (contract enforceable only up to written quantity) |x
-| signature | / | General rule – handwritten signature from, or other mark identifying, party to be charged[只要求被告签名] (eg, letterhead, electronic signature, initials[简签]) | Merchant exception – between merchants, written confirmation that satisfies statute of frauds as to sender will bind both parties if no written objection[提出反对的书面形式必须有签名] within 10 days[UCC的特殊规定] |
+| signature | / | General rule – handwritten signature from, or other mark identifying, party to be charged[只要求被告签名] (eg, letterhead, electronic signature, initials[简签]) | Merchant exception – between merchants,a written confirmation need only to be **signed by one merhant** and sent to the other merchant.If the recipient has reason to know the confirmation's contents and does not object within 10 days,then it is **enforceable against both merchants.** [提出反对的书面形式必须有签名,UCC的特殊规定] |
 
 ### 4.1 适用反欺诈法的情形/特殊合同必须要书面
 
@@ -114,7 +114,7 @@
 - the mistake **materially affects** the agreed-upon exchange of performances (ie, the adversely affected party cannot fairly be required to carry it out) and
 - the adversely affected party does not assume the risk of the mistake.（ie，the agreement did not expressly allocate the risk of the mistake）.
 
-## 3.allocate the risk
+### 2.3 allocate the risk
 
 - A court can allocate the risk of a mistake—ie, an erroneous belief of fact held by one or both parties—to a party upon a finding that it is reasonable in the circumstances to do so (eg, based on that party's culpability). 
 
@@ -153,10 +153,41 @@
 
 - The parol evidence rule generally prevents proof of prior or contemporaneous agreements that modify or contradict the terms of a written contract. But this rule does not prevent proof of subsequent agreements between the parties—eg, the oral agreement entered **after** the written listing agreement was executed.
 
+## 5.unconscionable[不合情理的]
+
+> The defense of unconscionability is available when a contract's bargaining process and/or the contract terms were so unfair to one party that no reasonable person would have agreed to it. When this occurs, the court can **modify or cancel** (ie, refuse to enforce) the contract. Factors used to determine whether a contract is unconscionable include:
+
+- sophistication and knowledge of each party (eg, the parties' unequal knowledge of the timber industry[木材行业])
+- disparity between the parties' bargaining power[除了接受不合理条款别无选择] (eg, the landowner is money-poor and the logger is the only potential buyer)
+- disparity between the value of consideration exchanged by the parties (eg, the sale of timber rights on choice land for a price that is significantly lower than the prevailing rate) and
+- one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the logger).
+
+## 6.misrepresentation[虚假陈述]
+
+### (1)When disclosure is required to avoid misrepresentation
+
+| / | required |
+| ------ | ------ |
+| Previous assertion | Disclosure would prevent previous assertion from being a misrepresentation or fraudulent or material |
+| Mistake about basic assumption | (1)Disclosure would correct other party's mistake about basic assumption of contract + (2) Failure to disclose would constitute lack of good faith & fair dealing |
+| Fiduciary[信托] relationship | Other party is entitled to know fact because of confidential/fiduciary relationship |
+| Mistake about writing | Disclosure would correct other party's mistake about contents or effect of writing that embodies agreement |
+
+#### （1.1）合同可撤销的条件[仅受合同不利影响的一方]
+
+- [欺诈的方式作出]The misrepresentation was fraudulent[欺诈性的](ie, made knowingly[故意] or recklessly with the intent to induce the other party's assent to the contract) OR material (ie, likely to induce a reasonable person's assent).
+
+- [导致了对方同意合同]The misrepresentation induced assent to the contract.
+
+- [受不利影响的一方有理由依赖虚假陈述]The adversely affected party justifiably relied on the misrepresentation.
+
+#### （1.2）
+
 # 四、合同的解释
 ## 1.Rules of contract interpretation
 
 > The plain-meaning rule of contract interpretation instructs courts to rely on the ordinary meaning of the words if the contract's language is clear and unambiguous.
+> Evidence used to clarify the meaning of an ambiguous contract term is **excepted from the parol evidence rule**.
 
 |rule|Court's interpret|
 | ------ | ------ |
