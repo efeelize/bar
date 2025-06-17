@@ -23,7 +23,7 @@
 
 > "Disaffirm" means to reject, repudiate, or declare something as void. It is commonly used in legal contexts to refer to the act of denying or refusing to uphold a contract, agreement, or obligation. For example, a minor can disaffirm a contract they entered into before reaching the age of majority, making it unenforceable.
 
-# voidable
+# voidable[合同可撤销]
 
 > "Voidable" refers to a legal agreement or contract that is valid and enforceable but can be declared invalid by one of the parties due to specific legal reasons. Unlike a void contract, which is invalid from the outset and has no legal effect, a voidable contract remains in force until the party with the right to void it chooses to do so.
 
@@ -104,3 +104,25 @@
 
 - Price: If the contract doesn’t specify a price for goods, the UCC will imply a reasonable price at the time of delivery.
 - Time:If the contract doesn’t specify when performance is due, the UCC will imply a reasonable time for performance.
+
+# Standing timber
+
+> "Standing timber" refers to trees that are still rooted in the ground and have not yet been harvested. It is often used in legal, forestry, and real estate contexts to describe trees that are available for cutting but remain part of the land until they are sold or removed.
+
+- In legal terms, standing timber can be treated as either real property (when still attached to the land) or personal property (once cut and removed). The classification can impact contracts, ownership rights, and taxation.
+
+# Equitable estoppel
+
+> Equitable estoppel is a doctrine that prevents one party from changing its position after the other party has detrimentally relied on a misrepresentation of fact made by the first party. Here, however, the logger did not make a misrepresentation of fact to the landowner, so this doctrine does not apply.
+
+# ascertain
+
+> "Ascertain" means to find out or determine something with certainty, usually through investigation or inquiry. For example, "The lawyer attempted to ascertain the facts of the case before proceeding."
+
+# fraudulent[欺诈]
+
+> The word "fraudulent" means intended to deceive or trick someone, usually for personal gain or to cause harm. It's often used to describe actions that are dishonest, illegal, or false.
+
+# A condition precedent 
+
+> A condition precedent is a legal term that refers to a requirement that must be met before a certain duty or obligation becomes effective—often used in contracts.ie,It’s something that must happen before something else can happen.

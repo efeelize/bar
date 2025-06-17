@@ -39,7 +39,7 @@
 | / | meaning | common law | UCC |
 | --- | --- | --- | ---- |
 | writing |  Physical or electronic document(s) containing reasonable basis to believe contract was formed (eg, receipt, check, emails) | identifies parties, subject matter, consideration, time & nature of performance | lists quantity of goods (contract enforceable only up to written quantity) |x
-| signature | / | General rule – handwritten signature from, or other mark identifying, party to be charged[只要求被告签名] (eg, letterhead, electronic signature, initials[简签]) | Merchant exception – between merchants,a written confirmation need only to be **signed by one merhant** and sent to the other merchant.If the recipient has reason to know the confirmation's contents and does not object within 10 days,then it is **enforceable against both merchants.** [提出反对的书面形式必须有签名,UCC的特殊规定] |
+| signature | / | General rule – handwritten signature from, or other mark identifying, party to be charged[只要求被告签名] (eg, letterhead, electronic signature, initials[简签]) | Merchant exception – a written confirmation need only to be **signed by one merhant** and sent to the other merchant.If the recipient has reason to know the confirmation's contents and does not object within 10 days,then it is **enforceable against both merchants.** [提出反对的书面形式必须有签名,UCC的特殊规定] |
 
 ### 4.1 适用反欺诈法的情形/特殊合同必须要书面
 
