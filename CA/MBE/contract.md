@@ -131,11 +131,11 @@
 
 ## 4.The parol evidence rule [口头证据规则]
 
-### 4.1 签约之前的口头/书面沟通+不抵触合同原文
+### 4.1 签约之前的口头/书面沟通+不能抵触合同原文
 
 > The parol evidence rule generally bars evidence of a prior oral or written agreement to modify or contradict the terms of a final written agreement. However, parol evidence is admissible to establish an ambiguous term—eg, when a term is subject to a misunderstanding.
 
-- The UCC parol evidence rule bars evidence of any prior agreement (or contemporaneous oral agreement) that contradicts the terms of an integrated writing.***U.C.C. § 2-202 (Am. Law Inst. & Unif. Law Comm'n 2020) (parol evidence rule)***.
+- The UCC parol evidence rule bars evidence of any prior agreement (or contemporaneous[同时发生的] oral agreement) that contradicts the terms of an integrated writing.***U.C.C. § 2-202 (Am. Law Inst. & Unif. Law Comm'n 2020) (parol evidence rule).***
 
 |type|definition|effect|
 | -- | -- | --- |
@@ -152,6 +152,10 @@
 - eg:the parties orally agreed to extend the exclusivity period by 60 days. Although the written agreement contained a NOM clause, the modified exclusivity period did not need to be evidenced by a writing since no statute of frauds provision applies. And since there was consideration—60 more days of exclusivity in exchange for 60 more days of service—the parties' oral agreement effectively modified their written agreement.
 
 - The parol evidence rule generally prevents proof of prior or contemporaneous agreements that modify or contradict the terms of a written contract. But this rule does not prevent proof of subsequent agreements between the parties—eg, the oral agreement entered **after** the written listing agreement was executed.
+
+### 4.3 trade usage
+
+> Trade usage refers to a ***practice or method of dealing*** that is observed with such ***regularity in the industry*** that the parties to a contract would be expected to observe it.
 
 ## 5.unconscionable[不合情理的]
 
