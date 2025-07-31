@@ -89,6 +89,7 @@
 - Scientific/Physical: In physics, magnetic susceptibility refers to how much a material can be magnetized.
 
 # fiduciary[信托]
+> In law, a fiduciary is a person or entity who is legally obligated to act in the best interests of another party. This obligation is called a fiduciary duty, and it is one of the highest standards of care in legal relationships.
 
 # reform the contract
 
@@ -126,3 +127,26 @@
 # A condition precedent 
 
 > A condition precedent is a legal term that refers to a requirement that must be met before a certain duty or obligation becomes effective—often used in contracts.ie,It’s something that must happen before something else can happen.
+
+# expectation damages[预期损失]
+
+> Expectation damages in law refer to the monetary compensation awarded to a party in a breach of contract case to put them in the position they would have been in if the contract had been fully performed as promised.Expectation damages are also known as "benefit of the bargain" damages. The goal is to fulfill the injured party's expectations based on the contract terms.
+
+# Restitution damages [不当得利的返还]
+
+> Restitution damages in law refer to a type of remedy aimed at restoring the injured party to the position they were in before the defendant's wrongful conduct, rather than compensating them for losses suffered (as in compensatory damages).Restitution damages are awarded to prevent the defendant from being unjustly enriched at the expense of the plaintiff. The focus is not on the plaintiff’s loss, but on the defendant’s gain.
+
+# culpable
+
+> In law, "culpable" means deserving blame or responsibility for a wrongful or harmful act. It refers to a person’s level of fault or blameworthiness in committing an act that is illegal or morally wrong.
+
+- Legal Usage of “Culpable”,The term is often used in criminal law to assess whether someone had the mental state (mens rea) necessary to be held legally responsible for a crime.
+- Being culpable doesn't necessarily mean the act was intentional—it could also be due to recklessness or negligence, depending on the context.
+
+# collateral
+
+> In law, collateral generally refers to property or assets pledged by a borrower to secure a loan or obligation. If the borrower fails to repay or fulfill the obligation, the lender has the legal right to seize the collateral to recover their loss.
+
+#  repudiated 
+
+> In law, the term "repudiated" (or "repudiation") generally refers to the rejection or refusal to fulfill a contractual obligation. It is used in both contract law and family law, but the most common usage is in the context of contracts.
