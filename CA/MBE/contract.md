@@ -64,7 +64,12 @@
 
 ### (3)Land – a contract for the sale or transfer of an interest in real property
 
-- leases and easements for less than one year are usually excluded from the statute，even though it involves an interest in real property.
+> a contract for the sale of land that violates this statute may still be enforceable if the part-performance exception applies. This requires proof that the buyer has done at least **two** of the following:
+• Taken possession of the property (as the stable manager did here)
+• Made substantial improvements to the property (not seen here)
+• Paid some or all of the purchase price (here, the stable manager made a small down payment)
+
+- leases and easements[租约和地役权] for less than one year are usually excluded from the statute，even though it involves an interest in real property.
 
 ### (4)Executor – a contract to pay an estate's debt out of the executor's personal funds[遗产管理人自掏腰包支付死者的债务]
 
@@ -74,11 +79,23 @@
 
 ### (6)Suretyship – a contract to answer for the debt or duty of another[担保合同]
 
-## 4.2 merchant exception[UCC]
+## 4.2 Merchant exception[UCC]
 
 > Under the merchant exception, a written confirmation need only be **signed by one merchant** and sent to the other merchant. If the recipient has reason to know the confirmation's contents and does not object within 10 days, then it is **enforceable against both merchants**.
 
-- the baker and the supplier are both merchants—regular dealers in flour. The baker's signed note was a sufficient writing because it confirmed that a contract was formed and listed the quantity of goods sold. Additionally, the supplier had reason to know the contents of the note (received and read it) and did not object within 10 days. Therefore, the contract was enforceable against both parties.
+- 双方如果都是商家，虽然没有书面合同，但如果一方把口头合意及时以书面形式送达给对方，对方没有在10天内提出书面反对，视为满足反欺诈法的要求。
+- 但书面形式必须有签名用来针对起草方（发出方），否则也无法用来针对被送达方.
+
+## 4.3 NOM clause[no-oral modification clause]
+
+| 适用法律 | NOM条款的效力 |
+| -- | -- |
+| common law (contracts for services or real estate) [普通法下，只要修改有对价，即便是口头也可以修改书面合同，NOM条款通常是无效] | NOM clause enforceable only if modification must be in writing under statute of frauds |
+| UCC (contracts for sale of goods) [UCC下，NOM默认是有效的] | (1)All parties are merchants – NOM clause always enforceable;(2) > 1 party is nonmerchant – NOM clause in merchant's form must be separately signed by nonmerchant(s) to be enforceabl[非商家需要对NOM条款单独签名]|
+
+- Modifications to a contract that falls within and satisfies this statute generally need not be in writing because the enforceability of the initial contract passes to any modifications.
+- However, the UCC will enforce a "no oral modification" (NOM) clause that requires modifications to be in writing.
+- A NOM clause can be waived by the parties through words or conduct, and the waiver cannot be retracted if a party has materially changed its position in **reasonable reliance** on the waiver.
 
 # 三、合同的修改
 
@@ -133,7 +150,7 @@
 
 - But a court cannot allocate the risk of a misunderstanding—ie, the attachment of different meanings to the same term.
 
-# 3.undue influence[不当影响]
+# 4.undue influence[不当影响]
 
 > A contract is voidable for undue influence if a party's assent[同意] was the product of unfair or excessive persuasion by someone who dominate[支配] or shared a special relationship[特殊关系] of trust and confidence with that party.
 > Persuasion is unfair or excessive if it seriously impairs the assenting party's ability to exercise free and competent judgment. The following factors are relevant to making this determination:
@@ -142,51 +159,7 @@
 - Unfairness of the resulting bargain (eg, sale of business for less than half its market value).
 - Unavailability of independent advice (eg, attorney unavailable to discuss sale).
 
-# 4.The parol evidence rule [口头证据规则]
-
-## 4.1 合同以书面为准，签约之前的口头或书面沟通如果和正式的书面合同原文抵触则无法使用
-
-> The UCC parol evidence rule bars evidence of any prior agreement (or contemporaneous[同时发生的] oral agreement) that contradicts the terms of an integrated writing.***U.C.C. § 2-202 (Am. Law Inst. & Unif. Law Comm'n 2020) (parol evidence rule).***
-
-|type|definition|effect|
-| -- | -- | --- |
-| Complete integration[完备的合同] | Writing that sets forth parties' final agreement about all terms，常见：merger clause[完备条款]，all matters | （1）Excludes parol evidence within scope of agreement；（2）Parol evidence **inadmissible** to supplement (ie, add to) or contradict contract |
-| Partial integration[不完备的合同] | Writing that sets forth parties' final agreement about some terms | （1）Excludes parol evidence inconsistent with agreement；（2）Parol evidence **admissible** to supplement (not contradict不抵触) contract |
-
-## 4.2 口头证据规则的例外
-
-### （1）collateral agreement [附属条款]
-> This rule does not apply when such evidence is offered to prove the existence of a collateral agreement—ie, a separate contract supported by separate consideration.
-
-### （2）conditions[合同条件]
-> But this rule does not apply when a party is attacking the validity[有效性] of the agreement—eg, by asserting there was a condition precedent to effectiveness that failed to occur. As a result, evidence of such a condition precedent is admissible.
-
-- 比如是为了证明合同只会在某个条件下才会生效（condition precedent），可以引入。
-
-### （3）reformation[合同重写]
-> 因双方共同的原因不慎导致双方约定的内容和正式的合同有差异，一方可以要求重写合同。
-
-### （4）合同效力的例外
-> However, this rule does not apply, and such evidence is always admissible, when the evidence is used to determine remedies for breach. For example, parol evidence is admissible to prove that ***consequential damages*** were foreseeable and are therefore recoverable.
-
-- 签约之前的沟通如果是为了证明合同无效、可撤销、无法执行等效力问题，可以引入。这些沟通还可以用来证明合同是否完备（completely/fully integrated）。
-
-## 4.3 合同签约之后的证据不被口头证据规则约束
-
-### （1）例外：no-oral modification clause/NOM clause
-
-| Rule | enforceable |
-| -- | -- |
-| common law (contracts for services or real estate) [普通法下，只要修改有对价，即便是口头也可以修改书面合同，NOM条款通常是无效] | NOM clause enforceable only if modification must be in writing under statute of frauds |
-| UCC (contracts for sale of goods) [UCC下，NOM默认是有效的] | (1)All parties are merchants – NOM clause always enforceable;(2) > 1 party is nonmerchant – NOM clause in merchant's form must be separately signed by nonmerchant(s) to be enforceabl[非商家需要对NOM条款单独签名]|
-
-- eg:the parties orally agreed to extend the exclusivity period by 60 days. Although the written agreement contained a NOM clause, the modified exclusivity period did not need to be evidenced by a writing since no statute of frauds provision applies. And since there was consideration—60 more days of exclusivity in exchange for 60 more days of service—the parties' oral agreement effectively modified their written agreement.
-
-- The parol evidence rule generally prevents proof of prior or contemporaneous agreements that modify or contradict the terms of a written contract. But this rule does not prevent proof of subsequent agreements between the parties—eg, the oral agreement entered **after** the written listing agreement was executed.
-
-## 4.4 trade usage
-
-> Trade usage refers to a ***practice or method of dealing*** that is observed with such ***regularity in the industry*** that the parties to a contract would be expected to observe it.
+uld be expected to observe it.
 
 # 5.unconscionable[不合情理的]
 
@@ -218,34 +191,36 @@
 
 # 7.illegal/contrary to public policy[违反公序良俗] contract 
 
-## 7.1 效力
+> 如果合同本身并不违法，只是被用于非法目的，且一方事先并不知情合同并不会无效。哪怕知情，只要1. 没有进一步促进违法行为，并且2. 非法目的不会造成严重的社会伤害，比如人身安全的威胁。依然可以要求另一方**履行合同**，或者**赔偿不履行合同带来的损害**。
 > An illegal contract generally is void and there is no remedy for a breach. However, in limited situations, a party to an illegal contract can recover either ***expectation damages*** (eg, if the party was justifiably ignorant of the illegality) OR ***restitution damages*** (eg, if the party was less culpable than the other party).
 
-- 如果合同本身并不违法，只是被用于非法目的，且一方事先并不知情合同并不会无效。哪怕知情，只要1. 没有进一步促进违法行为，并且2. 非法目的不会造成严重的社会伤害，比如人身安全的威胁。依然可以要求另一方履行合同，或者赔偿不履行合同带来的损害。
+## 7.1 救济
+
+| Recovery |  cause  |
+| -----  | ---- |
+| expectation damages(full value of lost performance) |  (1)Party justifiably ignorant of illegality |
+| expectation damages(full value of lost performance) |  (2)Party substantially performed & lacked illegal purpose |
+| expectation damages(full value of lost performance)|  (3)Contract separable into legal / illegal parts or |
+| expectation damage(full value of lost performance) |  (4)Contract illegal due to violation of licensing requirement designed only to raise revenue |
+| Restitution damages (reasonable value of benefit conferred)| Party justifiably ignorant of illegality |
+| Restitution damages (reasonable value of benefit conferred)| Party less culpable than other party or |
+| Restitution damages (reasonable value of benefit conferred)| Party withdrew before illegal purpose achieved & did not engage in serious misconduct |
 
 ### （1）expectation damages
 
 > It can recover full vaule of lost performance.An illegal contract is enforceable for the full amount of the nonbreaching party's expectation damages if:
 
-- the nonbreaching party was justifiably ignorant of the facts that made the contract illegal
-- the nonbreaching party substantially performed and lacked an illegal purpose
-- the contract can be easily separated into legal and illegal parts or
-- the contract is illegal due to a violation of a licensing requirement designed only to raise revenue.
-
 ### （2）restitution damages[衡平法的救济,不当得利的返还]
 
 > It can recover reasonable value of benefit conferred.A party to an illegal contract can recover such damages if that party conferred a benefit on the other party and:
 
-- was justifiably ignorant of the facts that made the contract illegal*
-- was less culpable than the other party or
-- withdrew before the contract's illegal purpose was achieved and did not engage in serious misconduct.
-
-## 7.2 例外：可执行
+## 7.2 履行
 
 > When a contract violates a law that was designed to protect the party seeking to enforce the contract, the contract can be enforced to avoid frustrating the public policy behind the statute.
 
 # 四、合同的解释
-# 1.Rules of contract interpretation
+
+# 1.Rules of contract interpretation[文义解释]
 
 > The plain-meaning rule of contract interpretation instructs courts to rely on the ordinary meaning of the words if the contract's language is clear and unambiguous.
 > Evidence used to clarify the meaning of an ambiguous contract term is **excepted from the parol evidence rule**.
@@ -262,13 +237,64 @@
 
 > Contra proferentem is a legal principle used in contract interpretation. It means that if there is any ambiguity in a contract, the interpretation should be made against the party that drafted the contract. This rule helps protect the weaker or non-drafting party, ensuring that the drafter does not benefit from unclear language.
 
-- Under the doctrine of contra proferentem, ambiguous contract terms are interpreted against the drafter to protect the rights of the nondrafter. But this doctrine does not apply when, as here, the terms are unambiguous.
+- 合同有歧义（ambiguous）时，以对起草方不利的解释为原则。但是，当有履约习惯、交易习惯、行业惯例存在时，我们认为合同是没有歧义的（unambiguous）.Under the doctrine of contra proferentem, ambiguous contract terms are interpreted against the drafter to protect the rights of the nondrafter. But this doctrine does not apply when, as here, the terms are unambiguous.
+
+# 3.course of performance[履约习惯]/course of dealing[交易习惯]/trade usage[行业惯例]
+
+| 解释规则 | 要件 |
+| --- | ---- |
+| Course of performance |Sequence of conduct that is relevant to understanding agreement between parties if:（1）agreement involves repeated occasions for performance by one party & （2）other party accepts performance without objection |
+| Course of dealing | Sequence of conduct concerning previous transactions between parties that establishes common basis of understanding for interpreting their conduct |
+| Trade usage | Practice or method of dealing in parties' business or industry that is observed with enough regularity to justify expectation that it will be observed in instant case |
+
+## 3.1 不受口头证据规则的限制
+
+> Under the UCC parol evidence rule, evidence of a prior agreement (or contemporaneous oral agreement) cannot be used to contradict the terms of a final written agreement. But evidence of the parties' course of performance, the parties' course of dealing, or trade usage can always be used to explain or supplement those terms.
+
+- 如果合同有明确规定，应该以合同规定为准，不应该适用这些习惯。
+- UCC进一步认为，这些交易习惯证据可以用来补充和解释一个合同而不受口头证据限制，即使合同是完备的。
+
+## 3.2 如存在内容的冲突，适用的先后顺位
+
+> If the evidence is inconsistent, priority is given as follows:
+• Express terms[明示条款] prevail over all others
+• Course of performance[履约习惯] prevails over course of dealing and trade usagep
+• Course of dealing [交易习惯] prevails over trade usage
+
+# 4.The parol evidence rule [口头证据规则]
+
+## 4.1 合同以书面为准，签约之前的口头或书面沟通如果和正式的书面合同原文抵触则无法使用
+
+> The UCC parol evidence rule bars evidence of any prior agreement (or contemporaneous[同时发生的] oral agreement) that contradicts the terms of an integrated writing.***U.C.C. § 2-202 (Am. Law Inst. & Unif. Law Comm'n 2020) (parol evidence rule).***
+
+|type|definition|effect|
+| -- | -- | --- |
+| Complete integration[完备的合同] | Writing that sets forth parties' final agreement about all terms，常见：merger clause[完备条款]，all matters | （1）Excludes parol evidence within scope of agreement；（2）Parol evidence **inadmissible** to supplement (ie, add to) or contradict contract |
+| Partial integration[不完备的合同] | Writing that sets forth parties' final agreement about some terms | （1）Excludes parol evidence inconsistent with agreement；（2）Parol evidence **admissible** to supplement (not contradict不抵触) contract |
+
+## 4.2 口头证据规则的例外
+
+### （1）collateral agreement [附属条款]
+> This rule does not apply when such evidence is offered to prove the existence of a collateral agreement—ie, a separate contract supported by separate consideration.
+
+### （2）conditions[合同条件]
+> But this rule does not apply when a party is attacking the validity[有效性] of the agreement—eg, by asserting there was a condition precedent to effectiveness that failed to occur. As a result, evidence of such a condition precedent is admissible.
+
+- 比如是为了证明合同只会在某个条件下才会生效（condition precedent），可以引入。
+
+### （3）reformation[合同重写]
+> 因双方共同的原因不慎导致双方约定的内容和正式的合同有差异，一方可以要求重写合同。
+
+### （4）合同效力的例外
+> However, this rule does not apply, and such evidence is always admissible, when the evidence is used to determine remedies for breach. For example, parol evidence is admissible to prove that ***consequential damages*** were foreseeable and are therefore recoverable.
+
+- 签约之前的沟通如果是为了证明合同无效、可撤销、无法执行等效力问题，可以引入。这些沟通还可以用来证明合同是否完备（completely/fully integrated）。
 
 # 五、 合同的履行
 
 # 六、合同与第三人
 
-| Type of provision | Explicit prohibitions | Assignment of rights | Delegation of duties |
+| Type of provision | Explicit prohibitions[明确禁止] | Assignment of rights | Delegation of duties |
 | ------ | ------ | ---- | ----- |
 | None | N/A | Allowed |     |
 | Specific | Assignment of rights & delegation of duties | Barred |    |
@@ -280,9 +306,9 @@
 
 ## 1.1 Nonassignment provisions
 
-> Since the nonassignment provision (this contract may not be assigned") did not specify whether it applied to rights or duties, it will be construed to mean that duties may not be delegated.
+> Since the nonassignment provision (this contract may not be assigned") did not specify whether it applied to rights or duties, it will be construed to mean that duties may not be delegated.Unless the contract states otherwise, contractual duties can be delegated without the promisee's express consent.
 
-- 普通法中，合同的权利默认都是可以转让的（assignment of rights），不需要经过另一方同意。甚至合同仅仅是禁止转让（no assignment of the contract），禁止的也只是义务的转让而不是权利的转让。只有合同明确禁止转让权利（no assignment of rights），转让方（assignor）才禁止转让权利。
+- 普通法中，合同的权利默认都是可以转让的（assignment of rights），***不需要经过另一方同意***。甚至合同仅仅是禁止转让（no assignment of the contract），禁止的也只是义务的转让而不是权利的转让。只有合同明确禁止转让权利（no assignment of rights），转让方（assignor）才禁止转让权利。
 
 - Nonassignment provisions are enforceable.
 

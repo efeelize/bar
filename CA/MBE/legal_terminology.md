@@ -164,4 +164,6 @@
 - Used when the document alone doesn’t make the meaning clear.
 - Often limited by rules (like the parol evidence rule) to protect the finality of written agreements.
 
-# 36.
+# 36.inconsistent
+
+> The term "inconsistent" generally means that something does not match or is not in harmony with something else. In a legal or contractual context, it refers to situations where two or more things contradict each other, or where there is conflict or lack of agreement between different statements, terms, or actions.
