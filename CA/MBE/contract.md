@@ -65,9 +65,9 @@
 ### (3)Land – a contract for the sale or transfer of an interest in real property
 
 > a contract for the sale of land that violates this statute may still be enforceable if the part-performance exception applies. This requires proof that the buyer has done at least **two** of the following:
-• Taken possession of the property (as the stable manager did here)
-• Made substantial improvements to the property (not seen here)
-• Paid some or all of the purchase price (here, the stable manager made a small down payment)
+• Taken **possession** of the property (as the stable manager did here)
+• Made **substantial improvements** to the property (not seen here)
+• **Paid** some or all of the **purchase price** (here, the stable manager made a small down payment)
 
 - leases and easements[租约和地役权] for less than one year are usually excluded from the statute，even though it involves an interest in real property.
 
@@ -274,10 +274,15 @@ uld be expected to observe it.
 
 ## 4.2 口头证据规则的例外
 
-### （1）collateral agreement [附属条款]
+### （1）consistent additional terms/collateral agreement [附属条款]
+
 > This rule does not apply when such evidence is offered to prove the existence of a collateral agreement—ie, a separate contract supported by separate consideration.
 
+- 根据普通法 ，如果考虑到协议的上下文，一致的附加条款似乎很自然地被遗漏，则该条款可能是可以接受的。Under Common Law, consistent additional terms might be admissible if it seems natural that the term would have been left out given the context of the agreement.
+- 根据 UCC，重点是附加条款是否足够重要，以至于如果商定的话肯定会包含在合同中。Under the UCC, the focus is on whether the additional term is important enough that it would certainly have been included in the contract if it had been agreed upon.
+
 ### （2）conditions[合同条件]
+
 > But this rule does not apply when a party is attacking the validity[有效性] of the agreement—eg, by asserting there was a condition precedent to effectiveness that failed to occur. As a result, evidence of such a condition precedent is admissible.
 
 - 比如是为了证明合同只会在某个条件下才会生效（condition precedent），可以引入。
@@ -291,6 +296,14 @@ uld be expected to observe it.
 - 签约之前的沟通如果是为了证明合同无效、可撤销、无法执行等效力问题，可以引入。这些沟通还可以用来证明合同是否完备（completely/fully integrated）。
 
 # 五、 合同的履行
+
+# 1.预期违约[Anticipatory breach] & 不安抗辩[anticipatory repudiation]
+
+> Anticipatory breach* occurs when one party communicates to the other party that it will not perform under the contract. The other party can treat this as a breach and sue immediately or demand performance.
+
+- 如果对方明确表示即将违约（anticipatory repudiation），则受影响的一方可以：1. 立刻起诉违约，或者等履约期满起诉，2. 免除合同的履行责任，3. 敦促对方履行。
+- 一方可以撤回自己此前即将违约的声明，除非：1. 另外一方基于对即将违约的声明的信赖已经作出安排，2. 另外一方已经明确接受了即将违约的声明，或者3. 另外一方已经提起了违约的诉讼。
+- 如果有理由相信对方无法履行合同，受影响的一方可以书面要求对方在合理时间内提供履约保证，如果不能按时提供保证，可以视为即将违约。需要注意的是：1. 必须有合理的原因，基于善意，相信对方无法履行合同，2. 必须书面给出合理期限让对方提出担保，如果没有注明期限，UCC的规定是30天，3. 不能提出明显不合理的担保要求。
 
 # 六、合同与第三人
 
