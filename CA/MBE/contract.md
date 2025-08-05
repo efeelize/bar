@@ -158,7 +158,22 @@
 ### （1）collateral agreement [附属条款]
 > This rule does not apply when such evidence is offered to prove the existence of a collateral agreement—ie, a separate contract supported by separate consideration.
 
-### （2） no-oral modification clause/NOM clause
+### （2）conditions[合同条件]
+> But this rule does not apply when a party is attacking the validity[有效性] of the agreement—eg, by asserting there was a condition precedent to effectiveness that failed to occur. As a result, evidence of such a condition precedent is admissible.
+
+- 比如是为了证明合同只会在某个条件下才会生效（condition precedent），可以引入。
+
+### （3）reformation[合同重写]
+> 因双方共同的原因不慎导致双方约定的内容和正式的合同有差异，一方可以要求重写合同。
+
+### （4）合同效力的例外
+> However, this rule does not apply, and such evidence is always admissible, when the evidence is used to determine remedies for breach. For example, parol evidence is admissible to prove that ***consequential damages*** were foreseeable and are therefore recoverable.
+
+- 签约之前的沟通如果是为了证明合同无效、可撤销、无法执行等效力问题，可以引入。这些沟通还可以用来证明合同是否完备（completely/fully integrated）。
+
+## 4.3 合同签约之后的证据不被口头证据规则约束
+
+### （1）例外：no-oral modification clause/NOM clause
 
 | Rule | enforceable |
 | -- | -- |
@@ -168,17 +183,6 @@
 - eg:the parties orally agreed to extend the exclusivity period by 60 days. Although the written agreement contained a NOM clause, the modified exclusivity period did not need to be evidenced by a writing since no statute of frauds provision applies. And since there was consideration—60 more days of exclusivity in exchange for 60 more days of service—the parties' oral agreement effectively modified their written agreement.
 
 - The parol evidence rule generally prevents proof of prior or contemporaneous agreements that modify or contradict the terms of a written contract. But this rule does not prevent proof of subsequent agreements between the parties—eg, the oral agreement entered **after** the written listing agreement was executed.
-
-### （3）conditions[合同条件]
-> 比如是为了证明合同只会在某个条件下才会生效（condition precedent），可以引入。
-
-### （4）reformation[合同重写]
-> 因双方共同的原因不慎导致双方约定的内容和正式的合同有差异，一方可以要求重写合同。
-
-### （5）合同效力的例外
-> However, this rule does not apply, and such evidence is always admissible, when the evidence is used to determine remedies for breach. For example, parol evidence is admissible to prove that ***consequential damages*** were foreseeable and are therefore recoverable.
-
-- 签约之前的沟通如果是为了证明合同无效、可撤销、无法执行等效力问题，可以引入。这些沟通还可以用来证明合同是否完备（completely/fully integrated）。
 
 ## 4.4 trade usage
 
@@ -236,7 +240,7 @@
 - was less culpable than the other party or
 - withdrew before the contract's illegal purpose was achieved and did not engage in serious misconduct.
 
-## 7.2 效力的例外：可执行
+## 7.2 例外：可执行
 
 > When a contract violates a law that was designed to protect the party seeking to enforce the contract, the contract can be enforced to avoid frustrating the public policy behind the statute.
 
@@ -257,7 +261,8 @@
 # 2.contra proferentem[不利解释原则]
 
 > Contra proferentem is a legal principle used in contract interpretation. It means that if there is any ambiguity in a contract, the interpretation should be made against the party that drafted the contract. This rule helps protect the weaker or non-drafting party, ensuring that the drafter does not benefit from unclear language.
-> Under the doctrine of contra proferentem, ambiguous contract terms are interpreted against the drafter to protect the rights of the nondrafter. But this doctrine does not apply when, as here, the terms are unambiguous.
+
+- Under the doctrine of contra proferentem, ambiguous contract terms are interpreted against the drafter to protect the rights of the nondrafter. But this doctrine does not apply when, as here, the terms are unambiguous.
 
 # 五、 合同的履行
 
@@ -279,6 +284,8 @@
 
 - 普通法中，合同的权利默认都是可以转让的（assignment of rights），不需要经过另一方同意。甚至合同仅仅是禁止转让（no assignment of the contract），禁止的也只是义务的转让而不是权利的转让。只有合同明确禁止转让权利（no assignment of rights），转让方（assignor）才禁止转让权利。
 
+- Nonassignment provisions are enforceable.
+
 ## 1.2 Silent as to assignment
 
 > "Silent as to assignment" means that a contract or legal document does not include any provisions addressing whether rights or obligations under the agreement can be assigned to another party. When a contract is silent on assignment, the default legal rule in the relevant jurisdiction typically applies.
@@ -291,6 +298,16 @@
 # 2.delegate[义务转让]
 
 > Contractual **duties** can be delegated by a party (ie, the promisor) to a nonparty (ie, the delegatee). An assignment of the entire contract will be construed as an assignment of rights and a delegation of duties. But even after a delegation of duties, the **promisor remains liable** for breach if the delegatee fails to perform—unless the promisee agrees to release the promisor from his/her duties.
+
+## 2.1 禁止转让义务的情形
+
+### （1）[合同明确禁止assignment或者禁止delegation]
+
+> delegation is prohibited by contract
+
+### （2）需要特殊技能的服务合同显然也不适合转让
+
+> other contracting party has substantial interest in having delegating party perform (eg, in personal-services contract involving taste or special skill，比如设计)
 
 # 3.assignment[权利转让]
 
