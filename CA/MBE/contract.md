@@ -9,25 +9,76 @@
 - 衡平法由法官审理事实，而不是陪审团;
 - 普通法通常严格遵循法律和先例（先例也是法律的一部分），而衡平法更关注结果是否公平，但公平并非只有一种答案.
 
+# 2.不可撤回的要约[Irrevocable offers]
+
+| Type | Description | Consideration | Duration |
+| --- | --- | --- | ---- |
+| UCC Firm offer | Merchant gives written & signed assurance that offer will remain open | Not required | Specified or reasonable time |
+| Common law Option contract[选择权合同] | Offeror promises to keep offer open in exchange for consideration | Required | / |
+| Common law Partial performance (unilateral contracts单方合同) | Offeror invites acceptance only by performance & offeree begins to perform | / | Reasonable time for full performance |
+| Promissory estoppel | Offeror could reasonably foresee reliance on offer & offeree reasonably relies to his/her detriment[要约人可合理预见到受要约人将信赖其要约，且受要约人已合理信赖该要约并因此遭受损害] | Not required | Reasonable time |
+
+## 2.1 普通法
+
+- 不可撤回的要约视为一个单独的选择权合同（option contract）。既然是合同，就要求对方支付一定的对价（consideration），用于将选择权保留一段时间。
+- 该承诺不需要书面作出。
+
+## 2.2 UCC
+
+- 不可撤回的要约叫做firm offer，要求1. 提出人必须是商家（merchant），2. 书面提出，3. 明确表示要约会保留一段时间。请注意，如果被提出人没有支付对价，要约最多**三个月**后就可以撤销。
+
 # 二、合同的有效性 & 可执行性
 
-# 1.incapacity due to infancy
+# 1.Preexisting Duty Rule[已经存在的法律义务]
 
-> Unmarried, unemancipated minors (ie, persons under the age of 18) lack capacity to contract because of their infancy. As a result, any contract entered by a minor is voidable by the minor.This means that the minor can either：
+- At common law, a promise to do what one is already legally obligated to do is not valid consideration.如果合同一方在合同成立之前已经有了某个义务（pre-existing duty），不能把这个义务作为新
+的对价。该义务可能是法律规定的义务，也可能是合同约定的义务。
 
-- ***void*** the contract before or soon after turning 18 by (1) disaffirming the contract through words or actions and (2) returning any still-existing benefit received under the contract or
+## 1.1  Exceptions to the Pre-existing Duty Rule
 
-- ***ratify*** the contract after turning 18 by (1) failing to timely void the contract or (2) otherwise agreeing to be bound by it—eg, by attempting to render performance of or payment under the contract.
+### （1） New or Altered Consideration[新的/变更的对价]
 
-> By statute in some jurisdictions, certain contracts entered by a minor (eg, student loanagreements, insurance contracts) are not voidable by the minor but instead are fullyenforceable by the other contracting party.
+- If the duty is altered in some way (e.g., different performance or added obligation), then it is valid consideration.[增加新义务或变更既存义务（例如，提前到期日）]
 
-|阶段|情形|合同效力|
-| -- | -- | -- |
-| if minor,before or soon after turning 18 | disaffirms contract | voided[无效] |
-| if minor,before or soon after turning 18 | returns any still-existing benefit received under contract | voided |
-| if minor,after turning 18 | fails to timely void contract | ratified |
-| if minor,after turning 18 | agrees to be bound by contract | ratified |
-| if contract is for necessitites(food,clothing,medicine) | disaffirm contract but must pay value of benefits received | exception | 
+> Example: “I’ll finish the job early for an extra $10,000.” The early completion is a new obligation → valid consideration.
+
+### (2) Ratification of Voidable Duty[对可撤销义务的追认]
+
+- A party re-promising to perform a duty that was previously voidable (e.g., a contract made while underage) is enforceable if ratified after the barrier (e.g., infancy) is removed.[履行可撤销义务的新承诺（例如，达到法定成年年龄时）]
+
+> Example: A 17-year-old signs a contract. Upon turning 18, they affirm the contract. This is now enforceable.
+
+### (3) Common Law Exceptions
+
+#### (3.1) Honest Dispute[善意争议]
+
+- If the scope of the duty is honestly disputed, a new promise may be supported by consideration.[义务范围存在善意争议]
+
+> Example: “I don’t think I agreed to paint the garage. But I’ll do it for an extra $500.” → Valid if there’s an honest dispute.
+
+#### (3.2) Unanticipated Circumstances[意外事件]
+
+- If unanticipated events occur and the parties fairly and equitably modify the contract in good faith, the modification may be enforced without new consideration.
+
+> Example: Unexpected labor shortage increases construction cost. Parties agree to pay more. If fair → valid modification.
+
+### (4) Renewed Promise[续新承诺]
+
+- A debtor renews a promise to pay a debt that is barred by a technical defense (like the statute of limitations or bankruptcy).[尽管存在技术性抗辩（例如，诉讼时效、破产），但对既存债务作出新的偿付承诺，且该承诺为书面或已部分履行]
+
+> Example: Debtor writes, “I know I owe you money and I’ll pay it next month,” even though the statute of limitations expired → that written promise revives the obligation.
+
+### (5) Third Party Promise
+
+- If a party promises to do something they already owe to someone else, and a third party offers a benefit for that same act, the promise can be valid consideration.[对第三方（即非本案合同当事方）负有的既存义务]
+
+> Example: A owes B a duty. C offers A $500 to fulfill that duty to B. A’s promise to C is supported by consideration.
+
+### (6) UCC Exception – Good Faith Modifications
+
+- Under UCC Article 2 (sale of goods), no new consideration is required for a modification if:The modification is made in good faith, and The modification meets reasonable commercial standards of fair dealing.[诚实并遵守合理的商业公平交易标准]
+
+> Example: Seller agrees to deliver goods at a higher cost due to supplier shortage. Buyer agrees. Enforceable under UCC, even with no new consideration, as long as modification is in good faith.
 
 # 2.mental inllness
 
@@ -40,7 +91,6 @@
 > Party too intoxicated to reasonably understand (or act in relation to) nature or consequences of contract AND other party had reason to know
 
 - Voidable[可撤销的] if promptly disaffirmed by intoxicated party upon becoming sober.
-
 - Intoxicated party must offer to return any consideration received & may be liable for fair value of goods or services provided
 
 # 4.Statute of Fraud/SOF [反欺诈法]
@@ -52,7 +102,7 @@
 
 ## 4.1 适用反欺诈法的情形/特殊合同必须要书面
 
-> A contract need only be in writing and signed by the party to be charged if it falls within the statute of frauds. This rule applies to contracts for the sale of goods for $500 or more.
+- A contract need only be in writing and signed by the party to be charged if it falls within the statute of frauds. This rule applies to contracts for the sale of goods for $500 or more.
 
 ### （1）Marriage – a contract made in consideration of marriage
 
@@ -64,12 +114,12 @@
 
 ### (3)Land – a contract for the sale or transfer of an interest in real property
 
+- leases and easements[租约和地役权] for less than one year are usually excluded from the statute，even though it involves an interest in real property.
+
 > a contract for the sale of land that violates this statute may still be enforceable if the part-performance exception applies. This requires proof that the buyer has done at least **two** of the following:
 • Taken **possession** of the property (as the stable manager did here)
 • Made **substantial improvements** to the property (not seen here)
 • **Paid** some or all of the **purchase price** (here, the stable manager made a small down payment)
-
-- leases and easements[租约和地役权] for less than one year are usually excluded from the statute，even though it involves an interest in real property.
 
 ### (4)Executor – a contract to pay an estate's debt out of the executor's personal funds[遗产管理人自掏腰包支付死者的债务]
 
@@ -81,10 +131,10 @@
 
 ## 4.2 Merchant exception[UCC]
 
-> Under the merchant exception, a written confirmation need only be **signed by one merchant** and sent to the other merchant. If the recipient has reason to know the confirmation's contents and does not object within 10 days, then it is **enforceable against both merchants**.
-
 - 双方如果都是商家，虽然没有书面合同，但如果一方把口头合意及时以书面形式送达给对方，对方没有在10天内提出书面反对，视为满足反欺诈法的要求。
 - 但书面形式必须有签名用来针对起草方（发出方），否则也无法用来针对被送达方.
+
+> Under the merchant exception, a written confirmation need only be **signed by one merchant** and sent to the other merchant. If the recipient has reason to know the confirmation's contents and does not object within **10 days**, then it is **enforceable against both merchants**.
 
 ## 4.3 NOM clause[no-oral modification clause]
 
@@ -96,6 +146,22 @@
 - Modifications to a contract that falls within and satisfies this statute generally need not be in writing because the enforceability of the initial contract passes to any modifications.
 - However, the UCC will enforce a "no oral modification" (NOM) clause that requires modifications to be in writing.
 - A NOM clause can be waived by the parties through words or conduct, and the waiver cannot be retracted if a party has materially changed its position in **reasonable reliance** on the waiver.
+
+# 5.incapacity due to infancy
+
+- By statute in some jurisdictions, certain contracts entered by a minor (eg, student loanagreements, insurance contracts) are not voidable by the minor but instead are fullyenforceable by the other contracting party.
+
+> Unmarried, unemancipated minors (ie, persons under the age of 18) lack capacity to contract because of their infancy. As a result, any contract entered by a minor is voidable by the minor.This means that the minor can either：
+***void*** the contract before or soon after turning 18 by (1) disaffirming the contract through words or actions and (2) returning any still-existing benefit received under the contract or
+***ratify*** the contract after turning 18 by (1) failing to timely void the contract or (2) otherwise agreeing to be bound by it—eg, by attempting to render performance of or payment under the contract.
+
+|阶段|情形|合同效力|
+| -- | -- | -- |
+| if minor,before or soon after turning 18 | disaffirms contract | voided[无效] |
+| if minor,before or soon after turning 18 | returns any still-existing benefit received under contract | voided |
+| if minor,after turning 18 | fails to timely void contract | ratified |
+| if minor,after turning 18 | agrees to be bound by contract | ratified |
+| if contract is for necessitites(food,clothing,medicine) | disaffirm contract but must pay value of benefits received | exception | 
 
 # 三、合同的修改
 
@@ -126,7 +192,7 @@
 | neither/both parties know of misunderstanding | no contract formed[合同没有成立] | either party can enforce **other party’s** understanding |
 | One party knows of misunderstanding | Contract formed based on unknowing party's understanding[如果一方知道对方的想法，合同按照对方所想成立] | Unknowing party can enforce knowing party's understanding |
 
-> It occurs when the parties to a contract attach **different meanings** to the **same term**. If the misunderstanding involves a **material term**, most often there is no contract because there is no meeting of the minds.But if **one party knows or has reason to know about the misunderstanding**, then a valid contract will be formed based on the meaning of the **term as understood** by the **unknowing party**.
+- It occurs when the parties to a contract attach **different meanings** to the **same term**. If the misunderstanding involves a **material term**, most often there is no contract because there is no meeting of the minds.But if **one party knows or has reason to know about the misunderstanding**, then a valid contract will be formed based on the meaning of the **term as understood** by the **unknowing party**.
 
 - Trade usage can be used to show that a word or phrase has a particular meaning—eg, that "daily service" does not include Sundays in the commercial laundry business. But trade usage will not control when a party knows that the other party attaches a different meaning to the term.
 
@@ -139,10 +205,9 @@
 ## 3.2 mutual mistake [共同误解]
 
 > When both parties enter a contract based on the same mistake (ie, mutual mistake), the contract is voidable by the adversely affected party if[受影响的一方可以撤销合同]:
-
-- the mistake relates to a **basic assumption** of the contract
-- the mistake **materially affects** the agreed-upon exchange of performances (ie, the adversely affected party cannot fairly be required to carry it out) and
-- the adversely affected party does not assume the risk of the mistake.（ie，the agreement did not expressly allocate the risk of the mistake）.
+the mistake relates to a **basic assumption** of the contract
+the mistake **materially affects** the agreed-upon exchange of performances (ie, the adversely affected party cannot fairly be required to carry it out) and
+the adversely affected party does not assume the risk of the mistake.（ie，the agreement did not expressly allocate the risk of the mistake）.
 
 ## 3.3 allocate the risk
 
@@ -152,23 +217,22 @@
 
 # 4.undue influence[不当影响]
 
-> A contract is voidable for undue influence if a party's assent[同意] was the product of unfair or excessive persuasion by someone who dominate[支配] or shared a special relationship[特殊关系] of trust and confidence with that party.
-> Persuasion is unfair or excessive if it seriously impairs the assenting party's ability to exercise free and competent judgment. The following factors are relevant to making this determination:
+- A contract is voidable for undue influence if a party's assent[同意] was the product of unfair or excessive persuasion by someone who dominate[支配] or shared a special relationship[特殊关系] of trust and confidence with that party.
 
-- Susceptibility of the assenting party (eg, elderly, in poor health).
-- Unfairness of the resulting bargain (eg, sale of business for less than half its market value).
-- Unavailability of independent advice (eg, attorney unavailable to discuss sale).
+> Persuasion is unfair or excessive if it seriously impairs the assenting party's ability to exercise free and competent judgment. The following factors are relevant to making this determination:
+Susceptibility of the assenting party (eg, elderly, in poor health).
+Unfairness of the resulting bargain (eg, sale of business for less than half its market value).
+Unavailability of independent advice (eg, attorney unavailable to discuss sale).
 
 uld be expected to observe it.
 
 # 5.unconscionable[不合情理的]
 
 > The defense of unconscionability is available when a contract's bargaining process and/or the contract terms were so unfair to one party that no reasonable person would have agreed to it. When this occurs, the court can **modify or cancel** (ie, refuse to enforce) the contract. Factors used to determine whether a contract is unconscionable include:
-
-- sophistication and knowledge of each party (eg, the parties' unequal knowledge of the timber industry[木材行业])
-- disparity between the parties' bargaining power[除了接受不合理条款别无选择] (eg, the landowner is money-poor and the logger is the only potential buyer)
-- disparity between the value of consideration exchanged by the parties (eg, the sale of timber rights on choice land for a price that is significantly lower than the prevailing rate) and
-- one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the logger).
+sophistication and knowledge of each party (eg, the parties' unequal knowledge of the timber industry[木材行业])
+disparity between the parties' bargaining power[除了接受不合理条款别无选择] (eg, the landowner is money-poor and the logger is the only potential buyer)
+disparity between the value of consideration exchanged by the parties (eg, the sale of timber rights on choice land for a price that is significantly lower than the prevailing rate) and
+one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the logger).
 
 # 6.misrepresentation[虚假陈述]
 
@@ -191,7 +255,8 @@ uld be expected to observe it.
 
 # 7.illegal/contrary to public policy[违反公序良俗] contract 
 
-> 如果合同本身并不违法，只是被用于非法目的，且一方事先并不知情合同并不会无效。哪怕知情，只要1. 没有进一步促进违法行为，并且2. 非法目的不会造成严重的社会伤害，比如人身安全的威胁。依然可以要求另一方**履行合同**，或者**赔偿不履行合同带来的损害**。
+- 如果合同本身并不违法，只是被用于非法目的，且一方事先并不知情合同并不会无效。哪怕知情，只要1. 没有进一步促进违法行为，并且2. 非法目的不会造成严重的社会伤害，比如人身安全的威胁。依然可以要求另一方**履行合同**，或者**赔偿不履行合同带来的损害**。
+
 > An illegal contract generally is void and there is no remedy for a breach. However, in limited situations, a party to an illegal contract can recover either ***expectation damages*** (eg, if the party was justifiably ignorant of the illegality) OR ***restitution damages*** (eg, if the party was less culpable than the other party).
 
 ## 7.1 救济
@@ -208,22 +273,22 @@ uld be expected to observe it.
 
 ### （1）expectation damages
 
-> It can recover full vaule of lost performance.An illegal contract is enforceable for the full amount of the nonbreaching party's expectation damages if:
+- It can recover full vaule of lost performance.An illegal contract is enforceable for the full amount of the nonbreaching party's expectation damages if:
 
 ### （2）restitution damages[衡平法的救济,不当得利的返还]
 
-> It can recover reasonable value of benefit conferred.A party to an illegal contract can recover such damages if that party conferred a benefit on the other party and:
+- It can recover reasonable value of benefit conferred.A party to an illegal contract can recover such damages if that party conferred a benefit on the other party and:
 
 ## 7.2 履行
 
-> When a contract violates a law that was designed to protect the party seeking to enforce the contract, the contract can be enforced to avoid frustrating the public policy behind the statute.
+- When a contract violates a law that was designed to protect the party seeking to enforce the contract, the contract can be enforced to avoid frustrating the public policy behind the statute.
 
 # 四、合同的解释
 
 # 1.Rules of contract interpretation[文义解释]
 
-> The plain-meaning rule of contract interpretation instructs courts to rely on the ordinary meaning of the words if the contract's language is clear and unambiguous.
-> Evidence used to clarify the meaning of an ambiguous contract term is **excepted from the parol evidence rule**.
+- The plain-meaning rule of contract interpretation instructs courts to rely on the ordinary meaning of the words if the contract's language is clear and unambiguous.
+- Evidence used to clarify the meaning of an ambiguous contract term is **excepted from the parol evidence rule**.
 
 |rule|Court's interpret|
 | ------ | ------ |
@@ -235,9 +300,9 @@ uld be expected to observe it.
 
 # 2.contra proferentem[不利解释原则]
 
-> Contra proferentem is a legal principle used in contract interpretation. It means that if there is any ambiguity in a contract, the interpretation should be made against the party that drafted the contract. This rule helps protect the weaker or non-drafting party, ensuring that the drafter does not benefit from unclear language.
-
 - 合同有歧义（ambiguous）时，以对起草方不利的解释为原则。但是，当有履约习惯、交易习惯、行业惯例存在时，我们认为合同是没有歧义的（unambiguous）.Under the doctrine of contra proferentem, ambiguous contract terms are interpreted against the drafter to protect the rights of the nondrafter. But this doctrine does not apply when, as here, the terms are unambiguous.
+
+> Contra proferentem is a legal principle used in contract interpretation. It means that if there is any ambiguity in a contract, the interpretation should be made against the party that drafted the contract. This rule helps protect the weaker or non-drafting party, ensuring that the drafter does not benefit from unclear language.
 
 # 3.course of performance[履约习惯]/course of dealing[交易习惯]/trade usage[行业惯例]
 
@@ -249,14 +314,14 @@ uld be expected to observe it.
 
 ## 3.1 不受口头证据规则的限制
 
-> Under the UCC parol evidence rule, evidence of a prior agreement (or contemporaneous oral agreement) cannot be used to contradict the terms of a final written agreement. But evidence of the parties' course of performance, the parties' course of dealing, or trade usage can always be used to explain or supplement those terms.
-
 - 如果合同有明确规定，应该以合同规定为准，不应该适用这些习惯。
-- UCC进一步认为，这些交易习惯证据可以用来补充和解释一个合同而不受口头证据限制，即使合同是完备的。
+- UCC进一步认为，这些交易习惯证据可以用来补充和解释一个合同而不受口头证据限制，即使合同是完备的.
+
+> Under the UCC parol evidence rule, evidence of a prior agreement (or contemporaneous oral agreement) cannot be used to contradict the terms of a final written agreement. But evidence of the parties' course of performance, the parties' course of dealing, or trade usage can always be used to explain or supplement those terms.
 
 ## 3.2 如存在内容的冲突，适用的先后顺位
 
-> If the evidence is inconsistent, priority is given as follows:
+- If the evidence is inconsistent, priority is given as follows:
 • Express terms[明示条款] prevail over all others
 • Course of performance[履约习惯] prevails over course of dealing and trade usagep
 • Course of dealing [交易习惯] prevails over trade usage
@@ -265,7 +330,8 @@ uld be expected to observe it.
 
 ## 4.1 合同以书面为准，签约之前的口头或书面沟通如果和正式的书面合同原文抵触则无法使用
 
-> The UCC parol evidence rule bars evidence of any prior agreement (or contemporaneous[同时发生的] oral agreement) that contradicts the terms of an integrated writing.***U.C.C. § 2-202 (Am. Law Inst. & Unif. Law Comm'n 2020) (parol evidence rule).***
+- Even when a contract is completely integrated (eg, as evidenced by a merger clause), the parol evidence rule does not bar evidence to clarify the meaning of an ambiguous contract term.
+- The UCC parol evidence rule bars evidence of any prior agreement (or contemporaneous[同时发生的] oral agreement) that contradicts the terms of an integrated writing.***U.C.C. § 2-202 (Am. Law Inst. & Unif. Law Comm'n 2020) (parol evidence rule).***
 
 |type|definition|effect|
 | -- | -- | --- |
@@ -276,34 +342,37 @@ uld be expected to observe it.
 
 ### （1）consistent additional terms/collateral agreement [附属条款]
 
-> This rule does not apply when such evidence is offered to prove the existence of a collateral agreement—ie, a separate contract supported by separate consideration.
-
 - 根据普通法 ，如果考虑到协议的上下文，一致的附加条款似乎很自然地被遗漏，则该条款可能是可以接受的。Under Common Law, consistent additional terms might be admissible if it seems natural that the term would have been left out given the context of the agreement.
 - 根据 UCC，重点是附加条款是否足够重要，以至于如果商定的话肯定会包含在合同中。Under the UCC, the focus is on whether the additional term is important enough that it would certainly have been included in the contract if it had been agreed upon.
 
+> This rule does not apply when such evidence is offered to prove the existence of a collateral agreement—ie, a separate contract supported by separate consideration.
+
 ### （2）conditions[合同条件]
-
-> But this rule does not apply when a party is attacking the validity[有效性] of the agreement—eg, by asserting there was a condition precedent to effectiveness that failed to occur. As a result, evidence of such a condition precedent is admissible.
-
 - 比如是为了证明合同只会在某个条件下才会生效（condition precedent），可以引入。
 
+> The parol evidence rule does not apply when a party is attacking the validity[有效性] of the agreement—eg, by asserting there was a condition precedent to effectiveness that failed to occur. As a result, evidence of such a condition precedent is admissible.
+
 ### （3）reformation[合同重写]
-> 因双方共同的原因不慎导致双方约定的内容和正式的合同有差异，一方可以要求重写合同。
+
+- 因双方共同的原因不慎导致双方约定的内容和正式的合同有差异，一方可以要求重写合同。
 
 ### （4）合同效力的例外
-> However, this rule does not apply, and such evidence is always admissible, when the evidence is used to determine remedies for breach. For example, parol evidence is admissible to prove that ***consequential damages*** were foreseeable and are therefore recoverable.
 
 - 签约之前的沟通如果是为了证明合同无效、可撤销、无法执行等效力问题，可以引入。这些沟通还可以用来证明合同是否完备（completely/fully integrated）。
+
+> However, this rule does not apply, and such evidence is always admissible, when the evidence is used to determine remedies for breach. For example, parol evidence is admissible to prove that ***consequential damages*** were foreseeable and are therefore recoverable.
 
 # 五、 合同的履行
 
 # 1.预期违约[Anticipatory breach] & 不安抗辩[anticipatory repudiation]
 
-> Anticipatory breach* occurs when one party communicates to the other party that it will not perform under the contract. The other party can treat this as a breach and sue immediately or demand performance.
-
 - 如果对方明确表示即将违约（anticipatory repudiation），则受影响的一方可以：1. 立刻起诉违约，或者等履约期满起诉，2. 免除合同的履行责任，3. 敦促对方履行。
 - 一方可以撤回自己此前即将违约的声明，除非：1. 另外一方基于对即将违约的声明的信赖已经作出安排，2. 另外一方已经明确接受了即将违约的声明，或者3. 另外一方已经提起了违约的诉讼。
 - 如果有理由相信对方无法履行合同，受影响的一方可以书面要求对方在合理时间内提供履约保证，如果不能按时提供保证，可以视为即将违约。需要注意的是：1. 必须有合理的原因，基于善意，相信对方无法履行合同，2. 必须书面给出合理期限让对方提出担保，如果没有注明期限，UCC的规定是30天，3. 不能提出明显不合理的担保要求。
+
+> Anticipatory breach* occurs when one party communicates to the other party that it will not perform under the contract. The other party can treat this as a breach and sue immediately or demand performance.
+
+# 2.和解清偿协议（accord）
 
 # 六、合同与第三人
 
@@ -319,20 +388,15 @@ uld be expected to observe it.
 
 ## 1.1 Nonassignment provisions
 
-> Since the nonassignment provision (this contract may not be assigned") did not specify whether it applied to rights or duties, it will be construed to mean that duties may not be delegated.Unless the contract states otherwise, contractual duties can be delegated without the promisee's express consent.
-
 - 普通法中，合同的权利默认都是可以转让的（assignment of rights），***不需要经过另一方同意***。甚至合同仅仅是禁止转让（no assignment of the contract），禁止的也只是义务的转让而不是权利的转让。只有合同明确禁止转让权利（no assignment of rights），转让方（assignor）才禁止转让权利。
-
 - Nonassignment provisions are enforceable.
+
+> Since the nonassignment provision (this contract may not be assigned") did not specify whether it applied to rights or duties, it will be construed to mean that duties may not be delegated.Unless the contract states otherwise, contractual duties can be delegated without the promisee's express consent.
 
 ## 1.2 Silent as to assignment
 
 > "Silent as to assignment" means that a contract or legal document does not include any provisions addressing whether rights or obligations under the agreement can be assigned to another party. When a contract is silent on assignment, the default legal rule in the relevant jurisdiction typically applies.
 > In many cases, unless there is a specific prohibition, contract rights are generally assignable, but **obligations usually require the consent of the other party before being transferred**. However, the exact implications depend on the governing law of the contract.
-
-- eg:the computer retail outlet and the bank entered a service contract that was silent as to assignment or delegation by either party. The retail outlet assigned the entire contract (ie, rights and duties) to a computer service company, but the bank did not release the retail outlet from its duties. So even though the computer service company was qualified and financially responsible, the bank can sue the retail outlet for damages arising from the computer service company's defective performance.
-
-- When, as here, the **promisor delegates** his/her duties by forming a separate contract with the delegatee, the **promisee** of the original contract becomes an **intended beneficiary** of that separate contract. This allows the promisee to **sue the delegatee** (in addition to the promisor) in the event of a breach. The bank, as the intended beneficiary of the agreement between the retail outlet and the computer service company, can therefore sue the computer service company for damages—even though it made no promises to the bank.
 
 # 2.delegate[义务转让]
 
@@ -360,27 +424,25 @@ uld be expected to observe it.
 
 ## 3.2 Consideration generally required to make assignment irrevocable[不可撤销]
 
-> If one party in an agreement decides to waive or forgive a condition (a requirement that must be met for the contract to be fully enforced) for a specific performance or act, they still have the right to reinstate or re-enforce that condition for any future actions or performances under the agreement. However, that rule is **not applicable** here because the parties modified the contract by mutual agreement and the opportunity to reinstate a condition was no longer available.
-
-- eg：the contract between the debtor and the creditor called for the debtor to make payments on the first day of each month. The parties effectively **modified** that contract when the creditor promised to accept payments on the fifth day of each month in exchange for the debtor's promise to make the payments by **cashier's check**.Since this occurred before the creditor assigned his rights under the loan contract to the bank, the debtor can justifiably insist that the payment date for the rest of the installments is the fifth of each month.
-
+- If one party in an agreement decides to waive or forgive a condition (a requirement that must be met for the contract to be fully enforced) for a specific performance or act, they still have the right to reinstate or re-enforce that condition for any future actions or performances under the agreement. However, that rule is **not applicable** here because the parties modified the contract by mutual agreement and the opportunity to reinstate a condition was no longer available.
 - there was **consideration** for the creditor's promise to accept payment at a later date (and the modification was effective) because the debtor altered his preexisting duty to pay the debt by promising to make future payments by cashier's check.
-
 - Exceptions: promissory estoppel, delivery of document symbolizing assigned right (eg, stock certificate), delivery of written & signed assignment.
-
 - There is no rule that makes a contract modification ineffective as to an assignee simply because the assignee had no **notice** of it.
 
 ## 3.3 Assignee's rights
-
-> A party to a contract is generally free to assign (ie, transfer) its contractual rights to another. The recipient of those rights (assignee) then steps into the shoes of the assigning party (assignor) and assumes all of the assignor's contractual rights to the obligor's performance as they stand at the time of the assignment. However, those rights are subject to any claims or defenses that:
 
 - accrued before obligor received notice of assignment.
 - stem from assignor's present or future failure to perform.
 - Assignor loses rights & therefore cannot enforce contract.
 
+> A party to a contract is generally free to assign (ie, transfer) its contractual rights to another. The recipient of those rights (assignee) then steps into the shoes of the assigning party (assignor) and assumes all of the assignor's contractual rights to the obligor's performance as they stand at the time of the assignment. However, those rights are subject to any claims or defenses that:
+
 # 4.novation [约务更替]
 
 ## 4.1 promisee's recovery for breach after promisor delegated dutites
+
+- 约务更替（novation）与义务的转让（delegation）非常类似，但有本质不同。转让通常不需要合同的另一方同意，约务更替则是三方重新签署一个新的合同完全替代此前的双方合同。在约务更替理论下，原本的合同权利和义务不复存在。
+- 约务更替是以一个新当事方替代原当事方之一的新合同。
 
 |约定形式|vs promisor|vs delegatee|
 | -- | -- | -- |
@@ -388,17 +450,26 @@ uld be expected to observe it.
 | contractual delegation | yes | yes |
 | contractual delegation + release(ie,novation) | no | yes |
 
+## 4.2 区别
+
+- 约务更替和和解清偿协议（accord and satisfaction）也有较大的区别：约务更替引入了第三方，也不用考虑对价理论。
+
+| 名称 | 同意 | 对价 | 原合同 |
+| --- | --- | --- | --- |
+| 义务转让 delegation | 单方 | 既有对价 | 存在 |
+| 和解清偿协议 accord | 双方 | 需要 | 存在（暂停执行，并没有废除原来的合同，只是暂停原来合同的执行。如果义务方违约，权利方既可以执行原合同，也可以执行和解清偿协议）|
+| 约务更替 novation | 三方 | 不需要 | 被替代 |
+
 # 5.A third-party beneficiary[受益第三人]
 
 > A third-party beneficiary is a nonparty to a contract who receives an advantage or benefit from the contract.
 
 ## 5.1 intended beneficiary [故意受益第三人]
 
-> Receive direct benefit from contract because contracting parties intended to benefit them.
-
 - The third party can enforce the contract if the third party is an intended beneficiary (ie, one whom the contracting parties intended to benefit directly).
-
 - An intended beneficiary does not need to rely on the doctrine of promissory estoppel[承诺性禁反言]—which allows a party to enforce a promise on which it relied when no valid contract was formed—to enforce its rights.
+
+> Receive direct benefit from contract because contracting parties intended to benefit them.
 
 ## 5.2 incidental beneficiary[附带受益第三人]
 
