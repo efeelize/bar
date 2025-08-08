@@ -27,6 +27,15 @@
 
 - 不可撤回的要约叫做firm offer，要求1. 提出人必须是商家（merchant），2. 书面提出，3. 明确表示要约会保留一段时间。请注意，如果被提出人没有支付对价，要约最多**三个月**后就可以撤销。
 
+# 3.mailbox rule
+
+- 除非有明确约定，接受要约以寄出时生效.
+- 拒绝、撤回要约则是对方收到时生效。比如先寄出同意要约，后寄出拒绝要约，则前一个寄出时合同已经成立。除非提出要约的人先收到了拒绝要约的信，并基于对拒绝的信赖作出后续安排。
+- 如果是先寄出拒绝要约，后寄出接受要约，以对方先收到的信为准，不适用邮箱规则。
+- 如果要约提出人撤回要约，对方知悉被撤回之前寄出了同意要约，则合同依然成立。但如果已经知悉要约被撤回，被提出人无法同意要约。
+
+> Under the mailbox rule, acceptance of an offer is generally effective upon dispatch. However, one exception to the mailbox rule applies to option contracts, where acceptance is effective upon receipt.
+
 # 二、合同的有效性 & 可执行性
 
 # 1.Preexisting Duty Rule[已经存在的法律义务]
