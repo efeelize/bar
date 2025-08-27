@@ -2,8 +2,7 @@
 
 # 1.如果同时出现普通法（UCC）和衡平法的适用选择
 
-- 我们要关注合同是否成立，如果合同成立，一般来说按照前面的赔偿金解决问题，除非造成明显的不公。只有当合同没有成
-立时才用衡平法理论解决问题，比如准合同、禁反言等;
+- 我们要关注合同是否成立，如果合同成立，一般来说按照前面的赔偿金解决问题，除非造成明显的不公。只有当合同没有成立时才用衡平法理论解决问题，比如准合同、禁反言等;
 - “让人做某事”，“不让人做某事”是衡平法的救济，普通法关注金钱上的赔偿;
 - 普通法救济足够的时候，不用衡平法救济;
 - 衡平法由法官审理事实，而不是陪审团;
@@ -16,7 +15,7 @@
 | UCC Firm offer | Merchant gives written & signed assurance that offer will remain open | Not required | Specified or reasonable time |
 | Common law Option contract[选择权合同] | Offeror promises to keep offer open in exchange for consideration | Required | / |
 | Common law Partial performance (unilateral contracts单方合同) | Offeror invites acceptance only by performance & offeree begins to perform | / | Reasonable time for full performance |
-| Promissory estoppel | Offeror could reasonably foresee reliance on offer & offeree reasonably relies to his/her detriment[要约人可合理预见到受要约人将信赖其要约，且受要约人已合理信赖该要约并因此遭受损害] | Not required | Reasonable time |
+| Promissory estoppel（also called detrimental reliance） | Offeror could reasonably foresee reliance on offer & offeree reasonably relies to his/her detriment[要约人可合理预见到受要约人将信赖其要约，且受要约人已合理信赖该要约并因此遭受损害] | Not required | Reasonable time |
 
 ## 2.1 普通法
 
@@ -29,12 +28,24 @@
 
 # 3.mailbox rule
 
-- 除非有明确约定，接受要约以寄出时生效.
-- 拒绝、撤回要约则是对方收到时生效。比如先寄出同意要约，后寄出拒绝要约，则前一个寄出时合同已经成立。除非提出要约的人先收到了拒绝要约的信，并基于对拒绝的信赖作出后续安排。
-- 如果是先寄出拒绝要约，后寄出接受要约，以对方先收到的信为准，不适用邮箱规则。
+- 除非有明确约定，接受要约以**寄出时**生效.
+- 拒绝、撤回要约则是对方**收到时**生效。比如先寄出同意要约，后寄出拒绝要约，则前一个寄出时合同已经成立。除非提出要约的人先收到了拒绝要约的信，并基于对拒绝的信赖作出后续安排。
+- 如果是先寄出拒绝要约，后寄出接受要约，以对方**先收到**的信为准，不适用邮箱规则。
 - 如果要约提出人撤回要约，对方知悉被撤回之前寄出了同意要约，则合同依然成立。但如果已经知悉要约被撤回，被提出人无法同意要约。
 
 > Under the mailbox rule, acceptance of an offer is generally effective upon dispatch. However, one exception to the mailbox rule applies to option contracts, where acceptance is effective upon receipt.
+
+# 4.consideration
+
+> For any agreement to be enforceable, there must be consideration  - ie, a bargained-for exchange of promises or performance[经交易协商而交换的承诺或履行]. The promise to perform, or the performance of, a preexisting duty does not qualify as consideration[履行已存义务的承诺或行为，不构成有效的对价]. Under this preexisting duty rule, a debtor's promise to pay all or part of a liquidated debt (ie, one that is certain and undisputed,数额确定且无争议) is not sufficient consideration to support a creditor's return promise.
+
+| consideration problems |  prevent contract formation |
+| --- | --- |
+| gift[赠与] |  No-bargained-for exchange |
+| token consideration [象征性对价] | No inducement to bargain if performance entirely devoid of value [如果履行完全没有价值，则无交易诱因] |
+| Sham consideration [虚假对价] | No legal detriment & no inducement to bargain if recited performance not intended to be completed [如果所述的履行本不打算完成，则无法律上的损害且无交易诱因] |
+| Preexisting duty / past consideration | No legal detriment if performance already owed or completed |
+| Illusory promise [虚幻的承诺] | No legal detriment if apparent promise imposes no obligation |
 
 # 二、合同的有效性 & 可执行性
 
@@ -371,6 +382,16 @@ one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the
 
 > However, this rule does not apply, and such evidence is always admissible, when the evidence is used to determine remedies for breach. For example, parol evidence is admissible to prove that ***consequential damages*** were foreseeable and are therefore recoverable.
 
+# 5.UCC gap fillers
+
+> Contracts for the sale of goods (eg, faucets) are governed by Article 2 of the Uniform Commercial Code (UCC). The UCC "fills the gap" when certain terms are missing from a contract. For example, the gap filler for a missing place of delivery is generally the seller's place of business if the seller has one. And unless the contract specifies otherwise[除非合同另有规定], payment is due at the time and place the buyer is to receive each shipment of goods. In that case, the seller is only required to deliver the goods if the buyer tenders the payment[只有在买方支付货款时，卖方才有义务交付货物].
+
+| Missing terms | Gap fillers |
+| Place of delivery | (1)seller's place of  business if applicable;(2)seller's home;(3)some other place if parties know goods are there |
+| Time for shipment/delivery | reasonable time |
+| Price | reasonable price at time for delivery |
+| Time/place for payment | Time & place buyer is to receive goods | 
+
 # 五、 合同的履行
 
 # 1.预期违约[Anticipatory breach] & 不安抗辩[anticipatory repudiation]
@@ -489,3 +510,13 @@ one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the
 # 八、普通法救济
 
 # 九、衡平法救济
+
+# 1. estoppel
+
+- 如果一方作出承诺，对方已经基于信赖作出有损害的安排（detrimental reliance），则承诺方不得反悔。
+- 基于信赖作出的安排必须是有损害的（detrimental）
+
+> Promissory estoppel Allows enforcement of promise when no valid contract[合同无效] exists if:
+（1）promisor reasonably expected to induce reliance on promise
+（2）enforcing party reasonably relied on promise
+（3）reliance caused enforcing party to suffer substantial detriment[重大损害] and injustice can be avoided only by enforcing promise[只有通过执行该允诺才能避免不公].
