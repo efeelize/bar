@@ -17,6 +17,44 @@
 | Bilateral modification[双方变更] | Must be supported by new consideration | New consideration not required if made in good faith[如果出于善意，则不需要新的对价] |
 | Unilateral discharge[单方解除] | Death Destruction of subject matter Impracticability | / |
 | Suing for breach | Must be in privity (ie, party to contract) or intended beneficiary[必须有合同相对性（即，合同当事人）或为预期受益人] | No privity/beneficiary requirement |
+| Effect of new terms in reply to offer | mirror-image，Offer rejected，Reply treated as counteroffer |（1）≥1 party is nonmerchant：Offer accepted unless reply expressly required assent to new/revised terms/New/revised terms treated as proposed additions to contract;(2)All parties are merchants | 
+
+## 1.1 mirror-image rule[镜像规则]
+
+> Under this rule, an acceptance must match the terms of the offer exactly. A purported acceptance that contains different or additional terms acts as a rejection of the original offer and as a counteroffer[均构成对原要约的拒绝和一项反要约].
+> However, mere suggestions or inquiries that the offeror is free to accept or reject do not. The offeree can therefore accept the original offer in spite of such suggestions or inquiries.
+
+## 1.2 mailbox rule[邮箱规则]
+
+| / |  effective time |
+| ---- | ---- |
+| Offeror[要约人]'s actions: Offer, Revocation of offer | Effective upon receipt |
+| Offeree[受要约人]'s actions: Acceptance[承诺] (mailbox rule) | Effective upon dispatch[发出时生效].Exceptions - effective upon receipt if:(1)improperly stamped/addressed[邮票不足或地址错误];(2)acceptance by mail unreasonable[通过邮件承诺不合理];(3)rejection mailed before acceptance (first received is effective);(4)acceptance of option contract[选择权合同的承诺] |
+| Offeree's actions: Rejection[拒绝]/counteroffer[反要约] | Effective upon receipt |
+
+- 根据邮箱规则 (mailbox rule)，通过邮寄或类似方式发送的承诺通常在发出时生效，而拒绝则在收到时生效。
+- 先寄出同意要约，后寄出拒绝要约，则前一个寄出时合同已经成立。除非提出要约的人先收到了拒绝要约的信，并基于对拒绝的信赖作出后续安排。
+- 先寄出拒绝要约，后寄出接受要约，以对方**先收到**的信为准，不适用邮箱规则。
+- 约提出人撤回要约，对方知悉被撤回之前寄出了同意要约，则合同依然成立。但如果已经知悉要约被撤回，被提出人无法同意要约。
+
+> Under the mailbox rule, acceptance of an offer is generally effective upon dispatch. However, one exception to the mailbox rule applies to option contracts, where acceptance is effective upon receipt.
+
+## 1.3 Merchant exception[UCC]
+
+- 双方如果都是商家，虽然没有书面合同，但如果一方把口头合意及时以书面形式送达给对方，对方没有在10天内提出书面反对，视为满足反欺诈法的要求。
+- 但书面形式必须有签名用来针对起草方（发出方），否则也无法用来针对被送达方.
+
+> Under the merchant exception, a written confirmation need only be **signed by one merchant** and sent to the other merchant. If the recipient has reason to know the confirmation's contents and does not object within **10 days**, then it is **enforceable against both merchants**.
+
+## 1.4 UCC gap fillers
+
+> Contracts for the sale of goods (eg, faucets) are governed by Article 2 of the Uniform Commercial Code (UCC). The UCC "fills the gap" when certain terms are missing from a contract. For example, the gap filler for a missing place of delivery is generally the seller's place of business if the seller has one. And unless the contract specifies otherwise[除非合同另有规定], payment is due at the time and place the buyer is to receive each shipment of goods. In that case, the seller is only required to deliver the goods if the buyer tenders the payment[只有在买方支付货款时，卖方才有义务交付货物].
+
+| Missing terms | Gap fillers |
+| Place of delivery | (1)seller's place of  business if applicable;(2)seller's home;(3)some other place if parties know goods are there |
+| Time for shipment/delivery | reasonable time |
+| Price | reasonable price at time for delivery |
+| Time/place for payment | Time & place buyer is to receive goods |
 
 # 2.Irrevocable offers[不可撤回的要约]
 
@@ -39,22 +77,7 @@
 - 2.书面提出;
 - 3.明确表示要约会保留一段时间。请注意，如果被提出人没有支付对价，要约最多**三个月**后就可以撤销。
 
-# 3.mailbox rule[邮箱规则]
-
-| / |  effective time |
-| ---- | ---- |
-| Offeror's actions: Offer, Revocation of offer | Effective upon receipt |
-| Offeree's actions: Acceptance (mailbox rule) | Effective upon dispatch.Exceptions - effective upon receipt if:(1)improperly stamped/addressed;(2)acceptance by mail unreasonable;(3)rejection mailed before acceptance (first received is effective)(4)acceptance of option contract |
-| Offeree's actions: Rejection/counteroffer | Effective upon receipt |
-
-- 根据邮箱规则 (mailbox rule)，通过邮寄或类似方式发送的承诺通常在发出时生效，而拒绝则在收到时生效。
-- 先寄出同意要约，后寄出拒绝要约，则前一个寄出时合同已经成立。除非提出要约的人先收到了拒绝要约的信，并基于对拒绝的信赖作出后续安排。
-- 先寄出拒绝要约，后寄出接受要约，以对方**先收到**的信为准，不适用邮箱规则。
-- 约提出人撤回要约，对方知悉被撤回之前寄出了同意要约，则合同依然成立。但如果已经知悉要约被撤回，被提出人无法同意要约。
-
-> Under the mailbox rule, acceptance of an offer is generally effective upon dispatch. However, one exception to the mailbox rule applies to option contracts, where acceptance is effective upon receipt.
-
-# 4.consideration
+# 3.consideration
 
 > For any agreement to be enforceable, there must be consideration  - ie, a bargained-for exchange of promises or performance[经交易协商而交换的承诺或履行]. The promise to perform, or the performance of, a preexisting duty does not qualify as consideration[履行已存义务的承诺或行为，不构成有效的对价]. Under this preexisting duty rule, a debtor's promise to pay all or part of a liquidated debt (ie, one that is certain and undisputed,数额确定且无争议) is not sufficient consideration to support a creditor's return promise.
 
@@ -66,12 +89,7 @@
 | Preexisting duty / past consideration | No legal detriment if performance already owed or completed |
 | Illusory promise [虚幻的承诺] | No legal detriment if apparent promise imposes no obligation |
 
-# 5.mirror-image rule[镜像规则]
-
-> Under this rule, an acceptance must match the terms of the offer exactly. A purported acceptance that contains different or additional terms acts as a rejection of the original offer and as a counteroffer[均构成对原要约的拒绝和一项反要约].
-> However, mere suggestions or inquiries that the offeror is free to accept or reject do not. The offeree can therefore accept the original offer in spite of such suggestions or inquiries.
-
-# 6.unilateral contract [单方合同]
+# 5.unilateral contract [单方合同]
 
 - 无论是单方合同还是双方合同的要约，该要约都必须合理地传达给受要约人，且受要约人必须知晓该要约，才能接受它。否则，就无法达成订立合同的双方合意。
 
@@ -197,14 +215,7 @@
 
 > In either case, the loan itself serves as valid consideration for the guarantor's promise[贷款本身即构成了对保证人承诺的有效对价] - even if the guarantor is not notified when the loan is made. That is because the loan is a legal detriment[法律上的损害] to the creditor that was induced by the guarantor's promise.
 
-## 4.7 Merchant exception[UCC]
-
-- 双方如果都是商家，虽然没有书面合同，但如果一方把口头合意及时以书面形式送达给对方，对方没有在10天内提出书面反对，视为满足反欺诈法的要求。
-- 但书面形式必须有签名用来针对起草方（发出方），否则也无法用来针对被送达方.
-
-> Under the merchant exception, a written confirmation need only be **signed by one merchant** and sent to the other merchant. If the recipient has reason to know the confirmation's contents and does not object within **10 days**, then it is **enforceable against both merchants**.
-
-## 4.8 NOM clause[no-oral modification clause]
+## 4.7 NOM clause[no-oral modification clause]
 
 | 适用法律 | NOM条款的效力 |
 | -- | -- |
@@ -429,16 +440,6 @@ one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the
 - 签约之前的沟通如果是为了证明合同无效、可撤销、无法执行等效力问题，可以引入。这些沟通还可以用来证明合同是否完备（completely/fully integrated）。
 
 > However, this rule does not apply, and such evidence is always admissible, when the evidence is used to determine remedies for breach. For example, parol evidence is admissible to prove that ***consequential damages*** were foreseeable and are therefore recoverable.
-
-# 5.UCC gap fillers
-
-> Contracts for the sale of goods (eg, faucets) are governed by Article 2 of the Uniform Commercial Code (UCC). The UCC "fills the gap" when certain terms are missing from a contract. For example, the gap filler for a missing place of delivery is generally the seller's place of business if the seller has one. And unless the contract specifies otherwise[除非合同另有规定], payment is due at the time and place the buyer is to receive each shipment of goods. In that case, the seller is only required to deliver the goods if the buyer tenders the payment[只有在买方支付货款时，卖方才有义务交付货物].
-
-| Missing terms | Gap fillers |
-| Place of delivery | (1)seller's place of  business if applicable;(2)seller's home;(3)some other place if parties know goods are there |
-| Time for shipment/delivery | reasonable time |
-| Price | reasonable price at time for delivery |
-| Time/place for payment | Time & place buyer is to receive goods | 
 
 # 五、 合同的履行
 
