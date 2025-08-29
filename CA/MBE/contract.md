@@ -8,6 +8,16 @@
 - 衡平法由法官审理事实，而不是陪审团;
 - 普通法通常严格遵循法律和先例（先例也是法律的一部分），而衡平法更关注结果是否公平，但公平并非只有一种答案.
 
+| / |  common law |  UCC |
+| --- | --- | ---- |
+| Promise to hold offer open | Must be supported by consideration (ie, option contract) | No consideration required when merchant gives written & signed assurance [商人作出书面并签署的保证时，无需对价](ie, firm offer不可撤销要约) |
+| Contract formation[合同成立] | Must have offer & acceptance with knowledge of that offer | Any manner sufficient to show agreement[任何足以表明合意的方式] |
+| Acceptance[承诺] | Must agree to exact terms of offer (ie, mirror-image rule) | Effective even with new/contradictory terms |
+| Required term[必要条款] | Description of property/service Quantity Price Time for performance[财产/服务的描述、数量、价格、履行时间] | Description of goods Quantity |
+| Bilateral modification[双方变更] | Must be supported by new consideration | New consideration not required if made in good faith[如果出于善意，则不需要新的对价] |
+| Unilateral discharge[单方解除] | Death Destruction of subject matter Impracticability | / |
+| Suing for breach | Must be in privity (ie, party to contract) or intended beneficiary[必须有合同相对性（即，合同当事人）或为预期受益人] | No privity/beneficiary requirement |
+
 # 2.Irrevocable offers[不可撤回的要约]
 
 | Type | Description | Consideration | Duration |
