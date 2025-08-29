@@ -162,15 +162,18 @@
 
 - UCC下只要数量确定，the contract is enforceable since UCC gap-fillers will supply the price term at the time of delivery.***Under the Uniform Commercial Code (UCC) § 2-201, contracts for the sale of goods worth $500 or more must be in writing to be enforceable.***
 
-## 4.6 Suretyship
+## 4.6 Suretyship[保证合同]
 
-> A suretyship arises when one party (guarantor) promises a second party (creditor) that the guarantor will pay the debt of a third party (principal) if he/she defaults. To be enforceable, a suretyship must be in writing and supported by consideration. The consideration requirement is met if the guarantor is compensated for the promise.
+### (1)保证人一般因其承诺获得报酬
 
-> But even if the guarantor is uncompensated, the consideration requirement is still satisfied if:
-the creditor conditioned the loan to the principal on the guarantor's promise to pay or
-the guarantor made the promise to pay before or at the same time as the creditor made the loan to the principal.
+> A suretyship arises when one party (guarantor,保证人) promises a second party (creditor，债权人) that the guarantor will pay the debt of a third party (principal，主债务人) if he/she defaults[违约]. To be enforceable, a suretyship must be in writing and supported by consideration. The consideration requirement is met if the guarantor is compensated for the promise.
 
-> n either case, the loan itself serves as valid consideration for the guarantor's promise - even if the guarantor is not notified when the loan is made. That is because the loan is a legal detriment to the creditor that was induced by the guarantor's promise.
+### （2）例外:保证人未获报酬
+
+- 1.the creditor conditioned the loan to the principal on the guarantor's promise to pay[债权人向主债务人提供贷款的条件是保证人承诺偿还] or
+- 2.the guarantor made the promise to pay before or at the same time as the creditor made the loan to the principal.[保证人在债权人向主债务人提供贷款之前或同时作出了偿还承诺]
+
+> In either case, the loan itself serves as valid consideration for the guarantor's promise[贷款本身即构成了对保证人承诺的有效对价] - even if the guarantor is not notified when the loan is made. That is because the loan is a legal detriment[法律上的损害] to the creditor that was induced by the guarantor's promise.
 
 ## 4.7 Merchant exception[UCC]
 

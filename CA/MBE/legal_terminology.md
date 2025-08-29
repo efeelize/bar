@@ -176,3 +176,11 @@
 
 > The word “allotted” means given, assigned, or distributed as a share or portion.
 It often refers to time, resources, tasks, or responsibilities that are designated for a specific person, purpose, or use.
+
+# 38.terminate by lapse
+
+- A power of attorney may terminate by lapse in law if the principal dies or if the specified time period ends.
+- A lawsuit may terminate by lapse in law if the plaintiff does not take required steps (like serving the defendant) within the statutory time limit.
+- An offer in contract law lapses by law if it is not accepted within the stated or reasonable time.
+
+> It generally means that a right, contract, power, or legal proceeding ends automatically (without further action) because a required period of time has expired or a condition was not fulfilled.it’s basically when the law itself provides that something ends automatically due to time or unmet condition, without needing a court order or explicit cancellation.
