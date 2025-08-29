@@ -60,9 +60,9 @@
 
 | Type | Description | Consideration | Duration |
 | --- | --- | --- | ---- |
-| UCC Firm offer | Merchant gives written & signed assurance that offer will remain open | Not required[商家以书面形式并签署保证，确保要约保持开放] | Specified or reasonable time |
-| Common law Option contract[选择权合同] | Offeror promises to keep offer open in exchange for consideratio[要约人承诺保持要约开放以换取对价] | Required | / |
-| Common law Partial performance (unilateral contracts单方合同) | Offeror invites acceptance only by performance & offeree begins to perform[要约人仅以履行方式邀请承诺，且受要约人已开始履行] | / | Reasonable time for full performance |
+| UCC Firm offer | Merchant gives written & signed assurance that offer will remain open[商家以书面形式并签署保证，确保要约保持开放]  | Not required | Specified or reasonable time |
+| Common law Option contract[选择权合同] | Offeror promises to keep offer open in exchange for consideratio[要约人承诺保持要约开放以换取对价] | Required | Reasonable time for full performance |
+| Common law Partial performance (unilateral contracts单方合同) | Offeror invites acceptance only by performance & offeree begins to perform[要约人仅以履行方式邀请承诺，且受要约人已开始履行] | Not required | Reasonable time for full performance |
 | Promissory estoppel（also called detrimental reliance） | Offeror could reasonably foresee reliance on offer & offeree reasonably relies to his/her detriment[要约人可合理预见到受要约人将信赖其要约，且受要约人已合理信赖该要约并因此遭受损害] | Not required | Reasonable time |
 
 ## 2.1 普通法
