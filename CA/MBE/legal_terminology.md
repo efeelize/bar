@@ -184,3 +184,10 @@ It often refers to time, resources, tasks, or responsibilities that are designat
 - An offer in contract law lapses by law if it is not accepted within the stated or reasonable time.
 
 > It generally means that a right, contract, power, or legal proceeding ends automatically (without further action) because a required period of time has expired or a condition was not fulfilled.it’s basically when the law itself provides that something ends automatically due to time or unmet condition, without needing a court order or explicit cancellation.
+
+# 39.rescind 
+
+- If you buy land based on false statements from the seller, you may seek to rescind the sales contract.
+- A consumer may rescind a door-to-door sales contract within a statutory cooling-off period.
+
+> In law, “rescind” means to cancel, revoke, or undo a contract, agreement, or transaction, so that it is treated as though it never existed.When a contract is rescinded, both parties are usually returned to the position they were in before the contract (this is called restoring the status quo ante).

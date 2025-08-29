@@ -39,12 +39,18 @@
 - 2.书面提出;
 - 3.明确表示要约会保留一段时间。请注意，如果被提出人没有支付对价，要约最多**三个月**后就可以撤销。
 
-# 3.mailbox rule
+# 3.mailbox rule[邮箱规则]
 
-- 除非有明确约定，接受要约以**寄出时**生效.
-- 拒绝、撤回要约则是对方**收到时**生效。比如先寄出同意要约，后寄出拒绝要约，则前一个寄出时合同已经成立。除非提出要约的人先收到了拒绝要约的信，并基于对拒绝的信赖作出后续安排。
-- 如果是先寄出拒绝要约，后寄出接受要约，以对方**先收到**的信为准，不适用邮箱规则。
-- 如果要约提出人撤回要约，对方知悉被撤回之前寄出了同意要约，则合同依然成立。但如果已经知悉要约被撤回，被提出人无法同意要约。
+| / |  effective time |
+| ---- | ---- |
+| Offeror's actions: Offer, Revocation of offer | Effective upon receipt |
+| Offeree's actions: Acceptance (mailbox rule) | Effective upon dispatch.Exceptions - effective upon receipt if:(1)improperly stamped/addressed;(2)acceptance by mail unreasonable;(3)rejection mailed before acceptance (first received is effective)(4)acceptance of option contract |
+| Offeree's actions: Rejection/counteroffer | Effective upon receipt |
+
+- 根据邮箱规则 (mailbox rule)，通过邮寄或类似方式发送的承诺通常在发出时生效，而拒绝则在收到时生效。
+- 先寄出同意要约，后寄出拒绝要约，则前一个寄出时合同已经成立。除非提出要约的人先收到了拒绝要约的信，并基于对拒绝的信赖作出后续安排。
+- 先寄出拒绝要约，后寄出接受要约，以对方**先收到**的信为准，不适用邮箱规则。
+- 约提出人撤回要约，对方知悉被撤回之前寄出了同意要约，则合同依然成立。但如果已经知悉要约被撤回，被提出人无法同意要约。
 
 > Under the mailbox rule, acceptance of an offer is generally effective upon dispatch. However, one exception to the mailbox rule applies to option contracts, where acceptance is effective upon receipt.
 
@@ -64,6 +70,12 @@
 
 > Under this rule, an acceptance must match the terms of the offer exactly. A purported acceptance that contains different or additional terms acts as a rejection of the original offer and as a counteroffer[均构成对原要约的拒绝和一项反要约].
 > However, mere suggestions or inquiries that the offeror is free to accept or reject do not. The offeree can therefore accept the original offer in spite of such suggestions or inquiries.
+
+# 6.unilateral contract [单方合同]
+
+- 无论是单方合同还是双方合同的要约，该要约都必须合理地传达给受要约人，且受要约人必须知晓该要约，才能接受它。否则，就无法达成订立合同的双方合意。
+
+> An offer to form a unilateral contract invites acceptance only by performance of a specified act, while an offer to form a bilateral contract invites acceptance by a promise to perform the act.
 
 # 二、合同的有效性 & 可执行性
 
@@ -166,7 +178,7 @@
 
 – a contract to pay an estate's debt out of the executor's personal funds[遗产管理人自掏腰包支付死者的债务]
 
-## 4.5 Goods 
+## 4.5 Goods
 
 – a contract for the sale of goods for $500 or more[500美金或以上的物品买卖合同]
 
