@@ -17,7 +17,7 @@
 | Bilateral modification[双方变更] | Must be supported by new consideration | New consideration not required if made in good faith[如果出于善意，则不需要新的对价] |
 | Unilateral discharge[单方解除] | Death Destruction of subject matter Impracticability | / |
 | Suing for breach | Must be in privity (ie, party to contract) or intended beneficiary[必须有合同相对性（即，合同当事人）或为预期受益人] | No privity/beneficiary requirement |
-| Effect of new terms in reply to offer | mirror-image，Offer rejected，Reply treated as counteroffer |（1）≥1 party is nonmerchant：Offer accepted unless reply expressly required assent to new/revised terms/New/revised terms treated as proposed additions to contract;(2)All parties are merchants | 
+| Effect of new terms in reply to offer[对要约的回应中新增条] | mirror-image，Offer rejected，Reply treated as counteroffer |（1）≥1 party is nonmerchant：Offer accepted unless reply expressly required assent to new/revised terms,New/revised terms treated as proposed additions to contract[要约被接受，除非回应明确要求同意新增/修订的条款,新增/修订的条款被视为对合同的附加提议];(2)All parties are merchants:Offer accepted unless reply expressly required assent to new/revised terms,New terms become part of contract unless[新增条款成为合同的一部分]:(2.1)offer expressly required assent to new terms[要约明确要求同意新增条款];(2.2)new terms materially alter contract or;(2.3)offeror objects within reasonable time;(3)Revised terms follow split authority[修订条款遵循不同判例] & are either:(3.1)treated as new terms or[被视为新增条款];(3.2)cancelled out under knockout rule[根据剔除规则被取消] |
 
 ## 1.1 mirror-image rule[镜像规则]
 
@@ -567,13 +567,12 @@ one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the
 
 ## 1.1 强制执行另一方允诺的条件
 
-> Promissory estoppel Allows enforcement of promise when no valid contract[一方在没有成立有效合同的情况下，强制执行另一方的允诺] exists if:
-（1）promisor reasonably expected to induce reliance on promise[允诺人合理预期其允诺会引致信赖]
-（2）enforcing party reasonably relied on promise[寻求强制执行的一方合理地信赖了该允诺]
-（3）reliance caused enforcing party to suffer substantial detriment[重大损害] and 
- (4)injustice can be avoided only by enforcing promise[只有通过执行该允诺才能避免不公].
+- 1.promisor reasonably expected to induce reliance on promise[允诺人合理预期其允诺会引致信赖]
+- 2.enforcing party reasonably relied on promise[寻求强制执行的一方合理地信赖了该允诺]
+- 3.reliance caused enforcing party to suffer substantial detriment[重大损害] and 
+- 4.injustice can be avoided only by enforcing promise[只有通过执行该允诺才能避免不公].
 
-## 1.2 要约被视为不可撤销（一段时间内）的条件：
-> Under the doctrine of promissory estoppel (ie, detrimental reliance), an offer is treated as an option contract and is therefore irrevocable for a reasonable period of time if[一个要约将被视为选择权合同，因此在一段合理时间内是不可撤销的]:
-(1)the offeror reasonably expected to induce reliance on the offer before acceptance.[要约人合理预期其要约在被接受前会引致信赖]
-(2)the offeree reasonably relied on the offer and that reliance caused the offeree to suffer substantial detriment.[受要约人合理地信赖了该要约并且该信赖导致受要约人遭受了重大的不利影响]
+## 1.2 要约被视为选择权合同，因此在一段合理时间内是不可撤销的
+
+- 1.the offeror reasonably expected to induce reliance on the offer before acceptance.[要约人合理预期其要约在被接受前会引致信赖]
+- 2.the offeree reasonably relied on the offer and that reliance caused the offeree to suffer substantial detriment.[受要约人合理地信赖了该要约并且该信赖导致受要约人遭受了重大的不利影响]
