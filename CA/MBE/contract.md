@@ -8,13 +8,13 @@
 - 衡平法由法官审理事实，而不是陪审团;
 - 普通法通常严格遵循法律和先例（先例也是法律的一部分），而衡平法更关注结果是否公平，但公平并非只有一种答案.
 
-# 2.不可撤回的要约[Irrevocable offers]
+# 2.Irrevocable offers[不可撤回的要约]
 
 | Type | Description | Consideration | Duration |
 | --- | --- | --- | ---- |
-| UCC Firm offer | Merchant gives written & signed assurance that offer will remain open | Not required | Specified or reasonable time |
-| Common law Option contract[选择权合同] | Offeror promises to keep offer open in exchange for consideration | Required | / |
-| Common law Partial performance (unilateral contracts单方合同) | Offeror invites acceptance only by performance & offeree begins to perform | / | Reasonable time for full performance |
+| UCC Firm offer | Merchant gives written & signed assurance that offer will remain open | Not required[商家以书面形式并签署保证，确保要约保持开放] | Specified or reasonable time |
+| Common law Option contract[选择权合同] | Offeror promises to keep offer open in exchange for consideratio[要约人承诺保持要约开放以换取对价] | Required | / |
+| Common law Partial performance (unilateral contracts单方合同) | Offeror invites acceptance only by performance & offeree begins to perform[要约人仅以履行方式邀请承诺，且受要约人已开始履行] | / | Reasonable time for full performance |
 | Promissory estoppel（also called detrimental reliance） | Offeror could reasonably foresee reliance on offer & offeree reasonably relies to his/her detriment[要约人可合理预见到受要约人将信赖其要约，且受要约人已合理信赖该要约并因此遭受损害] | Not required | Reasonable time |
 
 ## 2.1 普通法
@@ -24,7 +24,10 @@
 
 ## 2.2 UCC
 
-- 不可撤回的要约叫做firm offer，要求1. 提出人必须是商家（merchant），2. 书面提出，3. 明确表示要约会保留一段时间。请注意，如果被提出人没有支付对价，要约最多**三个月**后就可以撤销。
+- 不可撤回的要约叫做firm offer，要求:
+- 1.提出人必须是商家（merchant）;
+- 2.书面提出;
+- 3.明确表示要约会保留一段时间。请注意，如果被提出人没有支付对价，要约最多**三个月**后就可以撤销。
 
 # 3.mailbox rule
 
@@ -46,6 +49,11 @@
 | Sham consideration [虚假对价] | No legal detriment & no inducement to bargain if recited performance not intended to be completed [如果所述的履行本不打算完成，则无法律上的损害且无交易诱因] |
 | Preexisting duty / past consideration | No legal detriment if performance already owed or completed |
 | Illusory promise [虚幻的承诺] | No legal detriment if apparent promise imposes no obligation |
+
+# 5.mirror-image rule[镜像规则]
+
+> Under this rule, an acceptance must match the terms of the offer exactly. A purported acceptance that contains different or additional terms acts as a rejection of the original offer and as a counteroffer[均构成对原要约的拒绝和一项反要约].
+> However, mere suggestions or inquiries that the offeror is free to accept or reject do not. The offeree can therefore accept the original offer in spite of such suggestions or inquiries.
 
 # 二、合同的有效性 & 可执行性
 
@@ -120,19 +128,22 @@
 | writing |  Physical or electronic document(s) containing reasonable basis to believe contract was formed (eg, receipt, check, emails) | identifies parties, subject matter, consideration, time & nature of performance | lists quantity of goods (contract enforceable only up to written quantity) |
 | signature | / | General rule – handwritten signature from, or other mark identifying, party to be charged[只要求被告签名] (eg, letterhead, electronic signature, initials[简签]) | Merchant exception – a written confirmation need only to be **signed by one merhant** and sent to the other merchant.If the recipient has reason to know the confirmation's contents and does not object within 10 days,then it is **enforceable against both merchants.** [提出反对的书面形式必须有签名,UCC的特殊规定] |
 
-## 4.1 适用反欺诈法的情形/特殊合同必须要书面
-
 - A contract need only be in writing and signed by the party to be charged if it falls within the statute of frauds. This rule applies to contracts for the sale of goods for $500 or more.
 
-### （1）Marriage – a contract made in consideration of marriage
+## 4.1 Marriage
 
-### （2）Year – a contract that cannot be completed within one year[从签订日期开始预计要超过一年才能完成的服务合同]
+– a contract made in consideration of marriage
 
-- The one-year provision of the statute of frauds applies to a contract whose terms make it impossible for any party to fully perform within one year. However, the parties' option to terminate the contract within a year does not remove it from the statute under the majority rule.
+## 4.2 Year
 
+– a contract that cannot be completed within one year[从签订日期开始预计要超过一年才能完成的服务合同]
 - Contracts whose terms make it impossible for any party to fully perform within one year,Excludes contracts of uncertain duration[时间不确定的合同] (eg, lifetime contracts).
 
-### (3)Land – a contract for the sale or transfer of an interest in real property
+> The one-year provision of the statute of frauds applies to a contract whose terms make it impossible for any party to fully perform within one year. However, the parties' option to terminate the contract within a year does not remove it from the statute under the majority rule.
+
+## 4.3 Land
+
+– a contract for the sale or transfer of an interest in real property.
 
 - leases and easements[租约和地役权] for less than one year are usually excluded from the statute，even though it involves an interest in real property.
 
@@ -141,22 +152,34 @@
 • Made **substantial improvements** to the property (not seen here)
 • **Paid** some or all of the **purchase price** (here, the stable manager made a small down payment)
 
-### (4)Executor – a contract to pay an estate's debt out of the executor's personal funds[遗产管理人自掏腰包支付死者的债务]
+## 4.4 Executor
 
-### （5）Goods – a contract for the sale of goods for $500 or more[500美金或以上的物品买卖合同]
+– a contract to pay an estate's debt out of the executor's personal funds[遗产管理人自掏腰包支付死者的债务]
 
-- [UCC下只要数量确定]，the contract is enforceable since UCC gap-fillers will supply the price term at the time of delivery.***Under the Uniform Commercial Code (UCC) § 2-201, contracts for the sale of goods worth $500 or more must be in writing to be enforceable.***
+## 4.5 Goods 
 
-### (6)Suretyship – a contract to answer for the debt or duty of another[担保合同]
+– a contract for the sale of goods for $500 or more[500美金或以上的物品买卖合同]
 
-## 4.2 Merchant exception[UCC]
+- UCC下只要数量确定，the contract is enforceable since UCC gap-fillers will supply the price term at the time of delivery.***Under the Uniform Commercial Code (UCC) § 2-201, contracts for the sale of goods worth $500 or more must be in writing to be enforceable.***
+
+## 4.6 Suretyship
+
+> A suretyship arises when one party (guarantor) promises a second party (creditor) that the guarantor will pay the debt of a third party (principal) if he/she defaults. To be enforceable, a suretyship must be in writing and supported by consideration. The consideration requirement is met if the guarantor is compensated for the promise.
+
+> But even if the guarantor is uncompensated, the consideration requirement is still satisfied if:
+the creditor conditioned the loan to the principal on the guarantor's promise to pay or
+the guarantor made the promise to pay before or at the same time as the creditor made the loan to the principal.
+
+> n either case, the loan itself serves as valid consideration for the guarantor's promise - even if the guarantor is not notified when the loan is made. That is because the loan is a legal detriment to the creditor that was induced by the guarantor's promise.
+
+## 4.7 Merchant exception[UCC]
 
 - 双方如果都是商家，虽然没有书面合同，但如果一方把口头合意及时以书面形式送达给对方，对方没有在10天内提出书面反对，视为满足反欺诈法的要求。
 - 但书面形式必须有签名用来针对起草方（发出方），否则也无法用来针对被送达方.
 
 > Under the merchant exception, a written confirmation need only be **signed by one merchant** and sent to the other merchant. If the recipient has reason to know the confirmation's contents and does not object within **10 days**, then it is **enforceable against both merchants**.
 
-## 4.3 NOM clause[no-oral modification clause]
+## 4.8 NOM clause[no-oral modification clause]
 
 | 适用法律 | NOM条款的效力 |
 | -- | -- |
@@ -200,7 +223,7 @@
 | 欺诈、虚假陈述、隐瞒重要事实 | 可撤销 （voidable）|
 | 未成年签订的合同 | 可撤销 （voidable）|
 | 被酒精（药物）影响，对方明知或应知 | 可撤销 （voidable）|
-|间歇性精神病发作期间签订的合 | 可撤销 （voidable）|
+|间歇性精神病发作期间签订的合同 | 可撤销 （voidable）|
 | 非直接武力胁迫以外的不当威胁 | 可撤销 （voidable）|
 | 不当影响（undue influence）| 可撤销 （voidable）|
 | 合同本身不违法，但被用作违法意图 | 可撤销 （voidable）|
@@ -434,7 +457,7 @@ one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the
 
 ## 2.1 禁止转让义务的情形
 
-### （1）[合同明确禁止assignment或者禁止delegation]
+### （1）合同明确禁止assignment或者禁止delegation
 
 > delegation is prohibited by contract
 
@@ -511,12 +534,20 @@ one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the
 
 # 九、衡平法救济
 
-# 1. estoppel
+# 1. Promissory estoppel
 
 - 如果一方作出承诺，对方已经基于信赖作出有损害的安排（detrimental reliance），则承诺方不得反悔。
 - 基于信赖作出的安排必须是有损害的（detrimental）
 
-> Promissory estoppel Allows enforcement of promise when no valid contract[合同无效] exists if:
-（1）promisor reasonably expected to induce reliance on promise
-（2）enforcing party reasonably relied on promise
-（3）reliance caused enforcing party to suffer substantial detriment[重大损害] and injustice can be avoided only by enforcing promise[只有通过执行该允诺才能避免不公].
+## 1.1 强制执行另一方允诺的条件
+
+> Promissory estoppel Allows enforcement of promise when no valid contract[一方在没有成立有效合同的情况下，强制执行另一方的允诺] exists if:
+（1）promisor reasonably expected to induce reliance on promise[允诺人合理预期其允诺会引致信赖]
+（2）enforcing party reasonably relied on promise[寻求强制执行的一方合理地信赖了该允诺]
+（3）reliance caused enforcing party to suffer substantial detriment[重大损害] and 
+ (4)injustice can be avoided only by enforcing promise[只有通过执行该允诺才能避免不公].
+
+## 1.2 要约被视为不可撤销（一段时间内）的条件：
+> Under the doctrine of promissory estoppel (ie, detrimental reliance), an offer is treated as an option contract and is therefore irrevocable for a reasonable period of time if[一个要约将被视为选择权合同，因此在一段合理时间内是不可撤销的]:
+(1)the offeror reasonably expected to induce reliance on the offer before acceptance.[要约人合理预期其要约在被接受前会引致信赖]
+(2)the offeree reasonably relied on the offer and that reliance caused the offeree to suffer substantial detriment.[受要约人合理地信赖了该要约并且该信赖导致受要约人遭受了重大的不利影响]

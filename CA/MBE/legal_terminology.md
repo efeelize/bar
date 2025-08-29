@@ -167,3 +167,12 @@
 # 36.inconsistent
 
 > The term "inconsistent" generally means that something does not match or is not in harmony with something else. In a legal or contractual context, it refers to situations where two or more things contradict each other, or where there is conflict or lack of agreement between different statements, terms, or actions.
+
+# 37.allotted
+
+- Each student was allotted 20 minutes to complete the test. (assigned time)
+- The company allotted funds for marketing. (allocated resources)
+- He was allotted the task of leading the project. (assigned responsibility)
+
+> The word “allotted” means given, assigned, or distributed as a share or portion.
+It often refers to time, resources, tasks, or responsibilities that are designated for a specific person, purpose, or use.
