@@ -17,7 +17,9 @@
 | Bilateral modification[双方变更] | Must be supported by new consideration | New consideration not required if made in good faith[如果出于善意，则不需要新的对价] |
 | Unilateral discharge[单方解除] | Death Destruction of subject matter Impracticability | / |
 | Suing for breach | Must be in privity (ie, party to contract) or intended beneficiary[必须有合同相对性（即，合同当事人）或为预期受益人] | No privity/beneficiary requirement |
-| Effect of new terms in reply to offer[对要约的回应中新增条] | mirror-image，Offer rejected，Reply treated as counteroffer |（1）≥1 party is nonmerchant：Offer accepted unless reply expressly required assent to new/revised terms,New/revised terms treated as proposed additions to contract[要约被接受，除非回应明确要求同意新增/修订的条款,新增/修订的条款被视为对合同的附加提议];(2)All parties are merchants:Offer accepted unless reply expressly required assent to new/revised terms,New terms become part of contract unless[新增条款成为合同的一部分]:(2.1)offer expressly required assent to new terms[要约明确要求同意新增条款];(2.2)new terms materially alter contract or;(2.3)offeror objects within reasonable time;(3)Revised terms follow split authority[修订条款遵循不同判例] & are either:(3.1)treated as new terms or[被视为新增条款];(3.2)cancelled out under knockout rule[根据剔除规则被取消] |
+| Effect of new terms in reply to offer[对要约的回应中新增条] | mirror-image，Offer rejected，Reply treated as counteroffer |（1）≥1 party is nonmerchant：Offer accepted unless reply expressly required assent to new/revised terms,New/revised terms treated as proposed additions to contract[要约被接受，除非回应明确要求同意新增/修订的条款,新增/修订的条款被视为对合同的附加提议]|
+| Effect of new terms in reply to offer[对要约的回应中新增条] | mirror-image，Offer rejected，Reply treated as counteroffer | (2)All parties are merchants:Offer accepted unless reply expressly required assent to new/revised terms,New terms become part of contract unless[新增条款成为合同的一部分]:(2.1)offer expressly required assent to new terms[要约明确要求同意新增条款];(2.2)new terms materially alter contract or;(2.3)offeror objects within reasonable time;|
+| Effect of new terms in reply to offer[对要约的回应中新增条] | mirror-image，Offer rejected，Reply treated as counteroffer |(3)Revised terms follow split authority[修订条款遵循不同判例] & are either:(3.1)treated as new terms or[被视为新增条款];(3.2)cancelled out under knockout rule[根据剔除规则被取消] |
 
 ## 1.1 mirror-image rule[镜像规则]
 
@@ -51,6 +53,7 @@
 > Contracts for the sale of goods (eg, faucets) are governed by Article 2 of the Uniform Commercial Code (UCC). The UCC "fills the gap" when certain terms are missing from a contract. For example, the gap filler for a missing place of delivery is generally the seller's place of business if the seller has one. And unless the contract specifies otherwise[除非合同另有规定], payment is due at the time and place the buyer is to receive each shipment of goods. In that case, the seller is only required to deliver the goods if the buyer tenders the payment[只有在买方支付货款时，卖方才有义务交付货物].
 
 | Missing terms | Gap fillers |
+| ---- | ----- |
 | Place of delivery | (1)seller's place of  business if applicable;(2)seller's home;(3)some other place if parties know goods are there |
 | Time for shipment/delivery | reasonable time |
 | Price | reasonable price at time for delivery |
