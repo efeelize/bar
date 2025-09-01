@@ -70,16 +70,13 @@
 - 不可撤回的要约视为一个单独的选择权合同（option contract）。既然是合同，就要求对方支付一定的对价（consideration），用于将选择权保留一段时间。
 - 该承诺不需要书面作出。
 
-## 2.2 UCC
+## 2.2 UCC:firm offer
 
-- 不可撤回的要约叫做firm offer，要求:
 - 1.提出人必须是商家（merchant）;
 - 2.书面提出;
 - 3.明确表示要约会保留一段时间。请注意，如果被提出人没有支付对价，要约最多**三个月**后就可以撤销。
 
 # 3.consideration
-
-> For any agreement to be enforceable, there must be consideration  - ie, a bargained-for exchange of promises or performance[经交易协商而交换的承诺或履行]. The promise to perform, or the performance of, a preexisting duty does not qualify as consideration[履行已存义务的承诺或行为，不构成有效的对价]. Under this preexisting duty rule, a debtor's promise to pay all or part of a liquidated debt (ie, one that is certain and undisputed,数额确定且无争议) is not sufficient consideration to support a creditor's return promise.
 
 | consideration problems |  prevent contract formation |
 | --- | --- |
@@ -89,7 +86,13 @@
 | Preexisting duty / past consideration | No legal detriment if performance already owed or completed |
 | Illusory promise [虚幻的承诺] | No legal detriment if apparent promise imposes no obligation |
 
-# 5.unilateral contract [单方合同]
+> For any agreement to be enforceable, there must be consideration  - ie, a bargained-for exchange of promises or performance[经交易协商而交换的承诺或履行]. The promise to perform, or the performance of, a preexisting duty does not qualify as consideration[履行已存义务的承诺或行为，不构成有效的对价]. Under this preexisting duty rule, a debtor's promise to pay all or part of a liquidated debt (ie, one that is certain and undisputed,数额确定且无争议) is not sufficient consideration to support a creditor's return promise.
+
+## 3.1 valuable consideration
+
+> Formation of a contract generally requires a bargained-for exchange of promises or performance (ie, valuable consideration ). The bargained-for exchange requirement is not met unless each party's willingness to enter into the contract was induced by the other party's act or promise. So if either of the parties intended to make a gift , this requirement cannot be met.
+
+# 4.unilateral contract [单方合同]
 
 - 无论是单方合同还是双方合同的要约，该要约都必须合理地传达给受要约人，且受要约人必须知晓该要约，才能接受它。否则，就无法达成订立合同的双方合意。
 
@@ -172,11 +175,11 @@
 
 ## 4.1 Marriage
 
-– a contract made in consideration of marriage
+– a contract made in consideration of marriage.
 
 ## 4.2 Year
 
-– a contract that cannot be completed within one year[从签订日期开始预计要超过一年才能完成的服务合同]
+– a contract that cannot be completed within one year.[从签订日期开始预计要超过一年才能完成的服务合同]
 - Contracts whose terms make it impossible for any party to fully perform within one year,Excludes contracts of uncertain duration[时间不确定的合同] (eg, lifetime contracts).
 
 > The one-year provision of the statute of frauds applies to a contract whose terms make it impossible for any party to fully perform within one year. However, the parties' option to terminate the contract within a year does not remove it from the statute under the majority rule.
@@ -188,9 +191,10 @@
 - leases and easements[租约和地役权] for less than one year are usually excluded from the statute，even though it involves an interest in real property.
 
 > a contract for the sale of land that violates this statute may still be enforceable if the part-performance exception applies. This requires proof that the buyer has done at least **two** of the following:
-• Taken **possession** of the property (as the stable manager did here)
-• Made **substantial improvements** to the property (not seen here)
-• **Paid** some or all of the **purchase price** (here, the stable manager made a small down payment)
+
+- Taken **possession** of the property (as the stable manager did here)
+- Made **substantial improvements** to the property (not seen here)
+- **Paid** some or all of the **purchase price** (here, the stable manager made a small down payment)
 
 ## 4.4 Executor
 
@@ -427,6 +431,7 @@ one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the
 > This rule does not apply when such evidence is offered to prove the existence of a collateral agreement—ie, a separate contract supported by separate consideration.
 
 ### （2）conditions[合同条件]
+
 - 比如是为了证明合同只会在某个条件下才会生效（condition precedent），可以引入。
 
 > The parol evidence rule does not apply when a party is attacking the validity[有效性] of the agreement—eg, by asserting there was a condition precedent to effectiveness that failed to occur. As a result, evidence of such a condition precedent is admissible.
@@ -576,3 +581,14 @@ one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the
 
 - 1.the offeror reasonably expected to induce reliance on the offer before acceptance.[要约人合理预期其要约在被接受前会引致信赖]
 - 2.the offeree reasonably relied on the offer and that reliance caused the offeree to suffer substantial detriment.[受要约人合理地信赖了该要约并且该信赖导致受要约人遭受了重大的不利影响]
+
+# 十、Employment contracts
+
+## 1. indefinite or permanent duration
+
+> A contract to employ someone for an indefinite or permanent duration typically creates an **at-will employment** relationship. An at-will employment relationship allows either party to terminate the employment contract at any time and for any reason unless the termination violates public policy - eg, when an employee is discharged[解雇] for filing a discrimination claim.
+
+## 2.definite duration
+
+- Termination allowed only for cause or by mutual agreement.
+
