@@ -178,19 +178,18 @@
 
 ## 4.1 Marriage
 
-– a contract made in consideration of marriage.
+- a contract made in consideration of marriage.
 
 ## 4.2 Year
 
-– a contract that cannot be completed within one year.[从签订日期开始预计要超过一年才能完成的服务合同]
+- a contract that cannot be completed within one year.[从签订日期开始预计要超过一年才能完成的服务合同]
 - Contracts whose terms make it impossible for any party to fully perform within one year,Excludes contracts of uncertain duration[时间不确定的合同] (eg, lifetime contracts).
 
 > The one-year provision of the statute of frauds applies to a contract whose terms make it impossible for any party to fully perform within one year. However, the parties' option to terminate the contract within a year does not remove it from the statute under the majority rule.
 
 ## 4.3 Land
 
-– a contract for the sale or transfer of an interest in real property.
-
+- a contract for the sale or transfer of an interest in real property.
 - leases and easements[租约和地役权] for less than one year are usually excluded from the statute，even though it involves an interest in real property.
 
 > a contract for the sale of land that violates this statute may still be enforceable if the part-performance exception applies. This requires proof that the buyer has done at least **two** of the following:
@@ -205,8 +204,7 @@
 
 ## 4.5 Goods
 
-– a contract for the sale of goods for $500 or more[500美金或以上的物品买卖合同]
-
+- a contract for the sale of goods for $500 or more[500美金或以上的物品买卖合同]
 - UCC下只要数量确定，the contract is enforceable since UCC gap-fillers will supply the price term at the time of delivery.***Under the Uniform Commercial Code (UCC) § 2-201, contracts for the sale of goods worth $500 or more must be in writing to be enforceable.***
 
 ## 4.6 Suretyship[保证合同]
