@@ -38,6 +38,7 @@
 - 先寄出同意要约，后寄出拒绝要约，则前一个寄出时合同已经成立。除非提出要约的人先收到了拒绝要约的信，并基于对拒绝的信赖作出后续安排。
 - 先寄出拒绝要约，后寄出接受要约，以对方**先收到**的信为准，不适用邮箱规则。
 - 约提出人撤回要约，对方知悉被撤回之前寄出了同意要约，则合同依然成立。但如果已经知悉要约被撤回，被提出人无法同意要约。
+- 为承诺一项要约，受要约人必须表现出受要约条款约束的客观意图，并遵守要约中关于承诺的时间、地点或方式的任何具体规定（这些规定优先于邮箱规则）。
 
 > Under the mailbox rule, acceptance of an offer is generally effective upon dispatch. However, one exception to the mailbox rule applies to option contracts, where acceptance is effective upon receipt.
 
@@ -59,7 +60,28 @@
 | Price | reasonable price at time for delivery |
 | Time/place for payment | Time & place buyer is to receive goods |
 
-# 2.Irrevocable offers[不可撤回的要约]
+### （1）不适用的情形
+
+- Identity of the contracting parties
+- Subject matter of the contract[合同标的物]
+- Quantity of goods to be sold[数量条款必须明确一个确定的数额，或者能够通过参照客观事实使其确定。]
+
+> A contract must therefore specify a quantity that is certain or determinable by reference to objective facts[可通过参照客观事实来确定], such as the buyer's actual requirements or the seller's actual output in a requirements or output contract[需求合同或产量合同中，参照买方的实际需求或卖方的实际产量]. If it does not, the contract fails for indefiniteness[合同将因不确定而无效].
+
+### （2）knockout rule [剔除规则]
+
+> In contracts between merchants, conflicting terms in the offer and acceptance are canceled out under the knockout rule and replaced with UCC gap-filling provisions (eg, delivery within a reasonable time).
+
+## 1.5 一项要求立即发货的货物购买要约[UCC]
+
+- promising to ship the goods;
+- shipping goods that conform to the order;
+- shipping nonconforming goods without notice that they are being offered only as an accommodation (ie, notice of accommodation )[发运不符规格的货物，且未通知此举仅为通融（即通融通知）]。
+
+> Any of these methods of acceptance create a contract. Howeve r, the shipment of nonconforming goods (without a notice of accommodation) also constitutes an immediate breach of the contract. In that case, the buyer may (1) accept or reject the goods[接受或拒绝该批货物] and (2) sue the seller for breach.
+
+# 2.offer
+## 2.1 Irrevocable offers[不可撤回的要约]
 
 | Type | Description | Consideration | Duration |
 | --- | --- | --- | ---- |
@@ -68,18 +90,66 @@
 | Common law Partial performance (unilateral contracts单方合同) | Offeror invites acceptance only by performance & offeree begins to perform[要约人仅以履行方式邀请承诺，且受要约人已开始履行] | Not required | Reasonable time for full performance |
 | Promissory estoppel（also called detrimental reliance） | Offeror could reasonably foresee reliance on offer & offeree reasonably relies to his/her detriment[要约人可合理预见到受要约人将信赖其要约，且受要约人已合理信赖该要约并因此遭受损害] | Not required | Reasonable time |
 
-## 2.1 普通法
+### (1) 普通法
 
 - 不可撤回的要约视为一个单独的选择权合同（option contract）。既然是合同，就要求对方支付一定的对价（consideration），用于将选择权保留一段时间。
 - 该承诺不需要书面作出。
 
-## 2.2 UCC:firm offer
+### (2) UCC:firm offer
 
 - 1.提出人必须是商家（merchant）;
 - 2.书面提出;
 - 3.明确表示要约会保留一段时间。请注意，如果被提出人没有支付对价，要约最多**三个月**后就可以撤销。
 
-# 3.consideration
+## 2.2 offer to form a bilateral contract
+
+- Notice is not required to accept an offer by starting performance unless the offer so requires[除非要约本身有此要求，否则通过开始履行来接受要约无需发出通知].
+- However, if the offeree should know that the offeror has no convenient way of learning within a reasonable time that performance has begun, the offeree must notify the offeror. Failure to do so will discharge the offeror's contractual duty[如果受要约人理应知道要约人在合理时间内没有便捷的方式得知履行已经开始，则受要约人必须通知要约人。若未能这样做，将免除要约人的合同义务].
+
+> An offer to form a bilateral contract  - ie, an offer that invites acceptance by return promise - can be expressly accepted with a return promise[明确承诺] or impliedly accepted by starting performance[实际履行].
+
+## 2.3 unilateral contract [单方合同]
+
+- 无论是单方合同还是双方合同的要约，该要约都必须合理地传达给受要约人，且受要约人必须知晓该要约，才能接受它。否则，就无法达成订立合同的双方合意。
+
+> An offer to form a unilateral contract invites acceptance only by performance of a specified act, while an offer to form a bilateral contract invites acceptance by a promise to perform the act.
+
+## 2.4 要约的终止
+
+### (1)Offeror's revocation[要约人的撤销]
+
+- Offeror communicates revocation directly to offeree.
+- Offeree learns information from reliable source that reasonably indicates offer was revoked (eg, house sold to another buyer).
+
+### (2)Offeree's rejection[受要约人的拒绝]
+
+- Offeree communicates rejection directly to offeror；
+- Offeree's counteroffer serves as rejection & new offer.[受要约人的反要约构成拒绝及新要约]
+
+### (3)Lapse[失效]
+
+- Time period specified in offer expires[要约中规定的期限届满];
+- After reasonable time if no time period specified in offer.
+
+### (4)By law
+
+- Either party dies or is adjudicated insane[宣告为精神失常];
+- Subject matter of offer is destroyed or becomes illegal.
+
+# 3.implied-in-law ("quasi") contract[法律默示（“准”）合同]
+
+## 3.1 成立条件
+- the plaintiff has conferred[授予] a measurable benefit (eg, medical services) on the defendant
+- the plaintiff acted without gratuitous intent[原告的行为并非出于无偿意图] and
+- it would be unfair to let the defendant retain the benefit without compensating the plaintiff.
+
+> In the absence of any contractual relationship between the parties, courts have the power to construct an implied-in-law ("quasi") contract to prevent unjust enrichment[不当得利].
+
+## 3.2 Unfair retention of a benefit[不公平地保留利益]
+
+> Unfair retention of a benefit arises when (1) the defendant had an opportunity to decline the benefit but knowingly accepted it[有机会拒绝该利益但知情地接受了它] or (2) the plaintiff had a reasonable excuse for not giving the defendant such opportunity - often because of an emergency[原告有合理的理由没有给被告这样的机会——通常是由于紧急情况]. This allows the plaintiff in a quasi-contract action to recover restitutionary damages[返还性损害赔偿] equal to the reasonable value of the benefit conferred.
+
+# 4.consideration
 
 | consideration problems |  prevent contract formation |
 | --- | --- |
@@ -91,15 +161,18 @@
 
 > For any agreement to be enforceable, there must be consideration  - ie, a bargained-for exchange of promises or performance[经交易协商而交换的承诺或履行]. The promise to perform, or the performance of, a preexisting duty does not qualify as consideration[履行已存义务的承诺或行为，不构成有效的对价]. Under this preexisting duty rule, a debtor's promise to pay all or part of a liquidated debt (ie, one that is certain and undisputed,数额确定且无争议) is not sufficient consideration to support a creditor's return promise.
 
-## 3.1 valuable consideration
+## 4.1 Elements of valuable consideration
 
-> Formation of a contract generally requires a bargained-for exchange of promises or performance (ie, valuable consideration ). The bargained-for exchange requirement is not met unless each party's willingness to enter into the contract was induced by the other party's act or promise. So if either of the parties intended to make a gift , this requirement cannot be met.
+> Formation of a contract generally requires a bargained-for exchange of promises or performance (ie, valuable consideration有效对价 ). The bargained-for exchange requirement is not met unless each party's willingness to enter into the contract was induced by the other party's act or promise. So if either of the parties intended to make a gift , this requirement cannot be met.
 
-# 4.unilateral contract [单方合同]
+### （1）bargained-for exchange
 
-- 无论是单方合同还是双方合同的要约，该要约都必须合理地传达给受要约人，且受要约人必须知晓该要约，才能接受它。否则，就无法达成订立合同的双方合意。
+- Each party's willingness to enter agreement must be induced by other party's act/promise.
+- If there was no bargained-for exchange (ie, consideration) to support his promise, no contract arose between the parties, and the court should rule in favor of the man.
 
-> An offer to form a unilateral contract invites acceptance only by performance of a specified act, while an offer to form a bilateral contract invites acceptance by a promise to perform the act.
+### (2)legal detriment
+
+- Each party must relinquish[放弃] legal right by either: performing (or promising to perform) act that is not legally required or refraining (or promising to refrain) from performing legally permissible act.
 
 # 二、合同的有效性 & 可执行性
 
