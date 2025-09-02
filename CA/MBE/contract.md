@@ -178,8 +178,9 @@
 
 # 1.Preexisting Duty Rule[已经存在的法律义务]
 
-- At common law, a promise to do what one is already legally obligated to do is not valid consideration.如果合同一方在合同成立之前已经有了某个义务（pre-existing duty），不能把这个义务作为新
-的对价。该义务可能是法律规定的义务，也可能是合同约定的义务。
+- 合同修改需要新的对价 (consideration)——即每一方当事人都必须以某种方式变更其义务。但是，履行或承诺履行一项已存义务 (preexisting duty) 不构成对价。
+
+> Contract modifications require new consideration - ie, each party must alter his/her duties in some way. But a promise to perform, or the performance of, a preexisting duty does not constitute consideration. 
 
 ## 1.1  Exceptions to the Pre-existing Duty Rule
 
@@ -247,7 +248,7 @@
 | writing |  Physical or electronic document(s) containing reasonable basis to believe contract was formed (eg, receipt, check, emails) | identifies parties, subject matter, consideration, time & nature of performance | lists quantity of goods (contract enforceable only up to written quantity) |
 | signature | / | General rule – handwritten signature from, or other mark identifying, party to be charged[只要求被告签名] (eg, letterhead, electronic signature, initials[简签]) | Merchant exception – a written confirmation need only to be **signed by one merhant** and sent to the other merchant.If the recipient has reason to know the confirmation's contents and does not object within 10 days,then it is **enforceable against both merchants.** [提出反对的书面形式必须有签名,UCC的特殊规定] |
 
-- A contract need only be in writing and signed by the party to be charged if it falls within the statute of frauds. This rule applies to contracts for the sale of goods for $500 or more.
+- 根据防止欺诈法 (statute of frauds)，某些类型的合同修改必须采用书面形式，并由被请求强制执行的一方签署。
 
 ## 4.1 Marriage
 
@@ -485,15 +486,19 @@ one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the
 
 # 4.The parol evidence rule [口头证据规则]
 
-## 4.1 合同以书面为准，签约之前的口头或书面沟通如果和正式的书面合同原文抵触则无法使用
-
-- Even when a contract is completely integrated (eg, as evidenced by a merger clause), the parol evidence rule does not bar evidence to clarify the meaning of an ambiguous contract term.
-- The UCC parol evidence rule bars evidence of any prior agreement (or contemporaneous[同时发生的] oral agreement) that contradicts the terms of an integrated writing.***U.C.C. § 2-202 (Am. Law Inst. & Unif. Law Comm'n 2020) (parol evidence rule).***
-
 |type|definition|effect|
 | -- | -- | --- |
 | Complete integration[完备的合同] | Writing that sets forth parties' final agreement about all terms，常见：merger clause[完备条款]，all matters | （1）Excludes parol evidence within scope of agreement；（2）Parol evidence **inadmissible** to supplement (ie, add to) or contradict contract |
 | Partial integration[不完备的合同] | Writing that sets forth parties' final agreement about some terms | （1）Excludes parol evidence inconsistent with agreement；（2）Parol evidence **admissible** to supplement (not contradict不抵触) contract |
+
+## 4.1 合同以书面为准
+
+- 排除与书面合同相矛盾的证据;
+- 不禁止关于双方当事人之间后续协议的证据（例如，双方在合同签订后就“额外项目”达成的口头修改）
+
+> The parol evidence rule generally prevents a party to a written contract from presenting evidence of a prior or contemporaneous agreement that contradicts the terms of the contract as written[签约之前的口头或书面沟通如果和正式的书面合同原文抵触则无法使用]. But this rule does not bar evidence of subsequent agreements between the parties (eg, the parties' oral modifications regarding "extras" that occurred after the contract was entered) .
+> Even when a contract is completely integrated (eg, as evidenced by a merger clause), the parol evidence rule does not bar evidence to clarify the meaning of an ambiguous contract term.
+> The UCC parol evidence rule bars evidence of any prior agreement (or contemporaneous[同时发生的] oral agreement) that contradicts the terms of an integrated writing.***U.C.C. § 2-202 (Am. Law Inst. & Unif. Law Comm'n 2020) (parol evidence rule).***
 
 ## 4.2 口头证据规则的例外
 
