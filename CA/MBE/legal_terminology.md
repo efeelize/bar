@@ -191,3 +191,8 @@ It often refers to time, resources, tasks, or responsibilities that are designat
 - A consumer may rescind a door-to-door sales contract within a statutory cooling-off period.
 
 > In law, “rescind” means to cancel, revoke, or undo a contract, agreement, or transaction, so that it is treated as though it never existed.When a contract is rescinded, both parties are usually returned to the position they were in before the contract (this is called restoring the status quo ante).
+
+# 40.quitclaim
+
+> A quitclaim in law refers to a legal document where a person (the grantor) releases or "quits" any claim or interest they may have in a property or right, without making any warranties or guarantees about the status of that property.In essence, when someone executes a quitclaim deed or document, they do not promise that they have ownership of the property or that the title is free of encumbrances. The document simply transfers whatever interest the grantor has—if any—to the recipient (the grantee).
+

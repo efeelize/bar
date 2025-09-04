@@ -17,14 +17,20 @@
 | Bilateral modification[双方变更] | Must be supported by new consideration | New consideration not required if made in good faith[如果出于善意，则不需要新的对价] |
 | Unilateral discharge[单方解除] | Death Destruction of subject matter Impracticability | / |
 | Suing for breach | Must be in privity (ie, party to contract) or intended beneficiary[必须有合同相对性（即，合同当事人）或为预期受益人] | No privity/beneficiary requirement |
-| Effect of new terms in reply to offer[对要约的回应中新增条] | mirror-image，Offer rejected，Reply treated as counteroffer |（1）≥1 party is nonmerchant：Offer accepted unless reply expressly required assent to new/revised terms,New/revised terms treated as proposed additions to contract[要约被接受，除非回应明确要求同意新增/修订的条款,新增/修订的条款被视为对合同的附加提议]|
-| Effect of new terms in reply to offer[对要约的回应中新增条] | mirror-image，Offer rejected，Reply treated as counteroffer | (2)All parties are merchants:Offer accepted unless reply expressly required assent to new/revised terms,New terms become part of contract unless[新增条款成为合同的一部分]:(2.1)offer expressly required assent to new terms[要约明确要求同意新增条款];(2.2)new terms materially alter contract or;(2.3)offeror objects within reasonable time;|
-| Effect of new terms in reply to offer[对要约的回应中新增条] | mirror-image，Offer rejected，Reply treated as counteroffer |(3)Revised terms follow split authority[修订条款遵循不同判例] & are either:(3.1)treated as new terms or[被视为新增条款];(3.2)cancelled out under knockout rule[根据剔除规则被取消] |
 
-## 1.1 mirror-image rule[镜像规则]
+## 1.1 要约答复中新增条款的效力
 
-> Under this rule, an acceptance must match the terms of the offer exactly. A purported acceptance that contains different or additional terms acts as a rejection of the original offer and as a counteroffer[均构成对原要约的拒绝和一项反要约].
-> However, mere suggestions or inquiries that the offeror is free to accept or reject do not. The offeree can therefore accept the original offer in spite of such suggestions or inquiries.
+| law | Offer rejected |
+| ---- | --- |
+| common law ,mirror-image | Offer rejected，Reply treated as counteroffer |
+| UCC, ≥1 party is nonmerchant | Offer accepted unless reply expressly required assent to new/revised terms,New/revised terms treated as proposed additions to contract[要约被接受，除非回应明确要求同意新增/修订的条款,新增/修订的条款被视为对合同的附加提议]|
+| UCC, All parties are merchants | Offer accepted unless reply expressly required assent to new/revised terms,New terms become part of contract unless[新增条款成为合同的一部分]:(1)offer expressly required assent to new terms[要约明确要求同意新增条款];(2)new terms materially alter contract or;(3)offeror objects within reasonable time;|
+| UCC, All parties are merchants | Revised terms follow split authority[修订条款遵循不同判例] & are either:(1)treated as new terms or[被视为新增条款];(2)cancelled out under knockout rule[根据剔除规则被取消] |
+
+- 根据普通法，一项承诺只有在与要约条款呈镜像关系时才有效。
+- UCC第二条，任何合理的承诺表示——即使包含新条款——都是有效的，除非该承诺明确以要约人同意新条款为条件。
+
+> The UCC uses the battle-of-the-forms rule, where any reasonable manifestation of acceptance - even one including new terms - is effective unless it is expressly conditioned on the offeror's assent to the new terms.
 
 ## 1.2 mailbox rule[邮箱规则]
 
@@ -76,9 +82,26 @@
 
 - promising to ship the goods;
 - shipping goods that conform to the order;
-- shipping nonconforming goods without notice that they are being offered only as an accommodation (ie, notice of accommodation )[发运不符规格的货物，且未通知此举仅为通融（即通融通知）]。
+- shipping nonconforming goods without notice that they are being offered only as an accommodation. ie, notice of accommodation. [发运不符规格的货物，且未通知此举仅为通融，即通融通知]
 
-> Any of these methods of acceptance create a contract. Howeve r, the shipment of nonconforming goods (without a notice of accommodation) also constitutes an immediate breach of the contract. In that case, the buyer may (1) accept or reject the goods[接受或拒绝该批货物] and (2) sue the seller for breach.
+> Article 2 of the Uniform Commercial Code ( UCC ) governs contracts for the sale of goods (eg, computers). Under the UCC, a seller can accept a buyer's offer to purchase goods for prompt or immediate shipment by promising to ship, or shipping, the goods. Once the offer is accepted, the shipped goods must **conform perfectly** to the contract.
+
+### （1）Seller's reply to buyer's offer
+
+| Reply | Effect |
+| --- | --- |
+| Promise to ship | Acceptance |
+| Shipment of conforming goods | Acceptance & performance |
+| Shipment of nonconforming goods + With notice of accommodation | Rejection & counteroffer |
+| Shipment of nonconforming goods + With no notice | Acceptance & breach |
+
+- with notice:the buyer may accept the shipment (creating a contract for the nonconforming goods从而就该不符货物成立一份合同,and the buyer did not sustain any damages) OR reject the shipment (creating no contract).
+- with no notice:Nonconformance is a breach that allows the buyer to **accept or reject** the goods in whole or in part. The buyer can also **recover any damages** suffered as a result of the breach.
+
+## 1.6 mirror-image rule[镜像规则]
+
+> Under this rule, an acceptance must match the terms of the offer exactly. A purported acceptance that contains different or additional terms acts as a rejection of the original offer and as a counteroffer[均构成对原要约的拒绝和一项反要约].
+> However, mere suggestions or inquiries that the offeror is free to accept or reject do not. The offeree can therefore accept the original offer in spite of such suggestions or inquiries.
 
 # 2.offer
 ## 2.1 Irrevocable offers[不可撤回的要约]
@@ -114,7 +137,14 @@
 
 > An offer to form a unilateral contract invites acceptance only by performance of a specified act, while an offer to form a bilateral contract invites acceptance by a promise to perform the act.
 
-## 2.4 要约的终止
+## 2.4 illusory offer[虚幻要约]
+
+- 虚幻要约是不对一方或双方施加义务的要约，因缺乏对价而是无效的。
+- 一个最初虚幻的要约可以在以下情况下成为有约束力的允诺：（1）情况发生变化，使得该要约对双方都施加了义务；并且（2）该要约随后被承诺。
+
+> Acceptance of an illusory offer is ineffective for lack of consideration. But such an offer can become a binding promise if (1) circumstances change such that the offer imposes obligations on both parties and (2) the offer is accepted.
+
+## 2.5 要约的终止
 
 ### (1)Offeror's revocation[要约人的撤销]
 
@@ -159,20 +189,24 @@
 | Preexisting duty / past consideration | No legal detriment if performance already owed or completed |
 | Illusory promise [虚幻的承诺] | No legal detriment if apparent promise imposes no obligation |
 
+- 合同变更通常必须有新的对价支持——即，每一方都必须以某种方式改变其义务——除非该变更在不可预见的情形下是公平合理的。
+- 履行已存义务的承诺或履行行为，不足以构成新的对价，且不会免除双方在初始（即未变更的）合同下的义务。
+
 > For any agreement to be enforceable, there must be consideration  - ie, a bargained-for exchange of promises or performance[经交易协商而交换的承诺或履行]. The promise to perform, or the performance of, a preexisting duty does not qualify as consideration[履行已存义务的承诺或行为，不构成有效的对价]. Under this preexisting duty rule, a debtor's promise to pay all or part of a liquidated debt (ie, one that is certain and undisputed,数额确定且无争议) is not sufficient consideration to support a creditor's return promise.
 
 ## 4.1 Elements of valuable consideration
 
 > Formation of a contract generally requires a bargained-for exchange of promises or performance (ie, valuable consideration有效对价 ). The bargained-for exchange requirement is not met unless each party's willingness to enter into the contract was induced by the other party's act or promise. So if either of the parties intended to make a gift , this requirement cannot be met.
 
-### （1）bargained-for exchange
+### （1）bargained-for exchange[有对价的交换]
 
-- Each party's willingness to enter agreement must be induced by other party's act/promise.
-- If there was no bargained-for exchange (ie, consideration) to support his promise, no contract arose between the parties, and the court should rule in favor of the man.
+- 
 
-### (2)legal detriment
+> Each party's willingness to enter agreement must be induced by other party's act/promise.If there was no bargained-for exchange (ie, consideration) to support his promise, no contract arose between the parties, and the court should rule in favor of the man.
 
-- Each party must relinquish[放弃] legal right by either: performing (or promising to perform) act that is not legally required or refraining (or promising to refrain) from performing legally permissible act.
+### (2)legal detriment[法律上的损害]
+
+> Each party must relinquish[放弃] legal right by either: performing (or promising to perform) act that is not legally required or refraining (or promising to refrain) from performing legally permissible act.
 
 # 二、合同的有效性 & 可执行性
 
@@ -221,12 +255,6 @@
 - If a party promises to do something they already owe to someone else, and a third party offers a benefit for that same act, the promise can be valid consideration.[对第三方（即非本案合同当事方）负有的既存义务]
 
 > Example: A owes B a duty. C offers A $500 to fulfill that duty to B. A’s promise to C is supported by consideration.
-
-### (6) UCC Exception – Good Faith Modifications
-
-- Under UCC Article 2 (sale of goods), no new consideration is required for a modification if:The modification is made in good faith, and The modification meets reasonable commercial standards of fair dealing.[诚实并遵守合理的商业公平交易标准]
-
-> Example: Seller agrees to deliver goods at a higher cost due to supplier shortage. Buyer agrees. Enforceable under UCC, even with no new consideration, as long as modification is in good faith.
 
 # 2.mental inllness
 
@@ -440,6 +468,19 @@ one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the
 ## 7.2 履行
 
 - When a contract violates a law that was designed to protect the party seeking to enforce the contract, the contract can be enforced to avoid frustrating the public policy behind the statute.
+
+# 8.Modifying existing contracts[对现有合同的修改]
+
+| governing law | requirements |
+| ---- | ---- |
+| common law | Parties' agreement New consideration |
+| UCC | 1.Parties' agreement Good faith (ie, honesty & observance of reasonable commercial standards of fair dealing);2.New consideration not required |
+
+- 在普通法下，合同变更通常需要一个新的有对价的交换，该交换以某种方式改变了双方的义务（即新的对价）。
+- UCC允许在没有对价的情况下进行变更，只要该变更是基于善意提出的。善意要求诚实并遵守合理的商业公平交易标准。如果任何一方未能履行其在变更后合同下的义务，那么另一方可以因违约而要求赔偿。
+
+> At common law, contract modification generally requires a new bargained-for exchange that alters the duties of both parties in some way (ie, new consideration).
+> the UCC, which deals expressly with the sale of goods, allows modifications without consideration so long as they are sought in good faith. Good faith requires honesty and observance of reasonable commercial standards of fair dealing. And if either party fails to perform his/her obligations under the modified contract, then the other party can recover for breach.
 
 # 四、合同的解释
 
