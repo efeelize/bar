@@ -18,6 +18,8 @@
 | Unilateral discharge[单方解除] | Death Destruction of subject matter Impracticability | / |
 | Suing for breach | Must be in privity (ie, party to contract) or intended beneficiary[必须有合同相对性（即，合同当事人）或为预期受益人] | No privity/beneficiary requirement |
 
+- 在普通法下，一份合同若要有效且可强制执行，其必须涵盖所有基本条款。这些条款必须足够确定和明确，以便法院能够判断是否存在违约行为并给出适当的救济。否则，合同会因不确定性而无效。
+
 ## 1.1 要约答复中新增条款的效力
 
 | law | Offer rejected |
@@ -44,7 +46,7 @@
 - 先寄出同意要约，后寄出拒绝要约，则前一个寄出时合同已经成立。除非提出要约的人先收到了拒绝要约的信，并基于对拒绝的信赖作出后续安排。
 - 先寄出拒绝要约，后寄出接受要约，以对方**先收到**的信为准，不适用邮箱规则。
 - 约提出人撤回要约，对方知悉被撤回之前寄出了同意要约，则合同依然成立。但如果已经知悉要约被撤回，被提出人无法同意要约。
-- 为承诺一项要约，受要约人必须表现出受要约条款约束的客观意图，并遵守要约中关于承诺的时间、地点或方式的任何具体规定（这些规定优先于邮箱规则）。
+- 为承诺一项要约，受要约人必须表现出受要约条款约束的客观意图，并遵守要约中关于承诺的时间、地点或方式的任何具体规定，此时也不适用邮箱规则。比如要约声明，承诺必须在6月25日之前被收到才有效，实际上在26号收到，此时该承诺是无效的。
 
 > Under the mailbox rule, acceptance of an offer is generally effective upon dispatch. However, one exception to the mailbox rule applies to option contracts, where acceptance is effective upon receipt.
 
@@ -134,8 +136,14 @@
 ## 2.3 unilateral contract [单方合同]
 
 - 无论是单方合同还是双方合同的要约，该要约都必须合理地传达给受要约人，且受要约人必须知晓该要约，才能接受它。否则，就无法达成订立合同的双方合意。
+- 当一方（要约人）承诺以某事换取另一方（受要约人）完成特定行为，而另一方（受要约人）通过完成所要求的行为来表示接受时，单方合同即告成立。 除非要约有此要求，否则**通知并非**使接受生效的必要条件。
+- 如果受要约人**有理由知道**要约人无法在合理时间内知晓履约已完成，那么要约人的义务将被免除，除非：(1)受要约人尽到合理的努力通知要约人;(2)要约人在合理时间内知晓了履约情况或;(3)要约表明不需要接受通知。
 
 > An offer to form a unilateral contract invites acceptance only by performance of a specified act, while an offer to form a bilateral contract invites acceptance by a promise to perform the act.
+> A unilateral contract arises when one party (offeror) promises to do something in return for performance of a specific act and the other party (offeree) accepts by completing the requested performance. Notice is not required to make the acceptance effective unless the offer so requires. But if the offeree has reason to know that the offeror would not learn of the completed performance within a reasonable time, then the offeror's duty is discharged unless :
+(1)the offeree exercises reasonable diligence to notify the offeror
+(2)the offeror learns of the performance within a reasonable time or
+(3)the offer indicates that notification of acceptance is not required.
 
 ## 2.4 illusory offer[虚幻要约]
 
@@ -146,27 +154,36 @@
 
 ## 2.5 要约的终止
 
+- 承诺的发生，在于受要约人做出受要约条款约束的客观表示。要约人有权明确知晓受要约人是否接受要约;
+- 受要约人的承诺必须是明确无误的（即，确定的），否则对任何一方均不产生约束力。并且，在受要约人接受要约之前，要约人可以撤销该要约。
+
 ### (1)Offeror's revocation[要约人的撤销]
 
-- Offeror communicates revocation directly to offeree.
-- Offeree learns information from reliable source that reasonably indicates offer was revoked (eg, house sold to another buyer).
+- 要约人直接向受要约人传达撤销[Offeror communicates revocation directly to offeree]；
+- 受要约人从可靠来源获悉了合理表明要约已被撤销的信息（例如，房屋已售予另一位买家）[Offeree learns information from reliable source that reasonably indicates offer was revoked (eg, house sold to another buyer)].
 
 ### (2)Offeree's rejection[受要约人的拒绝]
 
-- Offeree communicates rejection directly to offeror；
-- Offeree's counteroffer serves as rejection & new offer.[受要约人的反要约构成拒绝及新要约]
+- 受要约人直接向要约人传达拒绝[Offeree communicates rejection directly to offeror]；
+- 受要约人的反要约构成拒绝及新要约[Offeree's counteroffer serves as rejection & new offer]
 
 ### (3)Lapse[失效]
 
-- Time period specified in offer expires[要约中规定的期限届满];
-- After reasonable time if no time period specified in offer.
+- 要约中规定的期限届满[Time period specified in offer expires];
+- 若要约中未规定期限，则在合理时间后[After reasonable time if no time period specified in offer].
 
 ### (4)By law
 
-- Either party dies or is adjudicated insane[宣告为精神失常];
-- Subject matter of offer is destroyed or becomes illegal.
+- 任何一方当事人死亡或被裁定为精神失常[Either party dies or is adjudicated insane];
+- 要约标的物被毁坏或变得不合法[Subject matter of offer is destroyed or becomes illegal].
 
-# 3.implied-in-law ("quasi") contract[法律默示（“准”）合同]
+# 3.Implied contracts [默示合同]
+
+## 3.1 implied-in-law ("quasi") contract[法律默示（“准”）合同]
+
+- 诚实并遵守合理的商业公平交易标准为防止不当得利，由法院构建的合同，即一方当事人从另一方获得利益，而提供利益的一方有理由期望得到补偿。例如，医生治疗昏迷者。
+
+> Constructed by court to prevent unjust enrichment when party receives benefit from another who reasonably expects compensation Eg, physician treats unconscious person.
 
 ## 3.1 成立条件
 - the plaintiff has conferred[授予] a measurable benefit (eg, medical services) on the defendant
@@ -200,7 +217,8 @@
 
 ### （1）bargained-for exchange[有对价的交换]
 
-- 
+- 有效对价即经协商换取的承诺或履行；
+- 放弃一项主张或抗辩的承诺构成对价（比如，签发一份免责地契）。只要（1）该主张或抗辩是有效的或处于善意纠纷之中，或（2）放弃方真诚地相信其可能是有效的。
 
 > Each party's willingness to enter agreement must be induced by other party's act/promise.If there was no bargained-for exchange (ie, consideration) to support his promise, no contract arose between the parties, and the court should rule in favor of the man.
 
@@ -208,49 +226,95 @@
 
 > Each party must relinquish[放弃] legal right by either: performing (or promising to perform) act that is not legally required or refraining (or promising to refrain) from performing legally permissible act.
 
+## 4.2 无对价但有约束力的承诺
+
+### （1）支付因技术性抗辩而被禁止的债务
+
+- 承诺支付在没有技术性执行抗辩（例如，诉讼时效、破产）的情况下本可强制执行的债务.
+
+> Promise to pay debt that would be enforceable absent technical defense to enforcement (eg, statute of limitations, bankruptcy).
+
+### （2）履行可撤销的义务
+
+- 承诺履行可撤销的义务，前提是新的承诺本身不是可撤销的（例如，未成年人在成年后再次确认履行合同的承诺）
+
+> Promise to perform voidable duty, provided that new promise is not also voidable (eg, minor reaffirms promise to perform contract after reaching age of majority).
+
+### （3）为已获得的物质利益支付
+
+- 承诺为过去收到的且非意图作为赠与的物质利益付款（例如，承诺支付先前获得的紧急服务费用）
+
+> Promise to pay for material benefits received in the past & not intended as a gift (eg, promise to pay for emergency services previously received).
+
+### （4）Promissory etoppel[承诺性禁反言]
+
+- 任何承诺（例如，未来赠与的承诺），如果：(1)允诺人应合理预期受诺人会信赖该承诺;(2)受诺人因信赖该承诺而遭受损害 并且;(3)只有强制执行该承诺才能避免不公正.
+- 不要求证明受诺人的信赖为允诺人带来了经济利益。
+- 不要求所承诺的赠与价值必须与受诺人因信赖而遭受的损失大致相当。但是，受诺人的救济仅限于因信赖承诺而遭受的实际损失——而不必然是承诺的全部价值。
+
+# 5.单方合同
+
+## 5.1 gift
+
+- 赠与的承诺通常是不可强制执行的;
+- 慈善捐款承诺（charitable subscription）.
+
+> A promise to make a gift is generally unenforceable because it does not involve the bargained-for consideration required to form a valid contract. 
+> However, most courts will enforce a charitable subscription , which is a promise to contribute money or property to a charitable institution. They typically do so on promissory estoppel grounds.
+
+## 5.2 Advertisements
+
+- 广告通常被认为是旨在订立合同的要约邀请，而非要约。
+- 如果广告满足以下条件，则可以构成一般要约：（1）明确了标的物、数量和价格，并且（2）对可以承诺该要约的人设置了合理的限制。比如:All counches sold for $500 each!,members only!
+
+> Advertisements are generally considered invitations to negotiate or solicitations of offers, which create no power of acceptance in the recipient. However, an advertisement can constitute a general offer - the acceptance of which creates a binding contract - if the advertisement :specifies the subject matter, quantity, and price and places a reasonable limit on who can accept the offer.
+
+# 6.mutual assent
+
+- 合同成立需要双方合意（即要约与承诺），当双方客观地表达了他们达成一项有约束力协议的同意时，合同即告成立；
+- 一方的实际意图,比如开玩笑（intend intent），都inrrelevant.
+
+> Contract formation requires mutual assent (ie, offer and acceptance). During the negotiation process, the parties are entitled to rely on a reasonable interpretation of each other's words and actions since they cannot know each other's subjective intent. This means that a contract is formed when both parties objectively express their assent to enter a binding agreement. Once formed, the contract cannot be rescinded because of one party's secret intent not to be bound.
+
 # 二、合同的有效性 & 可执行性
 
 # 1.Preexisting Duty Rule[已经存在的法律义务]
 
-- 合同修改需要新的对价 (consideration)——即每一方当事人都必须以某种方式变更其义务。但是，履行或承诺履行一项已存义务 (preexisting duty) 不构成对价。
+- 在普通法下，合同修改需要新的对价 (consideration)，即每一方当事人都必须以某种方式变更其义务；
+- 但是，履行或承诺履行一项已存义务 (preexisting duty) 不构成对价，并且不能支持构成对合同的修改；
+- UCC下合同的修改则不需要新的对价，只要求双方协议+善意（诚实并遵守合理的商业公平交易标准）。
 
-> Contract modifications require new consideration - ie, each party must alter his/her duties in some way. But a promise to perform, or the performance of, a preexisting duty does not constitute consideration. 
+> Contract modifications require new consideration - ie, each party must alter his/her duties in some way. But a promise to perform, or the performance of, a preexisting duty does not constitute consideration.
 
-## 1.1  Exceptions to the Pre-existing Duty Rule
+## 1.1  例外
+| 主要规则 | 履行已存义务的承诺（或履行本身）不构成对价 |
+| ---- | ---- |
+| New or Altered Consideration[新的/变更的对价] | If the duty is altered in some way (e.g., different performance or added obligation), then it is valid consideration.[增加新义务或变更既存义务（例如，提前到期日）] |
+| Ratification of Voidable Duty[对可撤销义务的追认] | A party re-promising to perform a duty that was previously voidable (e.g., a contract made while underage) is enforceable if ratified after the barrier (e.g., infancy) is removed.[履行可撤销义务的新承诺（例如，达到法定成年年龄时）] | 
+| 普通法例外 | （1）善意争议，对义务范围存在善意争议；（2）意外事件，鉴于不可预见的情况而进行的公平合理的修改；（3）重新承诺，尽管存在技术性抗辩（如诉讼时效、破产），但以书面或部分履行的方式重新承诺支付已存债务；（4）第三方，对第三方（即非本案合同当事人）负有的已存义务 |
+| UCC例外 | 修改 出于善意寻求的修改——即诚实并遵守公平交易的合理商业标准 | 
 
-### （1） New or Altered Consideration[新的/变更的对价]
+### (1) Common Law Exceptions
 
-- If the duty is altered in some way (e.g., different performance or added obligation), then it is valid consideration.[增加新义务或变更既存义务（例如，提前到期日）]
-
-> Example: “I’ll finish the job early for an extra $10,000.” The early completion is a new obligation → valid consideration.
-
-### (2) Ratification of Voidable Duty[对可撤销义务的追认]
-
-- A party re-promising to perform a duty that was previously voidable (e.g., a contract made while underage) is enforceable if ratified after the barrier (e.g., infancy) is removed.[履行可撤销义务的新承诺（例如，达到法定成年年龄时）]
-
-> Example: A 17-year-old signs a contract. Upon turning 18, they affirm the contract. This is now enforceable.
-
-### (3) Common Law Exceptions
-
-#### (3.1) Honest Dispute[善意争议]
+#### (1.1) Honest Dispute[善意争议]
 
 - If the scope of the duty is honestly disputed, a new promise may be supported by consideration.[义务范围存在善意争议]
 
 > Example: “I don’t think I agreed to paint the garage. But I’ll do it for an extra $500.” → Valid if there’s an honest dispute.
 
-#### (3.2) Unanticipated Circumstances[意外事件]
+#### (1.2) Unanticipated Circumstances[意外事件]
 
 - If unanticipated events occur and the parties fairly and equitably modify the contract in good faith, the modification may be enforced without new consideration.
 
 > Example: Unexpected labor shortage increases construction cost. Parties agree to pay more. If fair → valid modification.
 
-### (4) Renewed Promise[续新承诺]
+#### (1.3) Renewed Promise[续新承诺]
 
 - A debtor renews a promise to pay a debt that is barred by a technical defense (like the statute of limitations or bankruptcy).[尽管存在技术性抗辩（例如，诉讼时效、破产），但对既存债务作出新的偿付承诺，且该承诺为书面或已部分履行]
 
 > Example: Debtor writes, “I know I owe you money and I’ll pay it next month,” even though the statute of limitations expired → that written promise revives the obligation.
 
-### (5) Third Party Promise
+#### (1.4) Third Party Promise
 
 - If a party promises to do something they already owe to someone else, and a third party offers a benefit for that same act, the promise can be valid consideration.[对第三方（即非本案合同当事方）负有的既存义务]
 
@@ -322,16 +386,27 @@
 
 > In either case, the loan itself serves as valid consideration for the guarantor's promise[贷款本身即构成了对保证人承诺的有效对价] - even if the guarantor is not notified when the loan is made. That is because the loan is a legal detriment[法律上的损害] to the creditor that was induced by the guarantor's promise.
 
-## 4.7 NOM clause[no-oral modification clause]
+## 4.7 合同的非书面修改
 
-| 适用法律 | NOM条款的效力 |
-| -- | -- |
-| common law (contracts for services or real estate) [普通法下，只要修改有对价，即便是口头也可以修改书面合同，NOM条款通常是无效] | NOM clause enforceable only if modification must be in writing under statute of frauds |
-| UCC (contracts for sale of goods) [UCC下，NOM默认是有效的] | (1)All parties are merchants – NOM clause always enforceable;(2) > 1 party is nonmerchant – NOM clause in merchant's form must be separately signed by nonmerchant(s) to be enforceabl[非商家需要对NOM条款单独签名]|
+### （1）合同对修改未作规定
 
-- Modifications to a contract that falls within and satisfies this statute generally need not be in writing because the enforceability of the initial contract passes to any modifications.
-- However, the UCC will enforce a "no oral modification" (NOM) clause that requires modifications to be in writing.
-- A NOM clause can be waived by the parties through words or conduct, and the waiver cannot be retracted if a party has materially changed its position in **reasonable reliance** on the waiver.
+- 非书面修改有效，除非适用反欺诈法（普通法 & UCC）
+
+### （2）NOM clause[no-oral modification clause]
+
+#### （2.1）普通法：NOM一般无效
+
+- 条款不可执行。非书面修改有效，除非适用反欺诈法；
+- 普通法下，只要修改有对价，即便是口头也可以修改书面合同，NOM条款通常是无效。
+
+> Modifications to a contract that falls within and satisfies this statute generally need not be in writing because the enforceability of the initial contract passes to any modifications.
+
+#### （2.2）UCC：NOM默认有效
+
+- 条款可执行（即非书面修改无效），即禁止口头修改条款；
+- 对于单独签署该条款的非商人通常是可执行的;
+- 以下情况下，这些条款被视为放弃：(1)双方试图通过口头或其行为（例如，提出并接受替代履行）来修改合同，并且(2)一方基于对该修改的信赖而实质性地改变了他/她的处境;
+- 在这种情况下，试图进行的修改是有效的。并且，如果任何一方违反或终止修改后的合同，另一方有权获得补偿性损害赔偿。
 
 # 5.incapacity due to infancy
 
@@ -347,7 +422,7 @@
 | if minor,before or soon after turning 18 | returns any still-existing benefit received under contract | voided |
 | if minor,after turning 18 | fails to timely void contract | ratified |
 | if minor,after turning 18 | agrees to be bound by contract | ratified |
-| if contract is for necessitites(food,clothing,medicine) | disaffirm contract but must pay value of benefits received | exception | 
+| if contract is for necessitites(food,clothing,medicine) | disaffirm contract but must pay value of benefits received | exception |
 
 # 三、合同的修改
 

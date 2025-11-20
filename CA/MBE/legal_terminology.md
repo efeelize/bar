@@ -194,5 +194,24 @@ It often refers to time, resources, tasks, or responsibilities that are designat
 
 # 40.quitclaim
 
-> A quitclaim in law refers to a legal document where a person (the grantor) releases or "quits" any claim or interest they may have in a property or right, without making any warranties or guarantees about the status of that property.In essence, when someone executes a quitclaim deed or document, they do not promise that they have ownership of the property or that the title is free of encumbrances. The document simply transfers whatever interest the grantor has—if any—to the recipient (the grantee).
+>In law, “quitclaim” usually comes up in the context of a quitclaim deed, which is a legal instrument used to transfer whatever interest a person has in property to another party.
 
+# 50.Pro se
+
+> "Pro se" is a Latin term that means "for oneself" or "on one's own behalf." In the legal context, it refers to an individual who represents themselves in court, without the assistance of a lawyer.So, if someone files a lawsuit or defends themselves in court pro se, it means they are handling their legal matters personally, without a legal representative.
+
+# 51.promissory note[本票]
+
+- overdue promissory note[已逾期的本票]
+
+> A promissory note is a written promise to pay a specified amount of money to a particular person or entity at a future date or on demand. It’s a form of negotiable instrument, meaning it can be transferred from one party to another, and is commonly used in financial transactions, loans, or business agreements.
+
+# 52.statute of limitations[诉讼时效]
+
+> The statute of limitations refers to the time limit within which a person can bring a lawsuit or legal claim. Once the statute of limitations has passed, the legal claim is no longer valid, and the person can no longer sue or pursue legal action for that particular issue.
+
+# 53. A right of first refusal[优先购买权]
+
+> A right of first refusal is a contractual right that gives a party the option to purchase something before it is offered for sale to others.
+
+# 54.
