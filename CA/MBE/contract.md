@@ -111,13 +111,13 @@
 | Type | Description | Consideration | Duration |
 | --- | --- | --- | ---- |
 | UCC Firm offer | Merchant gives written & signed assurance that offer will remain open[商家以书面形式并签署保证，确保要约保持开放]  | Not required | Specified or reasonable time |
-| Common law Option contract[选择权合同] | Offeror promises to keep offer open in exchange for consideratio[要约人承诺保持要约开放以换取对价] | Required | Reasonable time for full performance |
-| Common law Partial performance (unilateral contracts单方合同) | Offeror invites acceptance only by performance & offeree begins to perform[要约人仅以履行方式邀请承诺，且受要约人已开始履行] | Not required | Reasonable time for full performance |
-| Promissory estoppel（also called detrimental reliance） | Offeror could reasonably foresee reliance on offer & offeree reasonably relies to his/her detriment[要约人可合理预见到受要约人将信赖其要约，且受要约人已合理信赖该要约并因此遭受损害] | Not required | Reasonable time |
+| Common law Option contract[选择权合同] | Offeror promises to keep offer open in exchange for consideration[要约人承诺保持要约开放以换取对价] | Required | Reasonable time for full performance |
+| Common law Partial performance /unilateral contracts[单方合同] | Offeror invites acceptance only by performance & offeree begins to perform[要约人仅以履行方式邀请承诺，且受要约人已开始履行] | Not required | Reasonable time for full performance |
+| Promissory estoppel/detrimental reliance | Offeror could reasonably foresee reliance on offer & offeree reasonably relies to his/her detriment[要约人可合理预见到受要约人将信赖其要约，且受要约人已合理信赖该要约并因此遭受损害] | Not required | Reasonable time |
 
 ### (1) 普通法
 
-- 不可撤回的要约视为一个单独的选择权合同（option contract）。既然是合同，就要求对方支付一定的对价（consideration），用于将选择权保留一段时间。
+- 不可撤回的要约视为一个单独的选择权合同(option contract)。既然是合同，就要求对方支付一定的对价（consideration），用于将选择权保留一段时间。
 - 该承诺不需要书面作出。
 
 ### (2) UCC:firm offer
@@ -186,6 +186,7 @@
 > Constructed by court to prevent unjust enrichment when party receives benefit from another who reasonably expects compensation Eg, physician treats unconscious person.
 
 ## 3.1 成立条件
+
 - the plaintiff has conferred[授予] a measurable benefit (eg, medical services) on the defendant
 - the plaintiff acted without gratuitous intent[原告的行为并非出于无偿意图] and
 - it would be unfair to let the defendant retain the benefit without compensating the plaintiff.
@@ -246,7 +247,7 @@
 
 > Promise to pay for material benefits received in the past & not intended as a gift (eg, promise to pay for emergency services previously received).
 
-### （4）Promissory etoppel[承诺性禁反言]
+### （4）Promissory estoppel[承诺性禁反言]/detrimental reliance
 
 - 任何承诺（例如，未来赠与的承诺），如果：(1)允诺人应合理预期受诺人会信赖该承诺;(2)受诺人因信赖该承诺而遭受损害 并且;(3)只有强制执行该承诺才能避免不公正.
 - 不要求证明受诺人的信赖为允诺人带来了经济利益。

@@ -214,4 +214,6 @@ It often refers to time, resources, tasks, or responsibilities that are designat
 
 > A right of first refusal is a contractual right that gives a party the option to purchase something before it is offered for sale to others.
 
-# 54.
+# 54.a statute-of- limitations provision[诉讼时效条款]
+
+> A statute of limitations provision refers to a law that sets a maximum period of time within which a legal action, such as a lawsuit or criminal prosecution, can be initiated. Once the time period specified in the statute of limitations expires, the right to file the action is typically lost, and the case can no longer be pursued in court.
