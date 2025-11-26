@@ -20,19 +20,26 @@
 
 - 在普通法下，一份合同若要有效且可强制执行，其必须涵盖所有基本条款。这些条款必须足够确定和明确，以便法院能够判断是否存在违约行为并给出适当的救济。否则，合同会因不确定性而无效。
 
-## 1.1 要约答复中新增条款的效力
+## 1.1 battle of the forms[要约答复中新增条款的效力]
 
-| law | Offer rejected |
-| ---- | --- |
-| common law ,mirror-image | Offer rejected，Reply treated as counteroffer |
-| UCC, ≥1 party is nonmerchant | Offer accepted unless reply expressly required assent to new/revised terms,New/revised terms treated as proposed additions to contract[要约被接受，除非回应明确要求同意新增/修订的条款,新增/修订的条款被视为对合同的附加提议]|
-| UCC, All parties are merchants | Offer accepted unless reply expressly required assent to new/revised terms,New terms become part of contract unless[新增条款成为合同的一部分]:(1)offer expressly required assent to new terms[要约明确要求同意新增条款];(2)new terms materially alter contract or;(3)offeror objects within reasonable time;|
-| UCC, All parties are merchants | Revised terms follow split authority[修订条款遵循不同判例] & are either:(1)treated as new terms or[被视为新增条款];(2)cancelled out under knockout rule[根据剔除规则被取消] |
+### （1） common law
 
-- 根据普通法，一项承诺只有在与要约条款呈镜像关系时才有效。
-- UCC第二条，任何合理的承诺表示——即使包含新条款——都是有效的，除非该承诺明确以要约人同意新条款为条件。
+- mirror-image,Offer rejected，Reply treated as counteroffer.一项承诺只有在与要约条款呈镜像关系时才有效。
+
+### (2)UCC
 
 > The UCC uses the battle-of-the-forms rule, where any reasonable manifestation of acceptance - even one including new terms - is effective unless it is expressly conditioned on the offeror's assent to the new terms.
+> 如果接收方提出了一些新的条件，甚至修改了一些提出方的条件，依然可以视为接受要约，这时我们称双方的制式表格有冲突（battle of forms），但是合同的关键条款(essential terms)不能有分歧。
+
+#### (2.1) 视情况决定能否成为合同的一部分
+
+- 如果合同的任何一方不是商家，新提出或修改的条款只视为建议（proposal），在另一方接受之前，不会成为合同的一部分。
+- 合同的双方都是商家，接收方修改原条款后，双方的条款都不采纳（knock out rule）,而是采用UCC的默认规则进行；
+- 仅仅提出新条款，通常可以成为合同的一部分，除非：（1）实质性的修改（materially alter）原要约，通常都是和行业惯例有很大的不同，比如减少自己的质保义务[重大修改不视为合同的一部分]
+
+#### （2.2）要约明确限制增加新条款
+
+#### （2.3）对方明确反对新条款，或者在收到新条款之后的合理时间内提出反对
 
 ## 1.2 mailbox rule[邮箱规则]
 
@@ -549,10 +556,11 @@ one-sidedness of contract terms (eg, the contract terms overwhelmingly favor the
 
 | governing law | requirements |
 | ---- | ---- |
-| common law | Parties' agreement New consideration |
-| UCC | 1.Parties' agreement Good faith (ie, honesty & observance of reasonable commercial standards of fair dealing);2.New consideration not required |
+| common law | （1）传统观点：双方协议 + 新的对价；（2）现代观点：双方协议 + 新的对价，除非因未预见情况导致的变更是公平合理的  |
+| UCC | （1）双方协议 + 善意（即，诚实并遵守合理的商业公平交易标准）Parties' agreement Good faith (ie, honesty & observance of reasonable commercial standards of fair dealing)
+(2)不需要新的对价.New consideration not required |
 
-- 在普通法下，合同变更通常需要一个新的有对价的交换，该交换以某种方式改变了双方的义务（即新的对价）。
+- 在普通法下，合同变更通常需要一个新的有对价的交换，该交换以某种方式改变了双方的义务（即新的对价）。然而，在没有新的对价的情况下，如果合同变更满足以下条件，仍然可以强制执行：（1）基于双方在订立合同时未预料到的情况，并且（2）根据这些情况，变更是公平合理的。
 - UCC允许在没有对价的情况下进行变更，只要该变更是基于善意提出的。善意要求诚实并遵守合理的商业公平交易标准。如果任何一方未能履行其在变更后合同下的义务，那么另一方可以因违约而要求赔偿。
 
 > At common law, contract modification generally requires a new bargained-for exchange that alters the duties of both parties in some way (ie, new consideration).
