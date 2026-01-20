@@ -1,4 +1,31 @@
-# 一、合同的形成
+# 1.contract fundamentals
+
+> CL:common law.
+
+> UCC:uniform commercial code.
+
+> offeror:person that makes an offer.
+
+> offeree:person to whom an offer is made.
+
+> merchant:person who deals in goods of the kind.
+
+## 1.1 bilateral vs.unilateral contract
+
+- bilateral contract:a contract formed by an ***exchange of promises***
+- unilateral contract:involves only 1 promise(by offeror)that expressly require ***performance to accept***.contract in formed ***only when*** offeree completes performance.
+
+## 1.2 express vs.implied contract
+
+- express:formed by express written or oral terms.
+- implied-in-fact:formed by ***conduct*** of the parties.
+- implied-in-law/Quasi-contract:***not*** a contract,is a ***restitution remedy*** to prevent unjust enrichment.
+
+## 1.3 void,voidable,& unenforceable
+
+- void:no conract exists,agreemnet has ***no legal effect***.
+- voidable:problem with the contract exists,but it ***may*** be enforced or rejected at the ***opion*** of one party.
+- unenforceable:is a valid contract that ***cannot*** be enforced cuz a defense applies.
 
 # 1.如果同时出现普通法（UCC）和衡平法的适用选择
 
