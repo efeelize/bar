@@ -4,11 +4,9 @@
 
 > UCC:uniform commercial code.
 
-> offeror:person that makes an offer.
+> cuz:because
 
-> offeree:person to whom an offer is made.
-
-> merchant:person who deals in goods of the kind.
+> ex:except
 
 ## 1.1 bilateral vs.unilateral contract
 
@@ -26,6 +24,40 @@
 - void:no conract exists,agreemnet has ***no legal effect***.
 - voidable:problem with the contract exists,but it ***may*** be enforced or rejected at the ***opion*** of one party.
 - unenforceable:is a valid contract that ***cannot*** be enforced cuz a defense applies.
+
+# 2.applicable law
+
+## 2.1[H]UCC & CL
+
+- UCC Art.2:governs ***sale of goods*** contracts.
+- CL:applies to ***all other*** contracts(e.g.sevices,construction,real properly).
+- Mixed contracts:***predominant purpose*** of the contract controls the law to apply.
+
+## 2.2[H] UCC Art.2
+
+- goods:all things moveable at the time of identification to the contract(ex:money/currency).
+
+## 2.3 elements to form a valid contract
+
+### 2.3.1 [H]mutual assent（offer and acceptance）
+
+#### 2.3.1.1 offer
+
+- a ***manifestation of present intent*** to enter into a contract.
+- with ***definite & reasonably certaion terms***
+- ***communicated*** to an identifited offeree.
+
+#### 2.3.1.2 termination
+
+> an offer can be terminated ***before acceptance*** by:
+
+- ***revocation***by offeror
+- ***rejection*** or counteroffer by offeree.
+- ***lapse of time***:time for acceptance expires after(a)time limit stated,
+
+### 2.3.2 consideration or substituted
+
+### 2.3.3 no defenses to formation
 
 # 1.如果同时出现普通法（UCC）和衡平法的适用选择
 
