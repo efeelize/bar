@@ -8,6 +8,8 @@
 
 > ex:except
 
+> incl:include
+
 ## 1.1 bilateral vs.unilateral contract
 
 - bilateral contract:a contract formed by an ***exchange of promises***
@@ -37,35 +39,131 @@
 
 - goods:all things moveable at the time of identification to the contract(ex:money/currency).
 
-## 2.3 elements to form a valid contract
+# 3. elements to form a valid contract
 
-### 2.3.1 [H]mutual assent（offer and acceptance）
+## 3.1 [H]mutual assent（offer + acceptance）
 
-#### 2.3.1.1 offer
+### 3.1.1 offer
 
 - a ***manifestation of present intent*** to enter into a contract.
-- with ***definite & reasonably certaion terms***
+- with ***definite & reasonably certain terms***
 - ***communicated*** to an identifited offeree.
 
-#### 2.3.1.2 termination
+#### (1)termination
 
 > an offer can be terminated ***before acceptance*** by:
 
-- ***revocation***by offeror
+- ***revocation*** by offeror.(要[O约人直接向受要约人传达撤销fferor communicates revocation directly to offeree]；
+- 受要约人从可靠来源获悉了合理表明要约已被撤销的信息（例如，房屋已售予另一位买家）[Offeree learns information from reliable source that reasonably indicates offer was revoked (eg, house sold to another buyer)].
 - ***rejection*** or counteroffer by offeree.
-- ***lapse of time***:time for acceptance expires after(a)time limit stated,
+- ***lapse of time***:time for acceptance expires after(a)time limit stated,or (b)reasonable time(if no time stated);
+- ***death or incapacity*** of either party;
+- ***supervening illegaility***-proposed contract becomes illegal ***after*** offer is made.
 
-### 2.3.2 consideration or substituted
+#### (2)revocation
 
-### 2.3.3 no defenses to formation
+> an offer may be revoked at any time before acceptance by:
 
-# 1.如果同时出现普通法（UCC）和衡平法的适用选择
+- ***unambiguous words or conduct*** indicating an unwillingness/inability to contract ***communicated to offeree***;
+- ***indirect revocation***-when (1)offeror takes ***definite action inconsistent*** with entering into a proposed contract,and (2)offeree  acquires reliable info to that effect.
 
-- 我们要关注合同是否成立，如果合同成立，一般来说按照前面的赔偿金解决问题，除非造成明显的不公。只有当合同没有成立时才用衡平法理论解决问题，比如准合同、禁反言等;
-- “让人做某事”，“不让人做某事”是衡平法的救济，普通法关注金钱上的赔偿;
-- 普通法救济足够的时候，不用衡平法救济;
-- 衡平法由法官审理事实，而不是陪审团;
-- 普通法通常严格遵循法律和先例（先例也是法律的一部分），而衡平法更关注结果是否公平，但公平并非只有一种答案.
+#### (3)irrevocable offers[不可撤回的要约]
+
+- ***option contract(CL)***:a promise to keep an offer open supported by consideration.[不可撤回的要约视为一个单独的选择权合同]
+- ***UCC merchant's firm offer***:requires(1)an offer by a merchant's to buy/sell goods[提出人必须是商家（merchant）],(2)in a signed writing[书面提出],(3)stating offer will be help open(irrevocability ***CANNOT*** exceed 3 months,即使要约中声明了更长的期限),(4)separately signed by offeror(if form was supplied by offeree).(5)consideration is ***NOT*** required.
+- ***detrimental reliance/promissory estoppel***:offer was reasonably relied on to offeree's detriment.[要约人可合理预见到受要约人将信赖其要约，且受要约人已合理信赖该要约并因此遭受损害]
+- ***start performance on unliateral contract***:makes offer temporarily irrevocable for a reasonable time to complete performance.(要约人仅以履行方式邀请承诺，且受要约人已开始履行,mere preparation is insufficient).
+
+#### (4)rejection
+
+- ***counteroffer***:is both a rejection & new offer.要约人直接向受要约人传达/受要约人从可靠来源获悉了合理表明要约已被撤销的信息（例如，房屋已售予另一位买家）.
+- ***conditional acceptance***:treated same as counteroffer.
+- ***acceptance with varying terms***:it's either acceptance or a counteroffer.
+
+
+
+
+### (1)
+
+### (2)Offeree's rejection[受要约人的拒绝]
+
+- 受要约人直接向要约人传达拒绝[Offeree communicates rejection directly to offeror]；
+- 受要约人的反要约构成拒绝及新要约[Offeree's counteroffer serves as rejection & new offer]
+
+### (3)Lapse[失效]
+
+- 要约中规定的期限届满[Time period specified in offer expires];
+- 若要约中未规定期限，则在合理时间后[After reasonable time if no time period specified in offer].
+
+### (4)By law
+
+- 任何一方当事人死亡或被裁定为精神失常[Either party dies or is adjudicated insane];
+- 要约标的物被毁坏或变得不合法[Subject matter of offer is destroyed or becomes illegal].
+
+
+### 3.1.2 acceptance
+
+#### (1)by words/conduct
+
+- express words or conduct manifesting acceptance.
+
+#### (2)by performance
+
+- ***bilateral contracts***:start of performance manifests acceptance.
+- ***unilateral contracts***:only makes the offer irrevocable (acceptance only when completed).
+
+#### (3)by silence
+
+- ***NOT*** acceptance,unless an implied-in-Fact contract.
+
+#### （4）by shipment of goods
+
+- is acceptance if (a)promise to ship goods,or (b)prompt shipment of goods(unless it's an accommodation shipment).
+
+## 3.2 【M】acceptance with varying/additional terms
+
+### 3.2.1 mirror image rule (CL)
+
+- acceptance ***MUST*** exactly mirror the offer,any variations constitute a counteroffer.
+- A purported acceptance that contains different or additional terms acts as a rejection of the original offer and as a counteroffer(均构成对原要约的拒绝和一项反要约).
+
+### 3.2.2 UCC
+
+> acceptance DOES NOT have to mirror the offer to form a contract.BUT,***additional or different terms*** are incl only if:
+
+- both parties r merchants;
+- the term is ***not*** a material change;
+- offer ***does not*** expressly limit acceptance to the exact offer;
+- no objection was made with a reasonable time.
+- ***material change***:likely to cause hardship/surprise(e.g.disclaimer of warrantly,arbitration clause).
+
+## 3.3 [H] timing of offer/acceptance & mailbox rule
+
+### (1)offer 
+
+
+
+
+
+## 1.5 一项要求立即发货的货物购买要约[UCC]
+
+- promising to ship the goods;
+- shipping goods that conform to the order;
+- shipping nonconforming goods without notice that they are being offered only as an accommodation. ie, notice of accommodation. [发运不符规格的货物，且未通知此举仅为通融，即通融通知]
+
+> Article 2 of the Uniform Commercial Code ( UCC ) governs contracts for the sale of goods (eg, computers). Under the UCC, a seller can accept a buyer's offer to purchase goods for prompt or immediate shipment by promising to ship, or shipping, the goods. Once the offer is accepted, the shipped goods must **conform perfectly** to the contract.
+
+### （1）Seller's reply to buyer's offer
+
+| Reply | Effect |
+| --- | --- |
+| Promise to ship | Acceptance |
+| Shipment of conforming goods | Acceptance & performance |
+| Shipment of nonconforming goods + With notice of accommodation | Rejection & counteroffer |
+| Shipment of nonconforming goods + With no notice | Acceptance & breach |
+
+- with notice:the buyer may accept the shipment (creating a contract for the nonconforming goods从而就该不符货物成立一份合同,and the buyer did not sustain any damages) OR reject the shipment (creating no contract).
+- with no notice:Nonconformance is a breach that allows the buyer to **accept or reject** the goods in whole or in part. The buyer can also **recover any damages** suffered as a result of the breach.
 
 | / |  common law |  UCC |
 | --- | --- | ---- |
@@ -146,60 +244,6 @@
 
 > In contracts between merchants, conflicting terms in the offer and acceptance are canceled out under the knockout rule and replaced with UCC gap-filling provisions (eg, delivery within a reasonable time).
 
-## 1.5 一项要求立即发货的货物购买要约[UCC]
-
-- promising to ship the goods;
-- shipping goods that conform to the order;
-- shipping nonconforming goods without notice that they are being offered only as an accommodation. ie, notice of accommodation. [发运不符规格的货物，且未通知此举仅为通融，即通融通知]
-
-> Article 2 of the Uniform Commercial Code ( UCC ) governs contracts for the sale of goods (eg, computers). Under the UCC, a seller can accept a buyer's offer to purchase goods for prompt or immediate shipment by promising to ship, or shipping, the goods. Once the offer is accepted, the shipped goods must **conform perfectly** to the contract.
-
-### （1）Seller's reply to buyer's offer
-
-| Reply | Effect |
-| --- | --- |
-| Promise to ship | Acceptance |
-| Shipment of conforming goods | Acceptance & performance |
-| Shipment of nonconforming goods + With notice of accommodation | Rejection & counteroffer |
-| Shipment of nonconforming goods + With no notice | Acceptance & breach |
-
-- with notice:the buyer may accept the shipment (creating a contract for the nonconforming goods从而就该不符货物成立一份合同,and the buyer did not sustain any damages) OR reject the shipment (creating no contract).
-- with no notice:Nonconformance is a breach that allows the buyer to **accept or reject** the goods in whole or in part. The buyer can also **recover any damages** suffered as a result of the breach.
-
-## 1.6 mirror-image rule[镜像规则]
-
-> Under this rule, an acceptance must match the terms of the offer exactly. A purported acceptance that contains different or additional terms acts as a rejection of the original offer and as a counteroffer[均构成对原要约的拒绝和一项反要约].
-> However, mere suggestions or inquiries that the offeror is free to accept or reject do not. The offeree can therefore accept the original offer in spite of such suggestions or inquiries.
-
-# 2.offer
-## 2.1 Irrevocable offers[不可撤回的要约]
-
-| Type | Description | Consideration | Duration |
-| --- | --- | --- | ---- |
-| UCC Firm offer | Merchant gives written & signed assurance that offer will remain open[商家以书面形式并签署保证，确保要约保持开放]  | Not required | Specified or reasonable time |
-| Common law Option contract[选择权合同] | Offeror promises to keep offer open in exchange for consideration[要约人承诺保持要约开放以换取对价] | Required | Reasonable time for full performance |
-| Common law Partial performance /unilateral contracts[单方合同] | Offeror invites acceptance only by performance & offeree begins to perform[要约人仅以履行方式邀请承诺，且受要约人已开始履行] | Not required | Reasonable time for full performance |
-| Promissory estoppel/detrimental reliance | Offeror could reasonably foresee reliance on offer & offeree reasonably relies to his/her detriment[要约人可合理预见到受要约人将信赖其要约，且受要约人已合理信赖该要约并因此遭受损害] | Not required | Reasonable time |
-
-### (1) 普通法
-
-- 不可撤回的要约视为一个单独的选择权合同(option contract)。既然是合同，就要求对方支付一定的对价（consideration），用于将选择权保留一段时间。
-- 该承诺不需要书面作出。
-
-### (2) UCC:firm offer
-
-- 1.提出人必须是商家（merchant）;
-- 2.书面提出;
-- 3.明确表示要约会保留一段时间。请注意，如果被提出人没有支付对价，要约最多**三个月**后就可以撤销。
-- 商人以书面形式作出并签署的、保证要约保持有效的承诺，其不可撤销期间不能超过3个月，即使要约中声明了更长的期限。
-
-## 2.2 offer to form a bilateral contract
-
-- Notice is not required to accept an offer by starting performance unless the offer so requires[除非要约本身有此要求，否则通过开始履行来接受要约无需发出通知].
-- However, if the offeree should know that the offeror has no convenient way of learning within a reasonable time that performance has begun, the offeree must notify the offeror. Failure to do so will discharge the offeror's contractual duty[如果受要约人理应知道要约人在合理时间内没有便捷的方式得知履行已经开始，则受要约人必须通知要约人。若未能这样做，将免除要约人的合同义务].
-
-> An offer to form a bilateral contract  - ie, an offer that invites acceptance by return promise - can be expressly accepted with a return promise[明确承诺] or impliedly accepted by starting performance[实际履行].
-
 ## 2.3 unilateral contract [单方合同]
 
 - 无论是单方合同还是双方合同的要约，该要约都必须合理地传达给受要约人，且受要约人必须知晓该要约，才能接受它。否则，就无法达成订立合同的双方合意。
@@ -218,31 +262,6 @@
 - 一个最初虚幻的要约可以在以下情况下成为有约束力的允诺：（1）情况发生变化，使得该要约对双方都施加了义务；并且（2）该要约随后被承诺。
 
 > Acceptance of an illusory offer is ineffective for lack of consideration. But such an offer can become a binding promise if (1) circumstances change such that the offer imposes obligations on both parties and (2) the offer is accepted.
-
-## 2.5 要约的终止
-
-- 承诺的发生，在于受要约人做出受要约条款约束的客观表示。要约人有权明确知晓受要约人是否接受要约;
-- 受要约人的承诺必须是明确无误的（即，确定的），否则对任何一方均不产生约束力。并且，在受要约人接受要约之前，要约人可以撤销该要约。
-
-### (1)Offeror's revocation[要约人的撤销]
-
-- 要约人直接向受要约人传达撤销[Offeror communicates revocation directly to offeree]；
-- 受要约人从可靠来源获悉了合理表明要约已被撤销的信息（例如，房屋已售予另一位买家）[Offeree learns information from reliable source that reasonably indicates offer was revoked (eg, house sold to another buyer)].
-
-### (2)Offeree's rejection[受要约人的拒绝]
-
-- 受要约人直接向要约人传达拒绝[Offeree communicates rejection directly to offeror]；
-- 受要约人的反要约构成拒绝及新要约[Offeree's counteroffer serves as rejection & new offer]
-
-### (3)Lapse[失效]
-
-- 要约中规定的期限届满[Time period specified in offer expires];
-- 若要约中未规定期限，则在合理时间后[After reasonable time if no time period specified in offer].
-
-### (4)By law
-
-- 任何一方当事人死亡或被裁定为精神失常[Either party dies or is adjudicated insane];
-- 要约标的物被毁坏或变得不合法[Subject matter of offer is destroyed or becomes illegal].
 
 # 3.Implied contracts [默示合同]
 
