@@ -10,6 +10,10 @@
 
 > incl:include
 
+> exp:exception
+
+> SOF:statue of fradus
+
 ## 1.1 bilateral vs.unilateral contract
 
 - bilateral contract:a contract formed by an ***exchange of promises***
@@ -39,95 +43,77 @@
 
 - goods:all things moveable at the time of identification to the contract(ex:money/currency).
 
-# 3. elements to form a valid contract
+## 2.3 element to form a contract
 
-## 3.1 [H]mutual assent（offer + acceptance）
+- mutual assent（offer + acceptance）
+- consideration or valid substitue
+- no defense
 
-### 3.1.1 offer
+# 3.[H]mutual assent
+
+## 3.1 offer
 
 - a ***manifestation of present intent*** to enter into a contract.
 - with ***definite & reasonably certain terms***
 - ***communicated*** to an identifited offeree.
 
-#### (1)termination
+### 3.1.1 termination
 
 > an offer can be terminated ***before acceptance*** by:
 
-- ***revocation*** by offeror.(要[O约人直接向受要约人传达撤销fferor communicates revocation directly to offeree]；
-- 受要约人从可靠来源获悉了合理表明要约已被撤销的信息（例如，房屋已售予另一位买家）[Offeree learns information from reliable source that reasonably indicates offer was revoked (eg, house sold to another buyer)].
+- ***revocation*** by offeror.[要约人直接向受要约人传达撤销/受要约人从可靠来源获悉了合理表明要约已被撤销的信息（例如，房屋已售予另一位买家）.
 - ***rejection*** or counteroffer by offeree.
 - ***lapse of time***:time for acceptance expires after(a)time limit stated,or (b)reasonable time(if no time stated);
 - ***death or incapacity*** of either party;
 - ***supervening illegaility***-proposed contract becomes illegal ***after*** offer is made.
 
-#### (2)revocation
+### 3.1.2 revocation
 
 > an offer may be revoked at any time before acceptance by:
 
 - ***unambiguous words or conduct*** indicating an unwillingness/inability to contract ***communicated to offeree***;
 - ***indirect revocation***-when (1)offeror takes ***definite action inconsistent*** with entering into a proposed contract,and (2)offeree  acquires reliable info to that effect.
 
-#### (3)irrevocable offers[不可撤回的要约]
+### 3.1.3 irrevocable offers[不可撤回的要约]
 
-- ***option contract(CL)***:a promise to keep an offer open supported by consideration.[不可撤回的要约视为一个单独的选择权合同]
-- ***UCC merchant's firm offer***:requires(1)an offer by a merchant's to buy/sell goods[提出人必须是商家（merchant）],(2)in a signed writing[书面提出],(3)stating offer will be help open(irrevocability ***CANNOT*** exceed 3 months,即使要约中声明了更长的期限),(4)separately signed by offeror(if form was supplied by offeree).(5)consideration is ***NOT*** required.
-- ***detrimental reliance/promissory estoppel***:offer was reasonably relied on to offeree's detriment.[要约人可合理预见到受要约人将信赖其要约，且受要约人已合理信赖该要约并因此遭受损害]
-- ***start performance on unliateral contract***:makes offer temporarily irrevocable for a reasonable time to complete performance.(要约人仅以履行方式邀请承诺，且受要约人已开始履行,mere preparation is insufficient).
+- ***option contract(CL)***:a promise to keep an offer open supported by consideration.[视为一个单独的选择权合同]
+- ***UCC merchant's firm offer***:requires(1)an offer by a merchant's to buy/sell goods[提出人必须是商家],(2)in a signed writing[书面提出],(3)stating offer will be help open(irrevocability ***CANNOT*** exceed 3 months[即使要约中声明了更长的期限],(4)separately signed by offeror(if form was supplied by offeree).(5)consideration is ***NOT*** required.
+- ***detrimental reliance/promissory estoppel***:offer was reasonably relied on to offeree's detriment.[要约人可合理预见到受要约人将信赖其要约 + 受要约人已合理信赖该要约并因此遭受损害]
+- ***start performance on unliateral contract***:makes offer temporarily irrevocable for a reasonable time to complete performance.[要约人仅以履行方式邀请承诺，且受要约人已开始履行,mere preparation is insufficient].
 
-#### (4)rejection
+### 3.1.4 rejection
 
-- ***counteroffer***:is both a rejection & new offer.要约人直接向受要约人传达/受要约人从可靠来源获悉了合理表明要约已被撤销的信息（例如，房屋已售予另一位买家）.
+- ***counteroffer***:is both a rejection & new offer.[要约人直接向受要约人传达/受要约人从可靠来源获悉了合理表明要约已被撤销的信息。例如，房屋已售予另一位买家].
 - ***conditional acceptance***:treated same as counteroffer.
 - ***acceptance with varying terms***:it's either acceptance or a counteroffer.
 
+## 3.2 acceptance
 
-
-
-### (1)
-
-### (2)Offeree's rejection[受要约人的拒绝]
-
-- 受要约人直接向要约人传达拒绝[Offeree communicates rejection directly to offeror]；
-- 受要约人的反要约构成拒绝及新要约[Offeree's counteroffer serves as rejection & new offer]
-
-### (3)Lapse[失效]
-
-- 要约中规定的期限届满[Time period specified in offer expires];
-- 若要约中未规定期限，则在合理时间后[After reasonable time if no time period specified in offer].
-
-### (4)By law
-
-- 任何一方当事人死亡或被裁定为精神失常[Either party dies or is adjudicated insane];
-- 要约标的物被毁坏或变得不合法[Subject matter of offer is destroyed or becomes illegal].
-
-
-### 3.1.2 acceptance
-
-#### (1)by words/conduct
+### 3.2.1 by words/conduct
 
 - express words or conduct manifesting acceptance.
 
-#### (2)by performance
+### 3.2.2 by performance
 
 - ***bilateral contracts***:start of performance manifests acceptance.
 - ***unilateral contracts***:only makes the offer irrevocable (acceptance only when completed).
 
-#### (3)by silence
+### 3.2.3 by silence
 
 - ***NOT*** acceptance,unless an implied-in-Fact contract.
 
-#### （4）by shipment of goods
+### 3.2.4 by shipment of goods
 
 - is acceptance if (a)promise to ship goods,or (b)prompt shipment of goods(unless it's an accommodation shipment).
 
-## 3.2 【M】acceptance with varying/additional terms
+## 3.3 【M】acceptance with varying/additional terms
 
-### 3.2.1 mirror image rule (CL)
+### 3.3.1 mirror image rule (CL)
 
 - acceptance ***MUST*** exactly mirror the offer,any variations constitute a counteroffer.
 - A purported acceptance that contains different or additional terms acts as a rejection of the original offer and as a counteroffer(均构成对原要约的拒绝和一项反要约).
 
-### 3.2.2 UCC
+### 3.3.2 UCC
 
 > acceptance DOES NOT have to mirror the offer to form a contract.BUT,***additional or different terms*** are incl only if:
 
@@ -137,10 +123,159 @@
 - no objection was made with a reasonable time.
 - ***material change***:likely to cause hardship/surprise(e.g.disclaimer of warrantly,arbitration clause).
 
-## 3.3 [H] timing of offer/acceptance & mailbox rule
+## 3.4 [H] timing of offer/acceptance & mailbox rule
 
-### (1)offer 
+### 3.4.1 offer
 
+- effective when ***received***.
+
+### 3.4.2 acceptance
+
+- effective when ***dispatched***.[承诺通常在发出时生效]
+- ***EXP***:acceptance of an option contract is effective upon receipt.
+
+### 3.4.3 revocation or rejection/counteroffer
+
+- effective when ***received***.[拒绝则在收到时生效]
+
+### 3.4.4 mailbox rule[邮箱规则]
+
+- 先寄同意，后寄拒绝，则前一个寄出时合同已经成立。***EXP*** 要约人先收到了拒绝+基于信赖作出安排。
+- 要约人提出撤回，对方知悉前寄出了同意，合同依然成立。
+- 先寄拒绝，后寄接受，以对方 ***先收到*** 的为准，***不适用*** 邮箱规则。
+- 为承诺一项要约，受要约人必须表现出受要约条款约束的客观意图 + 遵守要约中关于承诺的时间、地点或方式的任何具体规定，此时 ***不适用*** 邮箱规则。e.g.要约声明，承诺必须在6月25日之前被收到才有效，实际上在26号收到，此时该承诺是无效的。
+
+## 3.5 [M]implied-in-Fact contract
+
+> treated the same as an express contract,a contract is created by conduct if:
+
+- the conduct is intentional,AND
+- each party has reason to know the other party will interpret the conduct as an agreement.
+
+## 3.6 [M]indefiniteness/absence of terms
+
+> if terms of an agreement are ***not cetain***(can't be ascertained to a reasonable degree of certainty),then it's NOT enforceable.
+
+- 4 terms r required:parties + subject matter + price + time for performance.
+- UCC:only essential term is ***quantity***.
+- ***indefinite duration***:contract is generally invalid.
+- ***real property***:requires sufficient ***description of the land*** + price.
+
+# 4.[H]consideration
+
+## 4.1 not sufficient
+
+- ***past/moral consideration***
+- ***promise of gift***
+- ***sham[虚假]/nominal/token[象征性] consideration***
+- ***illusory promise***
+
+## 4.2 consideration substitutes/excp
+
+## 4.2.1 material benefit rule
+
+- a promise made in recognition of a ***benefit previously received*** is binding to the extent necessary to ***prevent injustice***.
+- ***BUT***,not applied when:(a) conferred as a gift,or (b)value of promise is ***disproportional*** to the benefit conferred.
+
+## 4.2.2 promissory estoppel[承诺性禁反言]/detrimental reliance
+
+- applies when (1)a party reasonably & foreseeably relied to their detriment on other party's promise,(2)promisor reasonably expected a change of position in reliance,(3)it's necessary to avoid injustice.
+- ***promise to pay a non-legally enforceable past debt***,is binding without new consideration if in ***writing***.
+- 不要求证明受诺人的信赖为允诺人带来了经济利益。
+- 不要求所承诺的赠与价值必须与受诺人因信赖而遭受的损失大致相当。但是，受诺人的救济仅限于因信赖承诺而遭受的实际损失——而不必然是承诺的全部价值。
+
+## 4.3[H]modification of contracts
+
+### 4.3.1 pre-existing duty rule(CL)
+
+#### (1)general
+
+- past performance or a pre-existing duty is NOT adequate consideration.
+
+#### (2)EXP
+
+- ***addition or change*** in performance.
+- ***unforeseen circumstances***:a fair and equitable modification due to severe unanticipated circumstances AND contract isn't fully performed by either party;
+- ***third-party promise***:where duty was owed to a third-person(not promisor).
+
+### 4.3.2 UCC
+
+- NO consideration is required for contract modifications made in good faith.[只要求双方协议+善意,ie,诚实并遵守合理的商业公平交易标准]
+- BUT,must have a writing if:(a)it falls within the SOF,(b)original contract states that modification must be in writing.
+
+# 5.defenses to formation/enforceablility
+
+## 5.1 [M] incapacity[contract voidable]
+
+### 5.1.1 lack of meantal capacity
+
+- can't understand the contract's meaning & effect
+- ***intoxication***:a lack of capacity ***only if*** other person has reason to know of intoxication.
+
+### 5.1.2 minors-under 18yrs
+
+#### (1)EXP
+
+- ***necessities***:minors r bound on contracts for necessities(food,clothing,medical care,shelter).
+- ***implied affirmation***:签合同时候未成年+后来成年+retains benefit of contract without complaint.
+
+## 5.2 [M] duress
+
+- physical compulsion[void]
+- non-physical/economic duress[voidable by victim]
+
+## 5.3 [M] undue influence [voidable by victim]
+
+- ***unfair persuasion*** of a person[e.g.过度的压力]
+- who is either:(a)***under the dominartion*** of the person exercising influence;
+- in a ***sufficiently close relationship*** to justify believing that the other person will act in their interest or welfare.
+
+## 5.4 [M]mistake[事实认识错误] & misunderstanding[条款理解不同]
+
+### 5.4.1 mutual mistake  [共同误解]
+
+> contract is voidable if:
+
+- ***both parties*** r mistaken;
+- as to a ***basic assumption of fact***
+- 
+
+
+
+> When  enter a contract based on the same mistake (ie, mutual mistake), the contract is voidable by the adversely affected party if[受影响的一方可以撤销合同]:
+the mistake relates to a  of the contract
+the mistake **materially affects** the agreed-upon exchange of performances (ie, the adversely affected party cannot fairly be required to carry it out) and
+the adversely affected party does not assume the risk of the mistake.（ie，the agreement did not expressly allocate the risk of the mistake）.
+
+### 5.4.2 unilateral mistake[单方面的事实认识错误]
+
+
+# 2.misunderstanding
+
+| / | general rule | waiver |
+| -- | -- | -- |
+| neither/both parties know of misunderstanding | no contract formed[合同没有成立] | either party can enforce **other party’s** understanding |
+| One party knows of misunderstanding | Contract formed based on unknowing party's understanding[如果一方知道对方的想法，合同按照对方所想成立] | Unknowing party can enforce knowing party's understanding |
+
+- It occurs when the parties to a contract attach **different meanings** to the **same term**. If the misunderstanding involves a **material term**, most often there is no contract because there is no meeting of the minds.But if **one party knows or has reason to know about the misunderstanding**, then a valid contract will be formed based on the meaning of the **term as understood** by the **unknowing party**.
+
+- Trade usage can be used to show that a word or phrase has a particular meaning—eg, that "daily service" does not include Sundays in the commercial laundry business. But trade usage will not control when a party knows that the other party attaches a different meaning to the term.
+
+- When one party to a contract knows or has reason to know that the other party attaches a different meaning to a material term, then the unknowing party's meaning of the term will control.
+
+# 3.mistake 
+
+
+
+## 3.2 
+
+
+
+## 3.3 allocate the risk
+
+- A court can allocate the risk of a mistake—ie, an erroneous belief of fact held by one or both parties—to a party upon a finding that it is reasonable in the circumstances to do so (eg, based on that party's culpability). 
+
+- But a court cannot allocate the risk of a misunderstanding—ie, the attachment of different meanings to the same term.
 
 
 
@@ -198,22 +333,6 @@
 
 #### （2.3）对方明确反对新条款，或者在收到新条款之后的合理时间内提出反对
 
-## 1.2 mailbox rule[邮箱规则]
-
-| / |  effective time |
-| ---- | ---- |
-| Offeror[要约人]'s actions: Offer, Revocation of offer | Effective upon receipt |
-| Offeree[受要约人]'s actions: Acceptance[承诺] (mailbox rule) | Effective upon dispatch[发出时生效].Exceptions - effective upon receipt if:(1)improperly stamped/addressed[邮票不足或地址错误];(2)acceptance by mail unreasonable[通过邮件承诺不合理];(3)rejection mailed before acceptance (first received is effective);(4)acceptance of option contract[选择权合同的承诺] |
-| Offeree's actions: Rejection[拒绝]/counteroffer[反要约] | Effective upon receipt |
-
-- 根据邮箱规则 (mailbox rule)，通过邮寄或类似方式发送的承诺通常在发出时生效，而拒绝则在收到时生效。
-- 先寄出同意要约，后寄出拒绝要约，则前一个寄出时合同已经成立。除非提出要约的人先收到了拒绝要约的信，并基于对拒绝的信赖作出后续安排。
-- 先寄出拒绝要约，后寄出接受要约，以对方**先收到**的信为准，不适用邮箱规则。
-- 约提出人撤回要约，对方知悉被撤回之前寄出了同意要约，则合同依然成立。但如果已经知悉要约被撤回，被提出人无法同意要约。
-- 为承诺一项要约，受要约人必须表现出受要约条款约束的客观意图，并遵守要约中关于承诺的时间、地点或方式的任何具体规定，此时也不适用邮箱规则。比如要约声明，承诺必须在6月25日之前被收到才有效，实际上在26号收到，此时该承诺是无效的。
-
-> Under the mailbox rule, acceptance of an offer is generally effective upon dispatch. However, one exception to the mailbox rule applies to option contracts, where acceptance is effective upon receipt.
-
 ## 1.3 Merchant exception[UCC]
 
 - 双方如果都是商家，虽然没有书面合同，但如果一方把口头合意及时以书面形式送达给对方，对方没有在10天内提出书面反对，视为满足反欺诈法的要求。
@@ -256,13 +375,6 @@
 (2)the offeror learns of the performance within a reasonable time or
 (3)the offer indicates that notification of acceptance is not required.
 
-## 2.4 illusory offer[虚幻要约]
-
-- 虚幻要约是不对一方或双方施加义务的要约，因缺乏对价而是无效的。
-- 一个最初虚幻的要约可以在以下情况下成为有约束力的允诺：（1）情况发生变化，使得该要约对双方都施加了义务；并且（2）该要约随后被承诺。
-
-> Acceptance of an illusory offer is ineffective for lack of consideration. But such an offer can become a binding promise if (1) circumstances change such that the offer imposes obligations on both parties and (2) the offer is accepted.
-
 # 3.Implied contracts [默示合同]
 
 ## 3.1 implied-in-law ("quasi") contract[法律默示（“准”）合同]
@@ -283,142 +395,9 @@
 
 > Unfair retention of a benefit arises when (1) the defendant had an opportunity to decline the benefit but knowingly accepted it[有机会拒绝该利益但知情地接受了它] or (2) the plaintiff had a reasonable excuse for not giving the defendant such opportunity - often because of an emergency[原告有合理的理由没有给被告这样的机会——通常是由于紧急情况]. This allows the plaintiff in a quasi-contract action to recover restitutionary damages[返还性损害赔偿] equal to the reasonable value of the benefit conferred.
 
-# 4.consideration
-
-| consideration problems |  prevent contract formation |
-| --- | --- |
-| gift[赠与] |  No-bargained-for exchange |
-| token consideration [象征性对价] | No inducement to bargain if performance entirely devoid of value [如果履行完全没有价值，则无交易诱因] |
-| Sham consideration [虚假对价] | No legal detriment & no inducement to bargain if recited performance not intended to be completed [如果所述的履行本不打算完成，则无法律上的损害且无交易诱因] |
-| Preexisting duty / past consideration | No legal detriment if performance already owed or completed |
-| Illusory promise [虚幻的承诺] | No legal detriment if apparent promise imposes no obligation |
-
-- 合同变更通常必须有新的对价支持——即，每一方都必须以某种方式改变其义务——除非该变更在不可预见的情形下是公平合理的。
-- 履行已存义务的承诺或履行行为，不足以构成新的对价，且不会免除双方在初始（即未变更的）合同下的义务。
-
-> For any agreement to be enforceable, there must be consideration  - ie, a bargained-for exchange of promises or performance[经交易协商而交换的承诺或履行]. The promise to perform, or the performance of, a preexisting duty does not qualify as consideration[履行已存义务的承诺或行为，不构成有效的对价]. Under this preexisting duty rule, a debtor's promise to pay all or part of a liquidated debt (ie, one that is certain and undisputed,数额确定且无争议) is not sufficient consideration to support a creditor's return promise.
-
-## 4.1 Elements of valuable consideration
-
-> Formation of a contract generally requires a bargained-for exchange of promises or performance (ie, valuable consideration有效对价 ). The bargained-for exchange requirement is not met unless each party's willingness to enter into the contract was induced by the other party's act or promise. So if either of the parties intended to make a gift , this requirement cannot be met.
-
-### （1）bargained-for exchange[有对价的交换]
-
-- 有效对价即经协商换取的承诺或履行；
-- 放弃一项主张或抗辩的承诺构成对价（比如，签发一份免责地契）。只要（1）该主张或抗辩是有效的或处于善意纠纷之中，或（2）放弃方真诚地相信其可能是有效的。
-
-> Each party's willingness to enter agreement must be induced by other party's act/promise.If there was no bargained-for exchange (ie, consideration) to support his promise, no contract arose between the parties, and the court should rule in favor of the man.
-
-### (2)legal detriment[法律上的损害]
-
-> Each party must relinquish[放弃] legal right by either: performing (or promising to perform) act that is not legally required or refraining (or promising to refrain) from performing legally permissible act.
-
-## 4.2 无对价但有约束力的承诺
-
-### （1）支付因技术性抗辩而被禁止的债务
-
-- 承诺支付在没有技术性执行抗辩（例如，诉讼时效、破产）的情况下本可强制执行的债务.
-
-> Promise to pay debt that would be enforceable absent technical defense to enforcement (eg, statute of limitations, bankruptcy).
-
-### （2）履行可撤销的义务
-
-- 承诺履行可撤销的义务，前提是新的承诺本身不是可撤销的（例如，未成年人在成年后再次确认履行合同的承诺）
-
-> Promise to perform voidable duty, provided that new promise is not also voidable (eg, minor reaffirms promise to perform contract after reaching age of majority).
-
-### （3）为已获得的物质利益支付
-
-- 承诺为过去收到的且非意图作为赠与的物质利益付款（例如，承诺支付先前获得的紧急服务费用）
-
-> Promise to pay for material benefits received in the past & not intended as a gift (eg, promise to pay for emergency services previously received).
-
-### （4）Promissory estoppel[承诺性禁反言]/detrimental reliance
-
-- 任何承诺（例如，未来赠与的承诺），如果：(1)允诺人应合理预期受诺人会信赖该承诺;(2)受诺人因信赖该承诺而遭受损害 并且;(3)只有强制执行该承诺才能避免不公正.
-- 不要求证明受诺人的信赖为允诺人带来了经济利益。
-- 不要求所承诺的赠与价值必须与受诺人因信赖而遭受的损失大致相当。但是，受诺人的救济仅限于因信赖承诺而遭受的实际损失——而不必然是承诺的全部价值。
-
-# 5.单方合同
-
-## 5.1 gift
-
-- 赠与的承诺通常是不可强制执行的;
-- 慈善捐款承诺（charitable subscription）.
-
-> A promise to make a gift is generally unenforceable because it does not involve the bargained-for consideration required to form a valid contract. 
-> However, most courts will enforce a charitable subscription , which is a promise to contribute money or property to a charitable institution. They typically do so on promissory estoppel grounds.
-
-## 5.2 Advertisements
-
-- 广告通常被认为是旨在订立合同的要约邀请，而非要约。
-- 如果广告满足以下条件，则可以构成一般要约：（1）明确了标的物、数量和价格，并且（2）对可以承诺该要约的人设置了合理的限制。比如:All counches sold for $500 each!,members only!
-
-> Advertisements are generally considered invitations to negotiate or solicitations of offers, which create no power of acceptance in the recipient. However, an advertisement can constitute a general offer - the acceptance of which creates a binding contract - if the advertisement :specifies the subject matter, quantity, and price and places a reasonable limit on who can accept the offer.
-
-# 6.mutual assent
-
-- 合同成立需要双方合意（即要约与承诺），当双方客观地表达了他们达成一项有约束力协议的同意时，合同即告成立；
-- 一方的实际意图,比如开玩笑（intend intent），都inrrelevant.
-
-> Contract formation requires mutual assent (ie, offer and acceptance). During the negotiation process, the parties are entitled to rely on a reasonable interpretation of each other's words and actions since they cannot know each other's subjective intent. This means that a contract is formed when both parties objectively express their assent to enter a binding agreement. Once formed, the contract cannot be rescinded because of one party's secret intent not to be bound.
-
 # 二、合同的有效性 & 可执行性
 
-# 1.Preexisting Duty Rule[已经存在的法律义务]
 
-- 在普通法下，合同修改需要新的对价 (consideration)，即每一方当事人都必须以某种方式变更其义务；
-- 但是，履行或承诺履行一项已存义务 (preexisting duty) 不构成对价，并且不能支持构成对合同的修改；
-- UCC下合同的修改则不需要新的对价，只要求双方协议+善意（诚实并遵守合理的商业公平交易标准）。
-
-> Contract modifications require new consideration - ie, each party must alter his/her duties in some way. But a promise to perform, or the performance of, a preexisting duty does not constitute consideration.
-
-## 1.1  例外
-| 主要规则 | 履行已存义务的承诺（或履行本身）不构成对价 |
-| ---- | ---- |
-| New or Altered Consideration[新的/变更的对价] | If the duty is altered in some way (e.g., different performance or added obligation), then it is valid consideration.[增加新义务或变更既存义务（例如，提前到期日）] |
-| Ratification of Voidable Duty[对可撤销义务的追认] | A party re-promising to perform a duty that was previously voidable (e.g., a contract made while underage) is enforceable if ratified after the barrier (e.g., infancy) is removed.[履行可撤销义务的新承诺（例如，达到法定成年年龄时）] | 
-| 普通法例外 | （1）善意争议，对义务范围存在善意争议；（2）意外事件，鉴于不可预见的情况而进行的公平合理的修改；（3）重新承诺，尽管存在技术性抗辩（如诉讼时效、破产），但以书面或部分履行的方式重新承诺支付已存债务；（4）第三方，对第三方（即非本案合同当事人）负有的已存义务 |
-| UCC例外 | 修改 出于善意寻求的修改——即诚实并遵守公平交易的合理商业标准 | 
-
-### (1) Common Law Exceptions
-
-#### (1.1) Honest Dispute[善意争议]
-
-- If the scope of the duty is honestly disputed, a new promise may be supported by consideration.[义务范围存在善意争议]
-
-> Example: “I don’t think I agreed to paint the garage. But I’ll do it for an extra $500.” → Valid if there’s an honest dispute.
-
-#### (1.2) Unanticipated Circumstances[意外事件]
-
-- If unanticipated events occur and the parties fairly and equitably modify the contract in good faith, the modification may be enforced without new consideration.
-
-> Example: Unexpected labor shortage increases construction cost. Parties agree to pay more. If fair → valid modification.
-
-#### (1.3) Renewed Promise[续新承诺]
-
-- A debtor renews a promise to pay a debt that is barred by a technical defense (like the statute of limitations or bankruptcy).[尽管存在技术性抗辩（例如，诉讼时效、破产），但对既存债务作出新的偿付承诺，且该承诺为书面或已部分履行]
-
-> Example: Debtor writes, “I know I owe you money and I’ll pay it next month,” even though the statute of limitations expired → that written promise revives the obligation.
-
-#### (1.4) Third Party Promise
-
-- If a party promises to do something they already owe to someone else, and a third party offers a benefit for that same act, the promise can be valid consideration.[对第三方（即非本案合同当事方）负有的既存义务]
-
-> Example: A owes B a duty. C offers A $500 to fulfill that duty to B. A’s promise to C is supported by consideration.
-
-# 2.mental inllness
-
-> Mental capacity so deficient that party cannot reasonably understand (or act in relation to) nature or consequences of contract AND other party had reason to know
-
-- Voidable[可撤销的] if disaffirmed by incapacitated party when lucid[清醒的] or by legal representative.
-
-# 3.intoxication [醉酒（或吸毒、麻醉、被药物影响）]
-
-> Party too intoxicated to reasonably understand (or act in relation to) nature or consequences of contract AND other party had reason to know
-
-- Voidable[可撤销的] if promptly disaffirmed by intoxicated party upon becoming sober.
-- Intoxicated party must offer to return any consideration received & may be liable for fair value of goods or services provided
 
 # 4.Statute of Fraud/SOF [反欺诈法]
 
@@ -533,46 +512,7 @@
 | 不当影响（undue influence）| 可撤销 （voidable）|
 | 合同本身不违法，但被用作违法意图 | 可撤销 （voidable）|
 
-# 2.misunderstanding[条款理解不同]
 
-| / | general rule | waiver |
-| -- | -- | -- |
-| neither/both parties know of misunderstanding | no contract formed[合同没有成立] | either party can enforce **other party’s** understanding |
-| One party knows of misunderstanding | Contract formed based on unknowing party's understanding[如果一方知道对方的想法，合同按照对方所想成立] | Unknowing party can enforce knowing party's understanding |
-
-- It occurs when the parties to a contract attach **different meanings** to the **same term**. If the misunderstanding involves a **material term**, most often there is no contract because there is no meeting of the minds.But if **one party knows or has reason to know about the misunderstanding**, then a valid contract will be formed based on the meaning of the **term as understood** by the **unknowing party**.
-
-- Trade usage can be used to show that a word or phrase has a particular meaning—eg, that "daily service" does not include Sundays in the commercial laundry business. But trade usage will not control when a party knows that the other party attaches a different meaning to the term.
-
-- When one party to a contract knows or has reason to know that the other party attaches a different meaning to a material term, then the unknowing party's meaning of the term will control.
-
-# 3.mistake [事实认识错误]
-
-## 3.1 unilateral mistake[单方面的事实认识错误]
-
-## 3.2 mutual mistake [共同误解]
-
-> When both parties enter a contract based on the same mistake (ie, mutual mistake), the contract is voidable by the adversely affected party if[受影响的一方可以撤销合同]:
-the mistake relates to a **basic assumption** of the contract
-the mistake **materially affects** the agreed-upon exchange of performances (ie, the adversely affected party cannot fairly be required to carry it out) and
-the adversely affected party does not assume the risk of the mistake.（ie，the agreement did not expressly allocate the risk of the mistake）.
-
-## 3.3 allocate the risk
-
-- A court can allocate the risk of a mistake—ie, an erroneous belief of fact held by one or both parties—to a party upon a finding that it is reasonable in the circumstances to do so (eg, based on that party's culpability). 
-
-- But a court cannot allocate the risk of a misunderstanding—ie, the attachment of different meanings to the same term.
-
-# 4.undue influence[不当影响]
-
-- A contract is voidable for undue influence if a party's assent[同意] was the product of unfair or excessive persuasion by someone who dominate[支配] or shared a special relationship[特殊关系] of trust and confidence with that party.
-
-> Persuasion is unfair or excessive if it seriously impairs the assenting party's ability to exercise free and competent judgment. The following factors are relevant to making this determination:
-Susceptibility of the assenting party (eg, elderly, in poor health).
-Unfairness of the resulting bargain (eg, sale of business for less than half its market value).
-Unavailability of independent advice (eg, attorney unavailable to discuss sale).
-
-uld be expected to observe it.
 
 # 5.unconscionable[不合情理的]
 
