@@ -207,6 +207,24 @@
 
 # 5.defenses to formation/enforceablility
 
+|情形|结果|
+| -- | -- |
+| misunderstanding | 没有合同、没有合意，无效 (void) |
+| 胁迫（duress） | 没有合同、没有合意，无效 (void) |
+| 以违法（illegal）、违反公序良俗（contrary to public policy）为直接目的 | 没有合同、没有合意，无效 (void) |
+| 被监护人接管的精神病人签订的合同 | 没有合同、没有合意，无效 (void) |
+|没有对价、虚无的对价| 无法执行（unenforceable）|
+| 违反SOF | 无法执行（unenforceable）|
+| 不合情理（unconscionable）| 无法执行（unenforceable）|
+| 共同误解（mutual mistake）| 可撤销 （voidable）|
+| 欺诈、虚假陈述、隐瞒重要事实 | 可撤销 （voidable）|
+| 未成年签订的合同 | 可撤销 （voidable）|
+| 被酒精（药物）影响，对方明知或应知 | 可撤销 （voidable）|
+|间歇性精神病发作期间签订的合同 | 可撤销 （voidable）|
+| 非直接武力胁迫以外的不当威胁 | 可撤销 （voidable）|
+| 不当影响（undue influence）| 可撤销 （voidable）|
+| 合同本身不违法，但被用作违法意图 | 可撤销 （voidable）|
+
 ## 5.1 [M] incapacity[contract voidable]
 
 ### 5.1.1 lack of meantal capacity
@@ -221,12 +239,12 @@
 - ***necessities***:minors r bound on contracts for necessities(food,clothing,medical care,shelter).
 - ***implied affirmation***:签合同时候未成年+后来成年+retains benefit of contract without complaint.
 
-## 5.2 [M] duress
+## 5.2 [M] duress [胁迫]
 
 - physical compulsion[void]
 - non-physical/economic duress[voidable by victim]
 
-## 5.3 [M] undue influence [voidable by victim]
+## 5.3 [M] undue influence [不当影响,voidable by victim]
 
 - ***unfair persuasion*** of a person[e.g.过度的压力]
 - who is either:(a)***under the dominartion*** of the person exercising influence;
